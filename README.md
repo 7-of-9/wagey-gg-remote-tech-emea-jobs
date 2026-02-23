@@ -5,12 +5,14 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Europe & Middle East as of 23-Feb-2026 02:41 UTC** | **6,374** | **1,457** | **6,373** |
+| **Europe & Middle East as of 23-Feb-2026 03:03 UTC** | **6,376** | **1,457** | **6,375** |
 
 ## Jobs
 
 | Company | Role | Salary | Age | |
 |---------|------|--------|-----|---|
+| 🔒 ░░░░░░░░ | Solution Architect - Viator API Imple... <br><sub>🌐 Remote - UK • EMEA</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Enterprise Account Executive, Growth <br><sub>🌐 Remote - Italy • EMEA</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Full Stack Software Developer <br><sub>🏢 Budapest, Budapest, Hungary • EMEA</sub> |  | 11h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Country Lead <br><sub>🏢 Stockholm, Sweden • EMEA</sub> |  | 12h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | IT - Junior Python  Developer <br><sub>🏢 London • EMEA</sub> |  | 12h | [Pro](https://wagey.gg/pricing?ref=github) |
@@ -21,7 +23,7 @@
 | 🔒 ░░░░░░░░ | Application Security Engineer II <br><sub>🌐 Remote - UK • EMEA</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Sales Operations <br><sub>🏢 Remote -- Romania - Hybrid • EMEA</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Manager, Software Engineering - Devel... <br><sub>🌐 Remote - UK • EMEA</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Java Backend Developer <br><sub>🌐 Remote - Tunisia • EMEA</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Java Backend Developer <br><sub>🌐 Remote - Tunisia • EMEA</sub> |  | 19h | [Pro](https://wagey.gg/pricing?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=b97f147a1754d11e" alt="" height="16"> Camunda | Senior Information Security Engineer ... <br><sub>🌐 Remote - EMEA, USEAST • EMEA</sub> |  | 1d | [Apply](https://wagey.gg/jobs/4b7648c0a7e438b6-senior-information-security-engineer-application-security-at-camunda-at-camunda?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=f36da637911f94ab" alt="" height="16"> ZenRows | Technical Writer at ZenRows <br><sub>🌐 Remote - Europe • EMEA</sub> |  | 1d | [Apply](https://wagey.gg/jobs/0f5b6feb3e028cb5-technical-writer-at-zenrows-at-zenrows?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=b97f147a1754d11e" alt="" height="16"> Camunda | Logistics Solutions Principal at Camunda <br><sub>🌐 Remote - Anywhere • EMEA</sub> |  | 1d | [Apply](https://wagey.gg/jobs/c3a871586cab96e8-logistics-solutions-principal-at-camunda-at-camunda?ref=github) |
@@ -509,8 +511,6 @@
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> venatus.com | Senior Publisher Success Manager  <br><sub>🏢 London, London, UK - Hybrid • EMEA</sub> |  | 3d | [Apply](https://wagey.gg/jobs/0e7df3ff36ab6bfd-senior-publisher-success-manager-at-venatus-com?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9adc4c161a1907e9" alt="" height="16"> lemfi | Senior Platform Engineer <br><sub>🏢 London, London, United Kingdom • EMEA</sub> |  | 3d | [Apply](https://wagey.gg/jobs/bfd100e513544c94-senior-platform-engineer-at-lemfi?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=e37d70e5121bac62" alt="" height="16"> Mapbox | Senior Manager, Enterprise Customer I... <br><sub>🌐 Remote - United Kingdom • EMEA</sub> |  | 3d | [Apply](https://wagey.gg/jobs/f67a7a0341bd066b-senior-manager-enterprise-customer-implementation-at-mapbox?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=e37d70e5121bac62" alt="" height="16"> Mapbox | Senior Manager, Customer Delivery <br><sub>🌐 Remote - United Kingdom • EMEA</sub> |  | 3d | [Apply](https://wagey.gg/jobs/16fcc23f7a39bb43-senior-manager-customer-delivery-at-mapbox?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_9239ca313fc57cec" alt="" height="16"> choco | Senior Customer Success Operations Ma... <br><sub>🏢 London, London, United Kingdom • EMEA</sub> |  | 3d | [Apply](https://wagey.gg/jobs/d299439a44aa8c66-senior-customer-success-operations-manager-at-choco?ref=github) |
 
 
 > Upload your CV at [wagey.gg](https://wagey.gg?ref=github) for smart matching and one-click apply.

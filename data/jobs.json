@@ -133808,5 +133808,49 @@
     "scrapedAt": "2026-02-22T15:19:08.346Z",
     "url": null,
     "visibility": "teaser"
+  },
+  {
+    "id": "7c11656ad49247aa",
+    "title": "Enterprise Account Executive, Growth",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Salesforce",
+      "Prospecting",
+      "Grafana",
+      "Account Management"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-22T21:00:57.323Z",
+    "scrapedAt": "2026-02-22T21:00:56.646Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5621ccd8c0e16756",
+    "title": "Solution Architect - Viator API Implementation",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Postman",
+      "Swagger",
+      "E-commerce",
+      "B2C"
+    ],
+    "seniority": "principal",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-22T21:01:37.746Z",
+    "scrapedAt": "2026-02-22T21:01:37.056Z",
+    "url": null,
+    "visibility": "teaser"
   }
 ]
