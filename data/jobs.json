@@ -105118,7 +105118,7 @@
     "verifiedAt": "2026-02-23T15:22:28.720Z",
     "scrapedAt": "2026-02-16T22:10:56.590Z",
     "url": "https://wagey.gg/jobs/0571b8c15f2c3f9e-talent-partner-at-physicsx?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a58e3169f5f23b7c",
@@ -105140,7 +105140,7 @@
     "verifiedAt": "2026-02-23T15:13:39.390Z",
     "scrapedAt": "2026-02-16T22:15:49.760Z",
     "url": "https://wagey.gg/jobs/a58e3169f5f23b7c-technical-recruiter-at-adaptive-ml?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "08002e3f63af5b98",
@@ -105162,7 +105162,7 @@
     "verifiedAt": "2026-02-23T10:55:36.346Z",
     "scrapedAt": "2026-02-16T22:16:11.670Z",
     "url": "https://wagey.gg/jobs/08002e3f63af5b98-appfollow-senior-frontend-engineer-growth-team-at-appfollow?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "48f0611a29b45f09",
@@ -134471,7 +134471,7 @@
   {
     "id": "21b7e0271e032511",
     "title": "Pennylane - DevOps Engineer (remote) 🇪🇺",
-    "company": null,
+    "company": "",
     "region": "EMEA",
     "salary": "$206k/year",
     "salaryMin": 205594,
@@ -134487,13 +134487,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-23T09:30:37.786Z",
     "scrapedAt": "2026-02-22T21:23:18.293Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/21b7e0271e032511-pennylane-devops-engineer-remote-at?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b5a477788310a696",
     "title": "Data Center Operations Manager",
-    "company": null,
+    "company": "",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134508,8 +134508,8 @@
     "ats": "lever",
     "verifiedAt": "2026-02-23T09:30:34.770Z",
     "scrapedAt": "2026-02-22T21:23:37.860Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b5a477788310a696-data-center-operations-manager-at?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ce5deafe3c5daf8a",
@@ -136259,6 +136259,238 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-23T14:59:17.566Z",
     "scrapedAt": "2026-02-23T14:59:16.956Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "538e6c3173634233",
+    "title": "Analytics Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting",
+      "Documentation",
+      "Snowflake",
+      "SQL",
+      "dbt",
+      "Redshift",
+      "Airflow",
+      "Python",
+      "Data Governance"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-23T15:39:52.483Z",
+    "scrapedAt": "2026-02-23T15:39:51.316Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f5d2f928e698f5cf",
+    "title": "Principal Site Reliability Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "AWS",
+      "Copper"
+    ],
+    "seniority": "principal",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-23T15:40:08.720Z",
+    "scrapedAt": "2026-02-23T15:40:08.153Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ea4ea2671961ad61",
+    "title": "Full Stack Developer ( for online security service)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Full Stack",
+      "React",
+      "AWS",
+      "C++",
+      "Spring Boot",
+      "PostgreSQL"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-23T15:40:22.140Z",
+    "scrapedAt": "2026-02-23T15:40:20.870Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "7008474c70421e1b",
+    "title": "IT Team Lead",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$154k/year",
+    "salaryMin": 153920,
+    "salaryMax": 153920,
+    "skills": [
+      "Team Management",
+      "Team Leadership",
+      "Coaching",
+      "ITIL",
+      "Documentation",
+      "Account Management",
+      "Stakeholder Management",
+      "Workforce Planning"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T15:40:30.466Z",
+    "scrapedAt": "2026-02-23T15:40:29.660Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "39fdb79bad843e38",
+    "title": "Finance Operations & Systems (Internship)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "SAP",
+      "SQL",
+      "Documentation",
+      "Governance",
+      "Meeting Preparation"
+    ],
+    "seniority": "intern",
+    "ats": "lever",
+    "verifiedAt": "2026-02-23T15:41:22.890Z",
+    "scrapedAt": "2026-02-23T15:41:22.283Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "03ec825f2ddb2478",
+    "title": "DevOps (Mid-level) (m/f/d)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Bash",
+      "Python",
+      "Terraform",
+      "D2C",
+      "B2C",
+      "E-commerce"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T15:41:31.866Z",
+    "scrapedAt": "2026-02-23T15:41:31.120Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "7244c6a65934d4d2",
+    "title": "Python Tech Lead",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting",
+      "SQL",
+      "MLOps",
+      "TypeScript",
+      "GraphQL",
+      "Python"
+    ],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-02-23T15:41:38.080Z",
+    "scrapedAt": "2026-02-23T15:41:37.380Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "478118115b9c55d3",
+    "title": "Senior Solutions Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Customer Success",
+      "B2B",
+      "Excel",
+      "Governance",
+      "JavaScript",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Enterprise Sales"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T15:41:47.080Z",
+    "scrapedAt": "2026-02-23T15:41:46.160Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "199d2b245336e8ae",
+    "title": "Senior Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Product Marketing"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T15:42:12.326Z",
+    "scrapedAt": "2026-02-23T15:42:11.756Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a4b693ce413c9722",
+    "title": "Software Engineer, Front End Leaning (Accessibility)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "React",
+      "Storybook",
+      "Cypress",
+      "Playwright",
+      "Figma"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T15:42:30.956Z",
+    "scrapedAt": "2026-02-23T15:42:30.296Z",
     "url": null,
     "visibility": "teaser"
   }
