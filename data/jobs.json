@@ -105418,7 +105418,7 @@
     "verifiedAt": "2026-02-23T22:50:08.120Z",
     "scrapedAt": "2026-02-17T09:11:19.256Z",
     "url": "https://wagey.gg/jobs/6bf30830076a4445-impossible-cloud-customer-support-level-2-at-impossible-cloud?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "901f525035101459",
@@ -105436,7 +105436,7 @@
     "verifiedAt": "2026-02-23T22:50:14.310Z",
     "scrapedAt": "2026-02-17T09:12:22.450Z",
     "url": "https://wagey.gg/jobs/901f525035101459-binance-africa-business-partnership-manager-at-binance?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "3bb35fbb9c9ca708",
@@ -137641,6 +137641,409 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-24T01:19:39.036Z",
     "scrapedAt": "2026-02-24T01:19:38.180Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "cf14e678c9142050",
+    "title": "Linux Agent Developer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Linux",
+      ".NET Core",
+      ".NET",
+      "C#",
+      "C++",
+      "REST",
+      "Jira",
+      "Bash",
+      "Shell"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:43:06.563Z",
+    "scrapedAt": "2026-02-24T02:43:05.793Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "37beb1fea18bcccb",
+    "title": "Senior Community Specialist",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Storytelling",
+      "B2B",
+      "Reporting"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-24T02:43:36.183Z",
+    "scrapedAt": "2026-02-24T02:43:35.663Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e431600781b9911d",
+    "title": "Machine Learning Engineer, AI Evaluation",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Full Stack"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T02:44:15.943Z",
+    "scrapedAt": "2026-02-24T02:44:15.483Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "817b1d0306218e71",
+    "title": "Director of Quality",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Account Management",
+      "Change Management",
+      "Reporting",
+      "Team Leadership",
+      "Performance Management",
+      "Resource Allocation",
+      "Lean Six Sigma",
+      "Governance",
+      "Coaching",
+      "Mentoring"
+    ],
+    "seniority": "director",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:45:54.183Z",
+    "scrapedAt": "2026-02-24T02:45:53.350Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f901222ebed5d2a0",
+    "title": "Senior Compensation Analyst",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Excel",
+      "Workday",
+      "Data Analysis"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T02:46:04.846Z",
+    "scrapedAt": "2026-02-24T02:46:04.426Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "76d0be0cba364e4e",
+    "title": "Staff Machine Learning Researcher",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Linear",
+      "Close"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-24T02:46:34.253Z",
+    "scrapedAt": "2026-02-24T02:46:33.760Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3dc9010cd0d7d05d",
+    "title": "Engineering Manager (Infrastructure)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Team Leadership",
+      "Mentoring",
+      "Coaching",
+      "Stakeholder Management"
+    ],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:47:01.963Z",
+    "scrapedAt": "2026-02-24T02:47:01.346Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "af6baf910531fc8d",
+    "title": "Senior AI/ML Architect",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Snowflake",
+      "Client Consulting",
+      "AWS",
+      "SQL",
+      "Python",
+      "Salesforce",
+      "Governance",
+      "Data Governance",
+      "CRM Management"
+    ],
+    "seniority": "principal",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:48:16.206Z",
+    "scrapedAt": "2026-02-24T02:48:15.446Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8c1dbc551884b2d8",
+    "title": "Anchorage Digital - Regional Institutional Manager, Middle East",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "Close",
+      "B2B"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:52:13.510Z",
+    "scrapedAt": "2026-02-24T02:51:56.200Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "1181bfe1a9eb4bbf",
+    "title": "Anchorage Digital - Member of Product, Blockchain",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Leadership"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:52:44.910Z",
+    "scrapedAt": "2026-02-24T02:52:28.763Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e13155031627bcc7",
+    "title": "Senior Software Engineer, Backend (Repayment UX Engineering)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Kotlin",
+      "Python",
+      "AWS",
+      "Kubernetes",
+      "MySQL",
+      "Airflow",
+      "Snowflake"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T02:59:58.976Z",
+    "scrapedAt": "2026-02-24T02:59:58.303Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e0d0293ec33277e1",
+    "title": "Engineering Director",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Python",
+      "CRM Management",
+      "Governance"
+    ],
+    "seniority": "director",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T03:00:45.296Z",
+    "scrapedAt": "2026-02-24T03:00:44.790Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8eea74f3d40dfcfa",
+    "title": "Associate Solutions Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Prospecting"
+    ],
+    "seniority": "junior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T03:02:14.670Z",
+    "scrapedAt": "2026-02-24T03:02:14.240Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "1de11b0259e34bb6",
+    "title": "Middle/Senior Graphic Designer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "CRM Management",
+      "Figma",
+      "Adobe Creative Suite"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T03:02:40.210Z",
+    "scrapedAt": "2026-02-24T03:02:39.686Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "27a3cc9630ba2464",
+    "title": "Group Product Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Procurement",
+      "Team Management",
+      "Team Leadership",
+      "Storytelling"
+    ],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T03:03:01.060Z",
+    "scrapedAt": "2026-02-24T03:03:00.526Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "6361d5ef3cebbd86",
+    "title": "Senior Software Engineer, Machine Learning (EST or EMEA)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$195k–$225k/year",
+    "salaryMin": 195000,
+    "salaryMax": 225000,
+    "skills": [
+      "Python",
+      "AWS",
+      "MLOps",
+      "Kubernetes",
+      "Mentoring"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T03:03:01.806Z",
+    "scrapedAt": "2026-02-24T03:03:01.160Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a47d18436cdbec0f",
+    "title": "Digital & Data Compliance Specialist / IT Contract Lawyer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$749k/year",
+    "salaryMin": 748800,
+    "salaryMax": 748800,
+    "skills": [
+      "Coaching",
+      "Contract Review",
+      "Documentation",
+      "Close",
+      "Procurement",
+      "Talent Acquisition"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T03:03:22.250Z",
+    "scrapedAt": "2026-02-24T03:03:21.563Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "78c40f7353c68534",
+    "title": "Engineering Director",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "seniority": "director",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T03:04:02.133Z",
+    "scrapedAt": "2026-02-24T03:04:01.683Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "60b0f6240095e976",
+    "title": "Clinical Research Associate I/ Clinical Research Associate II",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "CRO"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T03:04:18.580Z",
+    "scrapedAt": "2026-02-24T03:04:18.116Z",
     "url": null,
     "visibility": "teaser"
   }
