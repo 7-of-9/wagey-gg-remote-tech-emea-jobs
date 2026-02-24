@@ -4,7 +4,7 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Europe & Middle East as of 24-Feb-2026 12:13 UTC** | **6,611** | **1,518** | **6,610** |
+| **Europe & Middle East as of 24-Feb-2026 12:15 UTC** | **6,611** | **1,518** | **6,610** |
 
 ## Jobs
 
