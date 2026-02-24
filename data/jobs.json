@@ -134983,7 +134983,7 @@
     "verifiedAt": "2026-02-24T08:28:23.560Z",
     "scrapedAt": "2026-02-23T14:59:16.956Z",
     "url": "https://wagey.gg/jobs/b943a57b71fd7fce-senior-aml-specialist-eu-at?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "538e6c3173634233",
@@ -139899,6 +139899,99 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-24T15:15:11.926Z",
     "scrapedAt": "2026-02-24T15:15:10.950Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f67d603ccbf82d96",
+    "title": "Engineering Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$104k/year",
+    "salaryMin": 104000,
+    "salaryMax": 104000,
+    "skills": [
+      "Rust",
+      "Go",
+      "Contract Management",
+      "Smart Contracts"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-24T16:34:24.196Z",
+    "scrapedAt": "2026-02-24T16:34:21.846Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8d59442b249304c3",
+    "title": "Senior Security Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "Smart Contracts",
+      "Slack",
+      "Documentation"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T16:34:51.646Z",
+    "scrapedAt": "2026-02-24T16:34:48.583Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "d8878f01eb5ac7b6",
+    "title": "Senior Backend Engineer, Node.js + AWS",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$154k/year",
+    "salaryMin": 153920,
+    "salaryMax": 153920,
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "AWS",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "Excel",
+      "Optimism",
+      "Brownie"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-24T16:35:16.900Z",
+    "scrapedAt": "2026-02-24T16:35:14.773Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "7d81a5bcfd22e6e7",
+    "title": "Engineering Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$104k/year",
+    "salaryMin": 104000,
+    "salaryMax": 104000,
+    "skills": [
+      "Rust",
+      "Go",
+      "C++",
+      "React Native",
+      "Stakeholder Management"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-24T16:35:29.323Z",
+    "scrapedAt": "2026-02-24T16:35:26.920Z",
     "url": null,
     "visibility": "teaser"
   }
