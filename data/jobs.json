@@ -39746,28 +39746,6 @@
     "visibility": "full"
   },
   {
-    "id": "fd6b67e121f3",
-    "title": "Coach (passioné pédagogie) - AI x EdTech (Full remote - French fluent 🇫🇷)",
-    "company": "paradox",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "hypothesis",
-      "Close",
-      "Coaching",
-      "Instructional Design",
-      "Mentoring"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-02T08:13:57.883Z",
-    "url": "https://wagey.gg/jobs/fd6b67e121f3-coach-passion-p-dagogie-ai-x-edtech-full-remote-french-fluent-at-paradox?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "5d9824ca3eb5",
     "title": "Product Manager (PM) - AI x EdTech -  French fluent 🇫🇷",
     "company": "paradox",
@@ -104730,28 +104708,6 @@
     "visibility": "full"
   },
   {
-    "id": "06bea4fdfe4b6c6d",
-    "title": "Senior Developer Educator/Technical Writer",
-    "company": "Ably (UK)",
-    "region": "EMEA",
-    "salary": "$16k/year",
-    "salaryMin": 16250,
-    "salaryMax": 16250,
-    "skills": [
-      "JavaScript",
-      "Content Creation",
-      "Technical Writing",
-      "Change Management",
-      "Learning & Development"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-17T23:30:26.520Z",
-    "url": "https://wagey.gg/jobs/06bea4fdfe4b6c6d-senior-developer-educator-technical-writer-at-ably-uk?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "3f8d211bb416d2e7",
     "title": "RegTech Engineering Lead (f/m/d)",
     "company": "Raisin",
@@ -105492,25 +105448,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-18T01:40:29.183Z",
     "url": "https://wagey.gg/jobs/1ac7a44d8e7085db-mid-weight-designer-united-kingdom-at-autogenai?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "8075c0b9d3857c28",
-    "title": "Team Leader (Affiliate Marketing - Client Services)",
-    "company": "Awin ",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Account Management",
-      "Team Management"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-18T01:40:29.700Z",
-    "url": "https://wagey.gg/jobs/8075c0b9d3857c28-team-leader-affiliate-marketing-client-services-at-awin?ref=github",
     "visibility": "full"
   },
   {
@@ -131356,7 +131293,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:43:05.793Z",
     "url": "https://wagey.gg/jobs/cf14e678c9142050-linux-agent-developer-at-controlup?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "37beb1fea18bcccb",
@@ -131376,7 +131313,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:43:35.663Z",
     "url": "https://wagey.gg/jobs/37beb1fea18bcccb-senior-community-specialist-at-tem?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "817b1d0306218e71",
@@ -131398,7 +131335,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:45:53.350Z",
     "url": "https://wagey.gg/jobs/817b1d0306218e71-director-of-quality-at-welocalize?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "76d0be0cba364e4e",
@@ -131417,7 +131354,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:46:33.760Z",
     "url": "https://wagey.gg/jobs/76d0be0cba364e4e-staff-machine-learning-researcher-at-orbital?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "3dc9010cd0d7d05d",
@@ -131439,7 +131376,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:47:01.346Z",
     "url": "https://wagey.gg/jobs/3dc9010cd0d7d05d-swissborg-engineering-manager-infrastructure-at-swissborg?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "af6baf910531fc8d",
@@ -131465,7 +131402,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:48:15.446Z",
     "url": "https://wagey.gg/jobs/af6baf910531fc8d-senior-ai-ml-architect-at-bluecloud-services-inc?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "8c1dbc551884b2d8",
@@ -131485,7 +131422,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:51:56.200Z",
     "url": "https://wagey.gg/jobs/8c1dbc551884b2d8-anchorage-digital-regional-institutional-manager-middle-east-at-anchorage-digita?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "1181bfe1a9eb4bbf",
@@ -131503,7 +131440,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:52:28.763Z",
     "url": "https://wagey.gg/jobs/1181bfe1a9eb4bbf-anchorage-digital-member-of-product-blockchain-at-anchorage-digital?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "e13155031627bcc7",
