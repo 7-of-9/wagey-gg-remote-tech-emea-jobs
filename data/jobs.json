@@ -27660,28 +27660,6 @@
     "visibility": "full"
   },
   {
-    "id": "c3adae6b65db",
-    "title": "Compliance Operations Manager",
-    "company": "Blockchain.com",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Reporting",
-      "Team Management",
-      "Team Leadership",
-      "Training Development",
-      "Regulatory Compliance"
-    ],
-    "seniority": "staff",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T00:37:44.213Z",
-    "scrapedAt": "2026-01-25T10:27:38.520Z",
-    "url": "https://wagey.gg/jobs/c3adae6b65db-compliance-operations-manager-at-blockchain-com?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "2e2549657c32",
     "title": "Sales Engineering Manager, Enterprise, EMEA",
     "company": "Notion",
@@ -44405,27 +44383,6 @@
     "verifiedAt": "2026-02-26T00:36:51.393Z",
     "scrapedAt": "2026-02-08T14:20:52.720Z",
     "url": "https://wagey.gg/jobs/fa4b828d17c9-infrastructure-engineer-edge-compute-at-telnyx?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "60f090a4eba4",
-    "title": "Major Account Executive",
-    "company": "Anaplan",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Prospecting",
-      "ACV",
-      "Workforce Planning",
-      "Outreach"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T00:37:15.613Z",
-    "scrapedAt": "2026-02-08T14:20:54.143Z",
-    "url": "https://wagey.gg/jobs/60f090a4eba4-major-account-executive-at-anaplan?ref=github",
     "visibility": "full"
   },
   {
@@ -134542,7 +134499,7 @@
   {
     "id": "129fc44aa442670e",
     "title": "Kpler - Dry Bulk Market Data Analyst",
-    "company": null,
+    "company": "kpler",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134558,13 +134515,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T13:51:16.423Z",
     "scrapedAt": "2026-02-24T14:31:47.920Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/129fc44aa442670e-kpler-dry-bulk-market-data-analyst-at-kpler?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5090f30a556f2102",
     "title": "Quantitative Freight Analyst - Dry Bulk",
-    "company": null,
+    "company": "kpler",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134579,13 +134536,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T13:51:28.416Z",
     "scrapedAt": "2026-02-24T14:31:48.696Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5090f30a556f2102-quantitative-freight-analyst-dry-bulk-at-kpler?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3701b68699cbca78",
     "title": "Driver (UAE Licensed)",
-    "company": null,
+    "company": "econstruct",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134601,13 +134558,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T13:51:37.386Z",
     "scrapedAt": "2026-02-24T14:31:49.173Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3701b68699cbca78-driver-uae-licensed-at-econstruct?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8444e30975a95c10",
     "title": "Physical Security Manager ",
-    "company": null,
+    "company": "Graphcore",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134623,13 +134580,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T01:09:11.440Z",
     "scrapedAt": "2026-02-24T14:31:56.640Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8444e30975a95c10-physical-security-manager-at-graphcore?ref=github",
+    "visibility": "full"
   },
   {
     "id": "14c5a65339522807",
     "title": "Senior Security Engineer",
-    "company": null,
+    "company": "Nansen.ai",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134645,13 +134602,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T01:09:07.250Z",
     "scrapedAt": "2026-02-24T14:31:58.460Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/14c5a65339522807-senior-security-engineer-at-nansen-ai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a15d117f98ed5556",
     "title": "Binance - Head of Market Supervision",
-    "company": null,
+    "company": "binance",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134666,13 +134623,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T13:52:00.643Z",
     "scrapedAt": "2026-02-24T14:31:58.980Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a15d117f98ed5556-binance-head-of-market-supervision-at-binance?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e8a33ef86fa1eccd",
     "title": "Senior Stakeholder Engagement Manager",
-    "company": null,
+    "company": "Pay.UK",
     "region": "EMEA",
     "salary": "$28k/year",
     "salaryMin": 28064,
@@ -134685,13 +134642,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T01:09:19.310Z",
     "scrapedAt": "2026-02-24T14:32:00.543Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e8a33ef86fa1eccd-senior-stakeholder-engagement-manager-at-pay-uk?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9238c297c7e49f7b",
     "title": "Octopus Energy Group - Engineering Manager",
-    "company": null,
+    "company": "octoenergy",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134707,13 +134664,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T13:52:12.826Z",
     "scrapedAt": "2026-02-24T14:32:02.716Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9238c297c7e49f7b-octopus-energy-group-engineering-manager-at-octoenergy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1ec6d3311dff7056",
     "title": "Trendyol - Global Payments Leaders",
-    "company": null,
+    "company": "trendyol",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134727,13 +134684,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T13:52:09.546Z",
     "scrapedAt": "2026-02-24T14:32:02.730Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1ec6d3311dff7056-trendyol-global-payments-leaders-at-trendyol?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2e138f084c617f71",
     "title": "Voice Talent Required - Spanish (Spain)",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134745,13 +134702,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:07:59.036Z",
     "scrapedAt": "2026-02-24T14:32:03.050Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2e138f084c617f71-voice-talent-required-spanish-spain-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4d1fa840a43b8356",
     "title": "Voice Talent Required - Portuguese (Portugal)",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134764,13 +134721,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:02.740Z",
     "scrapedAt": "2026-02-24T14:32:03.103Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4d1fa840a43b8356-voice-talent-required-portuguese-portugal-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3d440d20f16b64ba",
     "title": "Voice Talent Required - Dutch Netherlands",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134782,13 +134739,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:18.463Z",
     "scrapedAt": "2026-02-24T14:32:05.370Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3d440d20f16b64ba-voice-talent-required-dutch-netherlands-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "0ed24023d65a54b5",
     "title": "Voice Talent Required - Arabic (Saudi Arabia)",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134801,13 +134758,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:19.133Z",
     "scrapedAt": "2026-02-24T14:32:05.483Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/0ed24023d65a54b5-voice-talent-required-arabic-saudi-arabia-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fbcdb3340f71e028",
     "title": "Voice Talent Required - Welsh ",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134819,13 +134776,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:22.170Z",
     "scrapedAt": "2026-02-24T14:32:05.986Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fbcdb3340f71e028-voice-talent-required-welsh-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "976d8495659796a7",
     "title": "Voice Talent Required - Russian ",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134838,13 +134795,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:25.646Z",
     "scrapedAt": "2026-02-24T14:32:06.090Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/976d8495659796a7-voice-talent-required-russian-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9f2d8fd6297ad520",
     "title": "Voice Talent Required - Welsh English",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134856,13 +134813,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:29.826Z",
     "scrapedAt": "2026-02-24T14:32:06.713Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9f2d8fd6297ad520-voice-talent-required-welsh-english-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "250f1c506bab2216",
     "title": "Voice Talent Required - English United Kingdom",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134874,13 +134831,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:43.156Z",
     "scrapedAt": "2026-02-24T14:32:07.746Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/250f1c506bab2216-voice-talent-required-english-united-kingdom-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2c973f4f41fa60af",
     "title": "Customer Success Manager",
-    "company": null,
+    "company": "delinea",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134895,13 +134852,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:55.123Z",
     "scrapedAt": "2026-02-24T14:32:10.250Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2c973f4f41fa60af-customer-success-manager-at-delinea?ref=github",
+    "visibility": "full"
   },
   {
     "id": "6fa4e03b5dea771b",
     "title": "Voice Talent Required - Romanian ",
-    "company": null,
+    "company": "lilt-production",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134913,13 +134870,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:08:51.343Z",
     "scrapedAt": "2026-02-24T14:32:10.363Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/6fa4e03b5dea771b-voice-talent-required-romanian-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bbb4528d136a2e42",
     "title": "Data Product Partner - London",
-    "company": null,
+    "company": "perk",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134935,13 +134892,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:09.436Z",
     "scrapedAt": "2026-02-24T14:32:10.506Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bbb4528d136a2e42-data-product-partner-london-at-perk?ref=github",
+    "visibility": "full"
   },
   {
     "id": "54e25ab7617e000c",
     "title": "Machine Learning Engineer ",
-    "company": null,
+    "company": "faculty",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -134957,13 +134914,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:03.546Z",
     "scrapedAt": "2026-02-24T14:32:10.786Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/54e25ab7617e000c-machine-learning-engineer-at-faculty?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3a666aad64136c61",
     "title": "IT Support Technician | EMEA (Monday to Friday)",
-    "company": null,
+    "company": "Deel",
     "region": "EMEA",
     "salary": "$154k/year",
     "salaryMin": 153920,
@@ -134979,13 +134936,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:12.706Z",
     "scrapedAt": "2026-02-24T14:32:11.013Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3a666aad64136c61-it-support-technician-emea-monday-to-friday-at-deel?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2959844fca0fca33",
     "title": "Senior Operations Manager | EMEA",
-    "company": null,
+    "company": "Deel",
     "region": "EMEA",
     "salary": "$154k/year",
     "salaryMin": 153920,
@@ -135001,13 +134958,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:06.156Z",
     "scrapedAt": "2026-02-24T14:32:11.446Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2959844fca0fca33-senior-operations-manager-emea-at-deel?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9b7cba36075c91f9",
     "title": "Senior Data Engineer",
-    "company": null,
+    "company": "synthesia",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135023,13 +134980,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:19.306Z",
     "scrapedAt": "2026-02-24T14:32:13.060Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9b7cba36075c91f9-senior-data-engineer-at-synthesia?ref=github",
+    "visibility": "full"
   },
   {
     "id": "35a023fe2bb7f66e",
     "title": "Senior Account Executive - Life Sciences",
-    "company": null,
+    "company": "patsnap",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135045,13 +135002,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T13:52:28.440Z",
     "scrapedAt": "2026-02-24T14:32:13.633Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/35a023fe2bb7f66e-senior-account-executive-life-sciences-at-patsnap?ref=github",
+    "visibility": "full"
   },
   {
     "id": "18b3e320e1feee81",
     "title": "DevOps / Infrastructure Engineer",
-    "company": null,
+    "company": "OnHires",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135067,13 +135024,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:41.323Z",
     "scrapedAt": "2026-02-24T14:32:14.506Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/18b3e320e1feee81-devops-infrastructure-engineer-at-onhires?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fc091694a7e4e2aa",
     "title": "Staff Optical Engineer – Optical Interconnect & Optical Communications",
-    "company": null,
+    "company": "olix",
     "region": "EMEA",
     "salary": "$219k–$267k/year",
     "salaryMin": 218573,
@@ -135085,13 +135042,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:32.053Z",
     "scrapedAt": "2026-02-24T14:32:16.330Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fc091694a7e4e2aa-staff-optical-engineer-optical-interconnect-optical-communications-at-olix?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cc69f15b8fa93e92",
     "title": "Security Engineer",
-    "company": null,
+    "company": "kissmyapps",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135107,13 +135064,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:45.406Z",
     "scrapedAt": "2026-02-24T14:32:16.940Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cc69f15b8fa93e92-security-engineer-at-kissmyapps?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b99ad9f7964ca600",
     "title": "Content & Social Marketer",
-    "company": null,
+    "company": "happl",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135129,13 +135086,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:51.916Z",
     "scrapedAt": "2026-02-24T14:32:17.880Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b99ad9f7964ca600-content-social-marketer-at-happl?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2e985f2b3423aef2",
     "title": "Performance Marketing Manager",
-    "company": null,
+    "company": "happl",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135151,13 +135108,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:10:13.530Z",
     "scrapedAt": "2026-02-24T14:32:17.970Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2e985f2b3423aef2-performance-marketing-manager-at-happl?ref=github",
+    "visibility": "full"
   },
   {
     "id": "73c3a21286b82efb",
     "title": "Software Automation Engineer",
-    "company": null,
+    "company": "happl",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135173,13 +135130,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:09:54.466Z",
     "scrapedAt": "2026-02-24T14:32:18.016Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/73c3a21286b82efb-software-automation-engineer-at-happl?ref=github",
+    "visibility": "full"
   },
   {
     "id": "30294dbae0fac98a",
     "title": "Content Marketing Manager",
-    "company": null,
+    "company": "happl",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135195,13 +135152,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:10:04.803Z",
     "scrapedAt": "2026-02-24T14:32:18.350Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/30294dbae0fac98a-content-marketing-manager-at-happl?ref=github",
+    "visibility": "full"
   },
   {
     "id": "dac5a5846f50682b",
     "title": "Staff Product Engineer",
-    "company": null,
+    "company": "accurx",
     "region": "EMEA",
     "salary": "$148k–$182k/year",
     "salaryMin": 148414,
@@ -135217,13 +135174,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:10:08.920Z",
     "scrapedAt": "2026-02-24T14:32:18.686Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/dac5a5846f50682b-staff-product-engineer-at-accurx?ref=github",
+    "visibility": "full"
   },
   {
     "id": "43717acd1b3293a3",
     "title": "Senior Product Manager",
-    "company": null,
+    "company": "ideals",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135239,13 +135196,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:10:31.100Z",
     "scrapedAt": "2026-02-24T14:32:20.163Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/43717acd1b3293a3-senior-product-manager-at-ideals?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f866874ec5d57f7e",
     "title": "Enterprise Sales Executive",
-    "company": null,
+    "company": "solidgate",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135257,13 +135214,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:10:19.300Z",
     "scrapedAt": "2026-02-24T14:32:21.560Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f866874ec5d57f7e-enterprise-sales-executive-at-solidgate?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fb97ead8383fb24c",
     "title": "Junior Mobile Automation QA | GT",
-    "company": null,
+    "company": "gt-hq",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135279,13 +135236,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T01:10:23.490Z",
     "scrapedAt": "2026-02-24T14:32:21.593Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fb97ead8383fb24c-junior-mobile-automation-qa-gt-at-gt-hq?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bb05c042f256f540",
     "title": "Senior Product Designer, Core UX & Mobile",
-    "company": null,
+    "company": "PandaDoc",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -135295,13 +135252,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T01:44:22.906Z",
     "scrapedAt": "2026-02-24T15:12:07.890Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bb05c042f256f540-senior-product-designer-core-ux-mobile-at-pandadoc?ref=github",
+    "visibility": "full"
   },
   {
     "id": "d396e58edf5df6fb",
     "title": "Senior Software Engineer I",
-    "company": null,
+    "company": "GOAT Group",
     "region": "EMEA",
     "salary": "$147k–$184k/year",
     "salaryMin": 147200,
@@ -135317,8 +135274,8 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T01:47:03.170Z",
     "scrapedAt": "2026-02-24T15:15:10.950Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/d396e58edf5df6fb-senior-software-engineer-i-at-goat-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f67d603ccbf82d96",
