@@ -11673,28 +11673,6 @@
     "visibility": "full"
   },
   {
-    "id": "ebd4b2794953",
-    "title": "Software Engineer",
-    "company": "Tines",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Redis",
-      "Rails",
-      "React",
-      "Docker",
-      "Ruby"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-21T04:57:31.270Z",
-    "url": "https://wagey.gg/jobs/ebd4b2794953-software-engineer-at-tines?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "f2d69b46fff1",
     "title": "Linux Engineering Manager",
     "company": "Jane Street",
@@ -11980,28 +11958,6 @@
     "visibility": "full"
   },
   {
-    "id": "f3378551176d",
-    "title": "Senior Software Engineer Java",
-    "company": "mirakllabs",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Java",
-      "Spring",
-      "React",
-      "Spring Boot",
-      "Kafka"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-21T05:03:23.200Z",
-    "url": "https://wagey.gg/jobs/f3378551176d-senior-software-engineer-java-at-mirakllabs?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "b983d967be50",
     "title": "Software Quality Engineer",
     "company": "Ketryx",
@@ -12214,28 +12170,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-01-21T05:44:18.926Z",
     "url": "https://wagey.gg/jobs/4475d591ed95-eleks-senior-data-engineer-energy-tscm-42680-tscm-43475-tscm-43477-at-eleks?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "7d07384a6bc8",
-    "title": "Mytos - Junior/Mid Software Engineer",
-    "company": "Mytos",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "TypeScript",
-      "Learning & Development",
-      "React",
-      "Node.js",
-      "PostgreSQL"
-    ],
-    "seniority": "junior",
-    "ats": "lever",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-21T05:44:23.733Z",
-    "url": "https://wagey.gg/jobs/7d07384a6bc8-mytos-junior-mid-software-engineer-at-mytos?ref=github",
     "visibility": "full"
   },
   {
@@ -18764,28 +18698,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-01-22T13:50:32.616Z",
     "url": "https://wagey.gg/jobs/09b5dadb4fb2-automations-engineer-at-elevenlabs?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "b23454283c44",
-    "title": "SoundStack - Senior Go Backend Developer",
-    "company": "Soundstack",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Go",
-      "Documentation",
-      "Technical Writing",
-      "Kubernetes",
-      "C++"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-22T13:50:37.530Z",
-    "url": "https://wagey.gg/jobs/b23454283c44-soundstack-senior-go-backend-developer-at-soundstack?ref=github",
     "visibility": "full"
   },
   {
@@ -30394,50 +30306,6 @@
     "visibility": "full"
   },
   {
-    "id": "bbc3427a0e3e",
-    "title": "Backend Developer Voice AI (Fluent in Russian)",
-    "company": "Lavendo",
-    "region": "EMEA",
-    "salary": "$77k–$104k/year",
-    "salaryMin": 76800,
-    "salaryMax": 104400,
-    "skills": [
-      "Russian",
-      "Project Planning",
-      "Sprint Planning",
-      "Reporting",
-      "REST"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-27T10:50:39.140Z",
-    "url": "https://wagey.gg/jobs/bbc3427a0e3e-backend-developer-voice-ai-fluent-in-russian-at-lavendo?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "b8d07195b507",
-    "title": "Software Engineer Voice AI (Fluent in Russian)",
-    "company": "Lavendo",
-    "region": "EMEA",
-    "salary": "$77k–$104k/year",
-    "salaryMin": 76800,
-    "salaryMax": 104400,
-    "skills": [
-      "Russian",
-      "Project Planning",
-      "Sprint Planning",
-      "Reporting",
-      "Backlog Management"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-27T10:51:02.070Z",
-    "url": "https://wagey.gg/jobs/b8d07195b507-software-engineer-voice-ai-fluent-in-russian-at-lavendo?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "d9a6b643cd48",
     "title": "Senior QA Engineer",
     "company": "Ledger",
@@ -32741,28 +32609,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-01-28T13:51:48.700Z",
     "url": "https://wagey.gg/jobs/a80ae2627c91-matillion-senior-solution-architect-at-matillion?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "08a3a3233b35",
-    "title": "Zartis - Senior Software Engineer (React/Node.js)",
-    "company": "zartis",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Node.js",
-      "TypeScript",
-      "React",
-      "Team Management",
-      "Jest"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-28T13:51:50.993Z",
-    "url": "https://wagey.gg/jobs/08a3a3233b35-zartis-senior-software-engineer-react-node-js-at-zartis?ref=github",
     "visibility": "full"
   },
   {
@@ -37332,28 +37178,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-01-30T12:31:52.120Z",
     "url": "https://wagey.gg/jobs/b8f8dae5c364-channel-sales-manager-at-mitek-systems?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "88d5319c3209",
-    "title": "Satellite Innovations - QA Engineer (Middle / Senior) for Thrive",
-    "company": "Satellite Innovations",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "ACCA",
-      "Postman",
-      "Insomnia",
-      "Selenium",
-      "Cypress"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-30T12:33:00.760Z",
-    "url": "https://wagey.gg/jobs/88d5319c3209-satellite-innovations-qa-engineer-middle-senior-for-thrive-at-satellite-innovati?ref=github",
     "visibility": "full"
   },
   {
@@ -51628,28 +51452,6 @@
     "visibility": "full"
   },
   {
-    "id": "a0bea499c7e6",
-    "title": "LXD - Learning Experience Designer - AI x EdTech (Full remote - French fluent 🇫🇷) at Paradox",
-    "company": "Paradox",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "hypothesis",
-      "Close",
-      "Coaching",
-      "LXD",
-      "Instructional Design"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-08T22:29:14.593Z",
-    "url": "https://wagey.gg/jobs/a0bea499c7e6-lxd-learning-experience-designer-ai-x-edtech-full-remote-french-fluent-at-parado?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "c79a8ad9b410",
     "title": "Sales Director",
     "company": "BitGo",
@@ -51826,7 +51628,7 @@
   },
   {
     "id": "8bfea8c17987",
-    "title": "Sr Account Executive",
+    "title": "Director of Sales- HTS Media",
     "company": "Hopper",
     "region": "EMEA",
     "salary": "",
@@ -51843,7 +51645,7 @@
     "ats": "ashby",
     "verifiedAt": null,
     "scrapedAt": "2026-02-09T02:31:31.666Z",
-    "url": "https://wagey.gg/jobs/8bfea8c17987-sr-account-executive-at-hopper?ref=github",
+    "url": "https://wagey.gg/jobs/8bfea8c17987-director-of-sales-hts-media-at-hopper?ref=github",
     "visibility": "full"
   },
   {
@@ -109007,28 +108809,6 @@
     "visibility": "full"
   },
   {
-    "id": "ed5fb1e2c1928de9",
-    "title": "Jobgether - Software Engineer (Python)",
-    "company": "Jobgether",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "REST",
-      "Python",
-      "FastAPI",
-      "Reporting",
-      "pytest"
-    ],
-    "seniority": "junior",
-    "ats": "lever",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-19T01:23:13.733Z",
-    "url": "https://wagey.gg/jobs/ed5fb1e2c1928de9-jobgether-software-engineer-python-at-jobgether?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "d37d723eabfe6108",
     "title": "Content Moderator (South Africa)",
     "company": "Surreal",
@@ -109080,7 +108860,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T01:34:51.280Z",
     "url": "https://wagey.gg/jobs/35137c6f3cebec63-senior-lead-product-designer-operations-at-monzo?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a230cf02f1219128",
@@ -109102,7 +108882,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T01:37:16.443Z",
     "url": "https://wagey.gg/jobs/a230cf02f1219128-senior-credit-analyst-at-oyster?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "450c0dedb85095f6",
@@ -109122,7 +108902,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T01:37:37.526Z",
     "url": "https://wagey.gg/jobs/450c0dedb85095f6-remote-revenue-manager-benelux-m-f-d-at-roompricegenie?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "b8487880d054cf5e",
@@ -109144,7 +108924,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T01:38:48.263Z",
     "url": "https://wagey.gg/jobs/b8487880d054cf5e-staff-product-designer-security-compliance-at-gitlab?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "afb8e43e91717180",
@@ -109166,7 +108946,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T01:46:29.150Z",
     "url": "https://wagey.gg/jobs/afb8e43e91717180-crypto-com-head-of-enterprise-risk-management-malta-at-crypto-com?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "3508a18f1efe2e1e",
@@ -109185,7 +108965,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T01:48:02.723Z",
     "url": "https://wagey.gg/jobs/3508a18f1efe2e1e-head-of-rto-at-crypto-com?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "75d96a379c209755",
@@ -109207,7 +108987,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T01:50:10.250Z",
     "url": "https://wagey.gg/jobs/75d96a379c209755-infosec-grc-analyst-at-moonpay?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "158e6eb5592a1902",
@@ -110762,11 +110542,11 @@
     "salaryMin": 50000,
     "salaryMax": 50000,
     "skills": [
-      "Risk Management",
-      "Revenue Growth",
+      "ARR",
+      "Governance",
       "Stakeholder Management",
-      "Enterprise Sales",
-      "Pipeline Management"
+      "Risk Management",
+      "Revenue Growth"
     ],
     "seniority": "senior",
     "ats": "greenhouse",
@@ -113449,8 +113229,10 @@
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
+      "Excel",
       "Reporting",
-      "Vendor Management"
+      "Vendor Management",
+      "Documentation"
     ],
     "seniority": null,
     "ats": "ashby",
@@ -114007,27 +113789,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T09:57:36.733Z",
     "url": "https://wagey.gg/jobs/88540db02cfc602e-vice-president-sales-at-bureau?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "86e2e89ce33c17db",
-    "title": "Marketing Manager ",
-    "company": "light-inc",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Prospecting",
-      "Mid-Market",
-      "Close",
-      "B2B"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-19T09:57:37.096Z",
-    "url": "https://wagey.gg/jobs/86e2e89ce33c17db-marketing-manager-at-light-inc?ref=github",
     "visibility": "fomo"
   },
   {
@@ -116983,8 +116744,8 @@
       "Team Leadership",
       "Contract Drafting",
       "Employee Relations",
-      "Governance",
-      "Documentation"
+      "Contract Review",
+      "Governance"
     ],
     "seniority": "mid",
     "ats": "ashby",
@@ -125578,25 +125339,6 @@
     "visibility": "fomo"
   },
   {
-    "id": "79a3accd34593fb7",
-    "title": "Junior Systems Engineer",
-    "company": "unmind",
-    "region": "EMEA",
-    "salary": "$76k–$95k/year",
-    "salaryMin": 76200,
-    "salaryMax": 95250,
-    "skills": [
-      "Reporting",
-      "Mentoring"
-    ],
-    "seniority": "junior",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-20T23:26:19.060Z",
-    "url": "https://wagey.gg/jobs/79a3accd34593fb7-junior-systems-engineer-at-unmind?ref=github",
-    "visibility": "fomo"
-  },
-  {
     "id": "03a9e6fb41cd545f",
     "title": "Machine Learning Engineering Manager - Identity Verification",
     "company": "seon",
@@ -125962,28 +125704,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-21T01:49:21.700Z",
     "url": "https://wagey.gg/jobs/0caccdb6fbba70b0-eleks-senior-devops-engineer-azure-tscm-43181-43527-at-eleks?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "b70e3d286756e073",
-    "title": "Jobgether - Software Engineer, Data Platform",
-    "company": "Jobgether",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Data Quality",
-      "SQL",
-      "ClickHouse",
-      "Redshift",
-      "AWS"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-21T01:49:52.500Z",
-    "url": "https://wagey.gg/jobs/b70e3d286756e073-jobgether-software-engineer-data-platform-at-jobgether?ref=github",
     "visibility": "fomo"
   },
   {
@@ -128392,28 +128112,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-22T21:04:59.696Z",
     "url": "https://wagey.gg/jobs/d50a33ad759ae8ce-exchange-platform-operations-manager-at-kraken?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "bb431acd5f05f589",
-    "title": "Software Engineer",
-    "company": "Tines",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Redis",
-      "Rails",
-      "React",
-      "Docker",
-      "Ruby"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-22T21:05:09.980Z",
-    "url": "https://wagey.gg/jobs/bb431acd5f05f589-software-engineer-at-tines?ref=github",
     "visibility": "fomo"
   },
   {
@@ -132212,7 +131910,7 @@
   {
     "id": "cf14e678c9142050",
     "title": "Linux Agent Developer",
-    "company": null,
+    "company": "ControlUp",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -132228,13 +131926,13 @@
     "ats": "lever",
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:43:05.793Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cf14e678c9142050-linux-agent-developer-at-controlup?ref=github",
+    "visibility": "full"
   },
   {
     "id": "37beb1fea18bcccb",
     "title": "Senior Community Specialist",
-    "company": null,
+    "company": "tem",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -132248,13 +131946,13 @@
     "ats": "ashby",
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:43:35.663Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/37beb1fea18bcccb-senior-community-specialist-at-tem?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e431600781b9911d",
     "title": "Machine Learning Engineer, AI Evaluation",
-    "company": null,
+    "company": "Wayve",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -132266,13 +131964,13 @@
     "ats": "greenhouse",
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:44:15.483Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e431600781b9911d-machine-learning-engineer-ai-evaluation-at-wayve?ref=github",
+    "visibility": "full"
   },
   {
     "id": "817b1d0306218e71",
     "title": "Director of Quality",
-    "company": null,
+    "company": "Welocalize",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -132288,13 +131986,13 @@
     "ats": "lever",
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:45:53.350Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/817b1d0306218e71-director-of-quality-at-welocalize?ref=github",
+    "visibility": "full"
   },
   {
     "id": "76d0be0cba364e4e",
     "title": "Staff Machine Learning Researcher",
-    "company": null,
+    "company": "Orbital",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -132307,13 +132005,13 @@
     "ats": "ashby",
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:46:33.760Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/76d0be0cba364e4e-staff-machine-learning-researcher-at-orbital?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3dc9010cd0d7d05d",
     "title": "SwissBorg - Engineering Manager (Infrastructure)",
-    "company": null,
+    "company": "SwissBorg",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -132329,8 +132027,8 @@
     "ats": "lever",
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:47:01.346Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3dc9010cd0d7d05d-swissborg-engineering-manager-infrastructure-at-swissborg?ref=github",
+    "visibility": "full"
   },
   {
     "id": "af6baf910531fc8d",
@@ -134479,9 +134177,9 @@
     "skills": [
       "B2B",
       "Product Marketing",
+      "Market Research",
       "Data Analysis",
-      "Documentation",
-      "Talent Acquisition"
+      "Documentation"
     ],
     "seniority": "senior",
     "ats": "ashby",
