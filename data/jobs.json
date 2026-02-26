@@ -90110,26 +90110,6 @@
     "visibility": "full"
   },
   {
-    "id": "de64f1d64f47e739",
-    "title": "Account Consultant - Affiliate Marketing (m/f/d)",
-    "company": "Awin ",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Excel",
-      "Customer Success",
-      "Risk Management"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-16T15:08:47.166Z",
-    "url": "https://wagey.gg/jobs/de64f1d64f47e739-account-consultant-affiliate-marketing-m-f-d-at-awin?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "b2f6dbaf39ed1155",
     "title": "Regional Business Manager - Northeast",
     "company": "Azurity Pharmaceuticals - US",
@@ -92036,28 +92016,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-16T15:44:40.633Z",
     "url": "https://wagey.gg/jobs/95f0a1fbee2e4891-crm-manager-at-growe?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "f24103c23db2ea91",
-    "title": "Data Analyst",
-    "company": "GROWE",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "SQL",
-      "Tableau",
-      "Google Sheets",
-      "Team Management",
-      "Goal Setting"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-16T15:44:40.873Z",
-    "url": "https://wagey.gg/jobs/f24103c23db2ea91-data-analyst-at-growe?ref=github",
     "visibility": "full"
   },
   {
@@ -96129,28 +96087,6 @@
     "visibility": "full"
   },
   {
-    "id": "19135bfe0e4fcb4e",
-    "title": "VP of Revenue Operations ",
-    "company": "paddle",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "CRO",
-      "Performance Management",
-      "Coaching",
-      "Reporting",
-      "Pipeline Management"
-    ],
-    "seniority": "vp",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-16T17:10:25.890Z",
-    "url": "https://wagey.gg/jobs/19135bfe0e4fcb4e-vp-of-revenue-operations-at-paddle?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "5a5e5e8de184e797",
     "title": "Integrations Consultant - EMEA",
     "company": "ashby",
@@ -97391,25 +97327,6 @@
     "visibility": "full"
   },
   {
-    "id": "45f417c10f760ade",
-    "title": "Web Designer - Direct Acquisition",
-    "company": "iwoca.co.uk",
-    "region": "EMEA",
-    "salary": "$48k–$82k/year",
-    "salaryMin": 47633,
-    "salaryMax": 81657,
-    "skills": [
-      "Front-end",
-      "Figma"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-16T17:21:00.000Z",
-    "url": "https://wagey.gg/jobs/45f417c10f760ade-web-designer-direct-acquisition-at-iwoca-co-uk?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "4303fae17f57ffda",
     "title": "Growth Product Manager · Acquisition Tech (DE)",
     "company": "iwoca.co.uk",
@@ -98012,28 +97929,6 @@
     "visibility": "full"
   },
   {
-    "id": "93b525ac6d306e36",
-    "title": "Digital Marketing Manager",
-    "company": "deliveroo",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Digital Marketing",
-      "Performance Management",
-      "Data Analysis",
-      "Reporting",
-      "D2C"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-16T17:25:09.610Z",
-    "url": "https://wagey.gg/jobs/93b525ac6d306e36-digital-marketing-manager-at-deliveroo?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "38b0fab56116db21",
     "title": "Senior Operations Manager - Rider Performance ",
     "company": "deliveroo",
@@ -98100,7 +97995,7 @@
   },
   {
     "id": "36e2a32ed83569e9",
-    "title": "Digital Marketing Manager (Meta Ads/TikTok Ads)",
+    "title": "Junior Digital Marketing Manager (Meta Ads/TikTok Ads)",
     "company": "SKELAR",
     "region": "EMEA",
     "salary": "",
@@ -98113,11 +98008,11 @@
       "CPC",
       "CTR"
     ],
-    "seniority": null,
+    "seniority": "junior",
     "ats": "ashby",
     "verifiedAt": null,
     "scrapedAt": "2026-02-16T17:27:37.490Z",
-    "url": "https://wagey.gg/jobs/36e2a32ed83569e9-digital-marketing-manager-meta-ads-tiktok-ads-at-skelar?ref=github",
+    "url": "https://wagey.gg/jobs/36e2a32ed83569e9-junior-digital-marketing-manager-meta-ads-tiktok-ads-at-skelar?ref=github",
     "visibility": "full"
   },
   {
@@ -98751,28 +98646,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-16T17:34:16.220Z",
     "url": "https://wagey.gg/jobs/ee0d29082ba4ddf0-chief-of-staff-to-the-ceo-at-tilt?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "2ae70a94179f2440",
-    "title": "Growth Marketer",
-    "company": "tilt",
-    "region": "EMEA",
-    "salary": "$1361k/year",
-    "salaryMin": 1360952,
-    "salaryMax": 1360952,
-    "skills": [
-      "Product Marketing",
-      "Documentation",
-      "SQL",
-      "Tilt",
-      "ROAS"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-16T17:34:18.053Z",
-    "url": "https://wagey.gg/jobs/2ae70a94179f2440-growth-marketer-at-tilt?ref=github",
     "visibility": "full"
   },
   {
@@ -102051,28 +101924,6 @@
     "visibility": "full"
   },
   {
-    "id": "1aa30e3d8c984736",
-    "title": "Enterprise Account Executive - Madrid",
-    "company": "confluent",
-    "region": "EMEA",
-    "salary": "$186k–$219k/year",
-    "salaryMin": 186084,
-    "salaryMax": 218700,
-    "skills": [
-      "Prospecting",
-      "Revenue Growth",
-      "Close",
-      "Customer Success",
-      "Sales Strategy"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-17T13:20:04.180Z",
-    "url": "https://wagey.gg/jobs/1aa30e3d8c984736-enterprise-account-executive-madrid-at-confluent?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "c840cade928f30f7",
     "title": "Senior Solutions Engineer",
     "company": "confluent",
@@ -103324,28 +103175,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-17T14:01:25.393Z",
     "url": "https://wagey.gg/jobs/209f92b50c275015-bazaarvoice-senior-product-manager-at-bazaarvoice?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "683be8c77b3924fc",
-    "title": "Founding Data Scientist",
-    "company": "Bitstack",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "SQL",
-      "Python",
-      "hypothesis",
-      "Data Quality",
-      "Metabase"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-17T14:01:33.833Z",
-    "url": "https://wagey.gg/jobs/683be8c77b3924fc-founding-data-scientist-at-bitstack?ref=github",
     "visibility": "full"
   },
   {
@@ -104856,28 +104685,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-17T23:18:03.130Z",
     "url": "https://wagey.gg/jobs/aebc33b9e6a057a1-specialist-trading-operations-at-bitpanda?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "e2ec4325f2d3cd90",
-    "title": "DevSecOps Engineer",
-    "company": "Deel",
-    "region": "EMEA",
-    "salary": "$154k/year",
-    "salaryMin": 153920,
-    "salaryMax": 153920,
-    "skills": [
-      "JavaScript",
-      "TypeScript",
-      "Git",
-      "Python",
-      "Docker"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-17T23:28:22.260Z",
-    "url": "https://wagey.gg/jobs/e2ec4325f2d3cd90-devsecops-engineer-at-deel?ref=github",
     "visibility": "full"
   },
   {
@@ -106648,28 +106455,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-18T01:42:08.660Z",
     "url": "https://wagey.gg/jobs/512f50c65cd49787-senior-user-acquisition-manager-paid-social-at-welltech?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "04e15268d3ef5951",
-    "title": "User Acquisition Manager  (Paid Social)",
-    "company": "welltech",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Excel",
-      "Team Leadership",
-      "Reporting",
-      "Digital Marketing",
-      "Microsoft Office"
-    ],
-    "seniority": "junior",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-18T01:42:08.683Z",
-    "url": "https://wagey.gg/jobs/04e15268d3ef5951-user-acquisition-manager-paid-social-at-welltech?ref=github",
     "visibility": "full"
   },
   {
@@ -108692,7 +108477,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T03:57:00.453Z",
     "url": "https://wagey.gg/jobs/158e6eb5592a1902-lead-python-developer-defi-infrastructure-at-connecthum?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "015cd72109ce1065",
@@ -108713,7 +108498,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T04:04:07.113Z",
     "url": "https://wagey.gg/jobs/015cd72109ce1065-intelligence-screening-and-monitoring-senior-blockchain-analyst-at-clearbank?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "8004afcd68584591",
@@ -130622,26 +130407,6 @@
     "visibility": "fomo"
   },
   {
-    "id": "8bd64b666324ffa3",
-    "title": " Sales Development Representative ",
-    "company": "Anaplan",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Business Development",
-      "Prospecting",
-      "Lead Generation"
-    ],
-    "seniority": "junior",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-24T01:19:07.740Z",
-    "url": "https://wagey.gg/jobs/8bd64b666324ffa3-sales-development-representative-at-anaplan?ref=github",
-    "visibility": "fomo"
-  },
-  {
     "id": "cc619832e1d40474",
     "title": "Pentester",
     "company": "xbowcareers",
@@ -131611,24 +131376,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:43:35.663Z",
     "url": "https://wagey.gg/jobs/37beb1fea18bcccb-senior-community-specialist-at-tem?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "e431600781b9911d",
-    "title": "Machine Learning Engineer, AI Evaluation",
-    "company": "Wayve",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Full Stack"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-24T02:44:15.483Z",
-    "url": "https://wagey.gg/jobs/e431600781b9911d-machine-learning-engineer-ai-evaluation-at-wayve?ref=github",
     "visibility": "full"
   },
   {
@@ -142416,13 +142163,14 @@
   },
   {
     "id": "7326bec19fe112f4",
-    "title": "Lead Product Manager (Relocation to Bangkok)",
+    "title": "Coda - Lead Product Manager (Relocation to Bangkok)",
     "company": null,
     "region": "EMEA",
     "salary": "$48k/year",
     "salaryMin": 47840,
     "salaryMax": 47840,
     "skills": [
+      "Coda",
       "Product Marketing",
       "Full Stack"
     ],
@@ -142446,12 +142194,7 @@
       "Mentoring",
       "Node.js",
       "AWS",
-      "TypeScript",
-      "Kubernetes",
-      "Terraform",
-      "REST",
-      "GitHub",
-      "Learning & Development"
+      "TypeScript"
     ],
     "seniority": "senior",
     "ats": "greenhouse",
@@ -142462,7 +142205,7 @@
   },
   {
     "id": "8be8f953c84f60d2",
-    "title": "Engineering Manager",
+    "title": "Octopus Energy Group - Engineering Manager",
     "company": null,
     "region": "EMEA",
     "salary": "",
@@ -142473,16 +142216,7 @@
       "Vendor Management",
       "dbt",
       "Git",
-      "Python",
-      "Documentation",
-      "Looker",
-      "Metabase",
-      "SQL",
-      "Databricks",
-      "Airflow",
-      "Kubernetes",
-      "AWS",
-      "Terraform"
+      "Python"
     ],
     "seniority": "staff",
     "ats": "lever",
@@ -142504,13 +142238,7 @@
       "TypeScript",
       "Spring Boot",
       "Svelte",
-      "React",
-      "Node.js",
-      "MySQL",
-      "Kubernetes",
-      "AWS",
-      "NestJS",
-      "Excel"
+      "React"
     ],
     "seniority": "senior",
     "ats": "ashby",
@@ -142553,8 +142281,7 @@
       "Go",
       "Customer Onboarding",
       "SQL",
-      "FastAPI",
-      "Temporal"
+      "FastAPI"
     ],
     "seniority": "senior",
     "ats": "ashby",
@@ -142576,10 +142303,7 @@
       "Helm",
       "Reporting",
       "Ansible",
-      "Kubernetes",
-      "AWS",
-      "GCP",
-      "Azure"
+      "Kubernetes"
     ],
     "seniority": "senior",
     "ats": "ashby",
