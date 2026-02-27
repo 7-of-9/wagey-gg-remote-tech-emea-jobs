@@ -9389,28 +9389,6 @@
     "visibility": "full"
   },
   {
-    "id": "58142d7ef817",
-    "title": "Professional Services Consultant",
-    "company": "Delinea",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Windows Server",
-      "Linux",
-      "GCP",
-      "Azure",
-      "AWS"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T12:57:54.956Z",
-    "scrapedAt": "2026-01-20T12:25:14.983Z",
-    "url": "https://wagey.gg/jobs/58142d7ef817-professional-services-consultant-at-delinea?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "9c548034df39",
     "title": "Financial Data Analyst",
     "company": "Everfield",
@@ -15677,28 +15655,6 @@
     "verifiedAt": "2026-02-26T13:16:19.533Z",
     "scrapedAt": "2026-01-21T09:10:46.450Z",
     "url": "https://wagey.gg/jobs/43ea63fc99ef-abap-developer-at-conduct?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "f23b2687b7f7",
-    "title": "Frontend Website Developer",
-    "company": "Heidi Health",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "JavaScript",
-      "React",
-      "Learning & Development",
-      "Reporting",
-      "Next.js"
-    ],
-    "seniority": "junior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T13:15:54.843Z",
-    "scrapedAt": "2026-01-21T09:11:01.330Z",
-    "url": "https://wagey.gg/jobs/f23b2687b7f7-frontend-website-developer-at-heidi-health?ref=github",
     "visibility": "full"
   },
   {
@@ -44609,28 +44565,6 @@
     "visibility": "full"
   },
   {
-    "id": "2008dc16b446",
-    "title": "Senior Fullstack (Node.js + React.js)",
-    "company": "OnHires",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "React",
-      "Node.js",
-      "PostgreSQL",
-      "Next.js",
-      "Pipeline Management"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T13:23:24.193Z",
-    "scrapedAt": "2026-02-08T14:23:30.030Z",
-    "url": "https://wagey.gg/jobs/2008dc16b446-senior-fullstack-node-js-react-js-at-onhires?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "27ec326864c3",
     "title": "Head of Payments (High-Risk PSP) – Europe (Remote)",
     "company": "OnHires",
@@ -44686,26 +44620,6 @@
     "verifiedAt": "2026-02-26T13:23:20.380Z",
     "scrapedAt": "2026-02-08T14:23:34.140Z",
     "url": "https://wagey.gg/jobs/9b50b3b4b408-technical-product-manager-at-onhires?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "5738639292ca",
-    "title": "Payments Manager (High-Volume Subscription Products)",
-    "company": "OnHires",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "B2C",
-      "Stripe",
-      "Reporting"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T13:23:37.733Z",
-    "scrapedAt": "2026-02-08T14:23:39.830Z",
-    "url": "https://wagey.gg/jobs/5738639292ca-payments-manager-high-volume-subscription-products-at-onhires?ref=github",
     "visibility": "full"
   },
   {
@@ -45752,28 +45666,6 @@
     "verifiedAt": "2026-02-26T13:55:25.730Z",
     "scrapedAt": "2026-02-08T14:26:47.483Z",
     "url": "https://wagey.gg/jobs/aadfed9cbfd5-user-acquisition-manager-at-kissmyapps?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "61865ce11acc",
-    "title": "Content Manager",
-    "company": "kissmyapps",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Content Creation",
-      "SEO",
-      "Quality Control",
-      "Product Marketing",
-      "Digital Marketing"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T13:55:21.480Z",
-    "scrapedAt": "2026-02-08T14:26:48.100Z",
-    "url": "https://wagey.gg/jobs/61865ce11acc-content-manager-at-kissmyapps?ref=github",
     "visibility": "full"
   },
   {
@@ -70357,28 +70249,6 @@
     "visibility": "full"
   },
   {
-    "id": "e807385f670b83fa",
-    "title": "B2B Marketing Manager at High-growth fintech startup",
-    "company": "Jack & Jill/External ATS",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "B2B",
-      "Team Management",
-      "Prospecting",
-      "Content Creation",
-      "Account Management"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T11:58:45.160Z",
-    "scrapedAt": "2026-02-15T15:04:34.370Z",
-    "url": "https://wagey.gg/jobs/e807385f670b83fa-b2b-marketing-manager-at-high-growth-fintech-startup-at-jack-jill-external-ats?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "4cc88ccf68e8e35c",
     "title": "Business Development Manager at international trade services platform",
     "company": "Jack & Jill/External ATS",
@@ -70504,24 +70374,6 @@
     "verifiedAt": "2026-02-26T11:59:53.183Z",
     "scrapedAt": "2026-02-15T15:05:45.553Z",
     "url": "https://wagey.gg/jobs/4f2cb737602f9cce-senior-full-stack-product-engineer-70k-110k-equity-at-vc-backed-ai-fintech-start?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "f5e970a4aecf65b7",
-    "title": "Mid-Senior Backend Engineer at fast-growing green tech startup",
-    "company": "Jack & Jill/External ATS",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Performance Management"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T11:59:31.496Z",
-    "scrapedAt": "2026-02-15T15:05:54.616Z",
-    "url": "https://wagey.gg/jobs/f5e970a4aecf65b7-mid-senior-backend-engineer-at-fast-growing-green-tech-startup-at-jack-jill-exte?ref=github",
     "visibility": "full"
   },
   {
@@ -120715,7 +120567,7 @@
     "verifiedAt": "2026-02-26T14:10:08.100Z",
     "scrapedAt": "2026-02-20T07:47:49.536Z",
     "url": "https://wagey.gg/jobs/4b8f245eee131670-senior-field-engineer-at-grafana-labs?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "7315c6b43adff879",
@@ -139638,28 +139490,6 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:31:46.280Z",
     "scrapedAt": "2026-02-25T09:11:39.660Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "18b7cf809713d8e7",
-    "title": "Copy of Principal Software Engineer I / II",
-    "company": null,
-    "region": "EMEA",
-    "salary": "$200k–$316k/year",
-    "salaryMin": 199700,
-    "salaryMax": 315900,
-    "skills": [
-      "Java",
-      "ACCA",
-      "MongoDB",
-      "Elasticsearch",
-      "Solr"
-    ],
-    "seniority": "principal",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T09:31:50.306Z",
-    "scrapedAt": "2026-02-25T09:11:49.810Z",
     "url": null,
     "visibility": "teaser"
   },
