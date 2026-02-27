@@ -12587,28 +12587,6 @@
     "visibility": "full"
   },
   {
-    "id": "ec4e85b15a3b",
-    "title": "Keyloop - Senior Manager, Data Engineering",
-    "company": "Keyloop",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "AWS",
-      "MLOps",
-      "Python",
-      "dbt",
-      "SQL"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": "2026-02-26T01:01:02.693Z",
-    "scrapedAt": "2026-01-21T05:50:33.326Z",
-    "url": "https://wagey.gg/jobs/ec4e85b15a3b-keyloop-senior-manager-data-engineering-at-keyloop?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "f94d73e0fb8e",
     "title": "Palantir Technologies - Software Engineer, Internship",
     "company": "brightedge",
@@ -20299,28 +20277,6 @@
     "verifiedAt": "2026-02-26T04:25:39.753Z",
     "scrapedAt": "2026-01-22T14:38:40.300Z",
     "url": "https://wagey.gg/jobs/617e66fd9741-senior-backend-engineer-client-integrations-at-kalepa?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "15fcb044d253",
-    "title": "Recruiter (GTM)",
-    "company": "Sardine",
-    "region": "EMEA",
-    "salary": "$90k–$110k/year",
-    "salaryMin": 89922,
-    "salaryMax": 110054,
-    "skills": [
-      "Reporting",
-      "B2B",
-      "Ashby",
-      "Notion",
-      "Base"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T00:52:18.873Z",
-    "scrapedAt": "2026-01-22T21:08:09.136Z",
-    "url": "https://wagey.gg/jobs/15fcb044d253-recruiter-gtm-at-sardine?ref=github",
     "visibility": "full"
   },
   {
@@ -49132,28 +49088,6 @@
     "verifiedAt": "2026-02-26T00:41:11.970Z",
     "scrapedAt": "2026-02-08T17:41:32.606Z",
     "url": "https://wagey.gg/jobs/4a19f44ea55c-machine-learning-engineer-iii-routing-cost-at-mapbox?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "97f31f0cc201",
-    "title": "Manager, Developer Success, EMEA",
-    "company": "Vercel",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Team Management",
-      "Performance Management",
-      "Coaching",
-      "Revenue Growth",
-      "JavaScript"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T00:48:41.070Z",
-    "scrapedAt": "2026-02-08T17:42:32.466Z",
-    "url": "https://wagey.gg/jobs/97f31f0cc201-manager-developer-success-emea-at-vercel?ref=github",
     "visibility": "full"
   },
   {
@@ -119568,7 +119502,7 @@
     "verifiedAt": "2026-02-26T03:29:01.870Z",
     "scrapedAt": "2026-02-20T00:25:47.676Z",
     "url": "https://wagey.gg/jobs/b907de75b654d705-devops-engineer-at-cosine?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ba9d989e0b4d1e13",
@@ -119590,7 +119524,7 @@
     "verifiedAt": "2026-02-26T08:51:53.366Z",
     "scrapedAt": "2026-02-20T00:25:54.540Z",
     "url": "https://wagey.gg/jobs/ba9d989e0b4d1e13-head-of-qa-at-1inch?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "36d74c742db478cf",
@@ -119611,7 +119545,7 @@
     "verifiedAt": "2026-02-26T03:29:05.296Z",
     "scrapedAt": "2026-02-20T00:26:10.363Z",
     "url": "https://wagey.gg/jobs/36d74c742db478cf-head-of-product-at-morpho?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "5301cacc0c78b734",
@@ -119633,7 +119567,7 @@
     "verifiedAt": "2026-02-26T03:29:26.516Z",
     "scrapedAt": "2026-02-20T00:26:29.846Z",
     "url": "https://wagey.gg/jobs/5301cacc0c78b734-software-engineer-at-deepl?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e00b9ee2fd8f54a8",
@@ -119655,7 +119589,7 @@
     "verifiedAt": "2026-02-26T03:29:26.500Z",
     "scrapedAt": "2026-02-20T00:26:43.516Z",
     "url": "https://wagey.gg/jobs/e00b9ee2fd8f54a8-senior-software-engineer-full-stack-at-hopper?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "3dedb3d3c5fa594a",
@@ -119677,7 +119611,7 @@
     "verifiedAt": "2026-02-26T03:29:10.873Z",
     "scrapedAt": "2026-02-20T00:27:12.290Z",
     "url": "https://wagey.gg/jobs/3dedb3d3c5fa594a-software-engineer-ai-model-evaluation-at-10x-team?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "6c2c85f654c0cb8b",
@@ -119699,7 +119633,7 @@
     "verifiedAt": "2026-02-26T08:49:26.900Z",
     "scrapedAt": "2026-02-20T00:27:18.250Z",
     "url": "https://wagey.gg/jobs/6c2c85f654c0cb8b-head-of-operations-at-daos-hub?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "c4711d7e7b6e81f4",
@@ -119715,7 +119649,7 @@
     "verifiedAt": "2026-02-26T08:48:11.313Z",
     "scrapedAt": "2026-02-20T00:27:57.466Z",
     "url": "https://wagey.gg/jobs/c4711d7e7b6e81f4-spotify-business-protection-coordinator-contract-at-spotify?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a260f9e69923590e",
@@ -119733,7 +119667,7 @@
     "verifiedAt": "2026-02-26T03:29:57.113Z",
     "scrapedAt": "2026-02-20T00:28:55.850Z",
     "url": "https://wagey.gg/jobs/a260f9e69923590e-software-engineer-backend-at-primer-io?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "c30eed0087eb8f2e",
@@ -119755,7 +119689,7 @@
     "verifiedAt": "2026-02-26T03:30:04.400Z",
     "scrapedAt": "2026-02-20T00:29:11.363Z",
     "url": "https://wagey.gg/jobs/c30eed0087eb8f2e-senior-backend-engineer-ai-focus-at-deel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "38eb74a34dffd268",
@@ -137168,7 +137102,7 @@
     "verifiedAt": "2026-02-26T04:21:24.790Z",
     "scrapedAt": "2026-02-24T22:40:12.486Z",
     "url": "https://wagey.gg/jobs/e2987cca9b7c82cc-staff-product-manager-fintech-client-experience-at-deel?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "14e4cf0aa182d68f",
@@ -137186,7 +137120,7 @@
     "verifiedAt": "2026-02-26T04:21:33.680Z",
     "scrapedAt": "2026-02-24T22:41:16.406Z",
     "url": "https://wagey.gg/jobs/14e4cf0aa182d68f-account-executive-l3-l4-at-omni?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "b8f006bc53d2e8bf",
@@ -137208,7 +137142,7 @@
     "verifiedAt": "2026-02-26T02:34:38.320Z",
     "scrapedAt": "2026-02-24T22:41:57.230Z",
     "url": "https://wagey.gg/jobs/b8f006bc53d2e8bf-binance-mena-business-partnership-manager-at-binance?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "5359d36682a62287",
@@ -152443,6 +152377,266 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T00:09:36.323Z",
     "scrapedAt": "2026-02-27T00:09:35.670Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "939d7745c5639821",
+    "title": "Senior Software Engineer (Privacy)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$31k/year",
+    "salaryMin": 31200,
+    "salaryMax": 31200,
+    "skills": [
+      "Learning & Development",
+      "Documentation",
+      "JavaScript",
+      "PHP",
+      "Back-end"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:31:17.463Z",
+    "scrapedAt": "2026-02-27T00:31:16.790Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "bb6d376052f680f6",
+    "title": "Senior Software Engineer (Privacy)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$31k/year",
+    "salaryMin": 31200,
+    "salaryMax": 31200,
+    "skills": [
+      "Learning & Development",
+      "Documentation",
+      "JavaScript",
+      "PHP",
+      "Back-end"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:32:10.410Z",
+    "scrapedAt": "2026-02-27T00:32:09.626Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "709626a4a3a80ddd",
+    "title": "Senior Software Engineer (Privacy)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$31k/year",
+    "salaryMin": 31200,
+    "salaryMax": 31200,
+    "skills": [
+      "Learning & Development",
+      "Documentation",
+      "JavaScript",
+      "PHP",
+      "Back-end"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:32:24.860Z",
+    "scrapedAt": "2026-02-27T00:32:24.206Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "fba5330b03c98b98",
+    "title": "Senior Product Manager 🇩🇪",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$553k/year",
+    "salaryMin": 552897,
+    "salaryMax": 552897,
+    "skills": [
+      "Stripe",
+      "PayPal",
+      "Product Marketing",
+      "Documentation",
+      "Talent Acquisition"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T00:33:16.770Z",
+    "scrapedAt": "2026-02-27T00:33:16.050Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "4c0a0a73f0edab96",
+    "title": "Backend Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Go",
+      "Documentation",
+      "JavaScript",
+      "Git",
+      "Project Planning",
+      "AWS",
+      "GCP",
+      "SQL",
+      "Express",
+      "D2C"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:33:36.476Z",
+    "scrapedAt": "2026-02-27T00:33:35.400Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "adb10ebf10e23d49",
+    "title": "Senior Software Engineer (Privacy)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$31k/year",
+    "salaryMin": 31200,
+    "salaryMax": 31200,
+    "skills": [
+      "Learning & Development",
+      "Documentation",
+      "JavaScript",
+      "PHP",
+      "Back-end"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:33:55.180Z",
+    "scrapedAt": "2026-02-27T00:33:54.543Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8ab2e930a5f37558",
+    "title": "MLRO / Deputy MLRO",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Program Management",
+      "Risk Assessment",
+      "Reporting",
+      "Strategic Planning"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:36:08.483Z",
+    "scrapedAt": "2026-02-27T00:36:07.600Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8e779fa63b7ee753",
+    "title": "Senior Data Scientist, Growth Marketing",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$108k–$122k/year",
+    "salaryMin": 108398,
+    "salaryMax": 121948,
+    "skills": [
+      "SQL",
+      "Python"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:36:37.660Z",
+    "scrapedAt": "2026-02-27T00:36:37.176Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "55499bfd0a4f74d0",
+    "title": "Sales Development Representative (French speaker)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "B2B",
+      "Business Development",
+      "Team Management",
+      "Prospecting",
+      "CRM Management",
+      "Market Research",
+      "SQL",
+      "Salesforce",
+      "Outreach"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:36:46.883Z",
+    "scrapedAt": "2026-02-27T00:36:45.976Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "044d8276831265da",
+    "title": "Senior Product Counsel",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Governance"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:37:17.850Z",
+    "scrapedAt": "2026-02-27T00:37:17.326Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "9369289292c6d290",
+    "title": "Senior Credit Analyst, Credit Cards",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$104k–$129k/year",
+    "salaryMin": 103656,
+    "salaryMax": 128723,
+    "skills": [
+      "SQL",
+      "Python",
+      "Looker",
+      "Governance"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:37:26.633Z",
+    "scrapedAt": "2026-02-27T00:37:26.080Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8161e578f117a024",
+    "title": "Senior Product Counsel",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Governance"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:38:00.603Z",
+    "scrapedAt": "2026-02-27T00:37:59.943Z",
     "url": null,
     "visibility": "teaser"
   }
