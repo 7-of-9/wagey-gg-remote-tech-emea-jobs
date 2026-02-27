@@ -25596,50 +25596,6 @@
     "visibility": "full"
   },
   {
-    "id": "5343769a8558",
-    "title": "Creator Growth Manager - Scaled Accounts",
-    "company": "kit",
-    "region": "EMEA",
-    "salary": "$126k/year",
-    "salaryMin": 126000,
-    "salaryMax": 126000,
-    "skills": [
-      "Customer Success",
-      "Churn Prevention",
-      "hypothesis",
-      "Product Marketing",
-      "Account Management"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T04:17:58.760Z",
-    "scrapedAt": "2026-01-25T02:11:02.613Z",
-    "url": "https://wagey.gg/jobs/5343769a8558-creator-growth-manager-scaled-accounts-at-kit?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "4c0611a3dc2c",
-    "title": "Customer Success Manager - Scaled Accounts",
-    "company": "kit",
-    "region": "EMEA",
-    "salary": "$126k/year",
-    "salaryMin": 126000,
-    "salaryMax": 126000,
-    "skills": [
-      "Customer Success",
-      "hypothesis",
-      "Product Marketing",
-      "Account Management",
-      "Reporting"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T04:17:58.600Z",
-    "scrapedAt": "2026-01-25T02:11:04.253Z",
-    "url": "https://wagey.gg/jobs/4c0611a3dc2c-customer-success-manager-scaled-accounts-at-kit?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "eabd2787e33b",
     "title": "Backend Engineer",
     "company": "LemFi",
@@ -31782,28 +31738,6 @@
     "verifiedAt": "2026-02-26T04:12:27.883Z",
     "scrapedAt": "2026-01-28T01:18:05.893Z",
     "url": "https://wagey.gg/jobs/69fbab8f6de8-financial-crime-investigator-at-gohenry?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "608c7d328a54",
-    "title": "Senior Customer Success Manager",
-    "company": "kit",
-    "region": "EMEA",
-    "salary": "$126k/year",
-    "salaryMin": 126000,
-    "salaryMax": 126000,
-    "skills": [
-      "Customer Success",
-      "hypothesis",
-      "Product Marketing",
-      "Account Management",
-      "Reporting"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T04:12:51.930Z",
-    "scrapedAt": "2026-01-28T01:18:42.560Z",
-    "url": "https://wagey.gg/jobs/608c7d328a54-senior-customer-success-manager-at-kit?ref=github",
     "visibility": "full"
   },
   {
@@ -55325,28 +55259,6 @@
     "verifiedAt": "2026-02-26T04:19:34.480Z",
     "scrapedAt": "2026-02-10T16:59:32.433Z",
     "url": "https://wagey.gg/jobs/aaa7ef914967936d-talent-sourcing-specialist-part-time-contractor-at-cracken?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "aa314213c61f4d06",
-    "title": "Senior Platform Engineer",
-    "company": "Yazio",
-    "region": "EMEA",
-    "salary": "$42k/year",
-    "salaryMin": 41600,
-    "salaryMax": 41600,
-    "skills": [
-      "Go",
-      "Bash",
-      "Python",
-      "Kubernetes",
-      "Docker"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T04:19:47.293Z",
-    "scrapedAt": "2026-02-10T16:59:50.296Z",
-    "url": "https://wagey.gg/jobs/aa314213c61f4d06-senior-platform-engineer-at-yazio?ref=github",
     "visibility": "full"
   },
   {
@@ -93740,22 +93652,6 @@
     "visibility": "full"
   },
   {
-    "id": "85c12c752a2b0d81",
-    "title": "Corporate Receptionist | London",
-    "company": "Teneo external feed for LinkedIn ",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T04:09:47.313Z",
-    "scrapedAt": "2026-02-16T16:17:23.293Z",
-    "url": "https://wagey.gg/jobs/85c12c752a2b0d81-corporate-receptionist-london-at-teneo-external-feed-for-linkedin?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "55f81979394ff8e3",
     "title": "Senior Accountant, Financial Advisory",
     "company": "Teneo external feed for LinkedIn ",
@@ -102680,28 +102576,6 @@
     "verifiedAt": "2026-02-26T04:34:22.656Z",
     "scrapedAt": "2026-02-17T13:19:55.720Z",
     "url": "https://wagey.gg/jobs/433498326e0b2b98-software-engineer-ii-ai-at-rapidsos?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "d11f9f41e61f1596",
-    "title": "Senior Google Cloud Data Engineer",
-    "company": "Valtech",
-    "region": "EMEA",
-    "salary": "$90k–$140k/year",
-    "salaryMin": 90000,
-    "salaryMax": 140000,
-    "skills": [
-      "SQL",
-      "Python",
-      "GCP",
-      "GA4",
-      "Looker"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T04:34:25.540Z",
-    "scrapedAt": "2026-02-17T13:19:56.433Z",
-    "url": "https://wagey.gg/jobs/d11f9f41e61f1596-senior-google-cloud-data-engineer-at-valtech?ref=github",
     "visibility": "full"
   },
   {
@@ -120757,7 +120631,7 @@
     "verifiedAt": "2026-02-27T00:29:32.430Z",
     "scrapedAt": "2026-02-20T06:33:30.890Z",
     "url": "https://wagey.gg/jobs/c058b34110df6050-engineering-manager-at-orbital?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "9cf2e7e992fbf277",
@@ -120779,7 +120653,7 @@
     "verifiedAt": "2026-02-27T00:30:26.073Z",
     "scrapedAt": "2026-02-20T06:33:39.243Z",
     "url": "https://wagey.gg/jobs/9cf2e7e992fbf277-software-engineering-manager-mobile-at-voicemod?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "4a1e6867e88f74c2",
@@ -120801,7 +120675,7 @@
     "verifiedAt": "2026-02-27T00:30:41.646Z",
     "scrapedAt": "2026-02-20T06:34:27.996Z",
     "url": "https://wagey.gg/jobs/4a1e6867e88f74c2-senior-data-reliability-engineer-at-elliptic?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "df7b31ac0619345b",
@@ -120819,7 +120693,7 @@
     "verifiedAt": "2026-02-27T00:32:01.943Z",
     "scrapedAt": "2026-02-20T06:34:35.926Z",
     "url": "https://wagey.gg/jobs/df7b31ac0619345b-machine-learning-engineer-m-w-d-at-happyhotel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "4b8f245eee131670",
@@ -136544,28 +136418,6 @@
     "visibility": "fomo"
   },
   {
-    "id": "8fd6fe68a16d916b",
-    "title": "Enterprise AE - Public Sector (Air Force)",
-    "company": "uipath",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Excel",
-      "Prospecting",
-      "Go",
-      "Close",
-      "Lead Generation"
-    ],
-    "seniority": "staff",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T04:18:26.896Z",
-    "scrapedAt": "2026-02-24T21:03:35.686Z",
-    "url": "https://wagey.gg/jobs/8fd6fe68a16d916b-enterprise-ae-public-sector-air-force-at-uipath?ref=github",
-    "visibility": "fomo"
-  },
-  {
     "id": "7c88807b10f5c2e8",
     "title": "Finance Controller",
     "company": "goodstack",
@@ -136934,48 +136786,6 @@
     "visibility": "teaser"
   },
   {
-    "id": "cc7fde725dbd0509",
-    "title": "Senior Mechanical Engineer (+ Equity) at Well-funded biotech hardware startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Assembly",
-      "Product Marketing",
-      "Jotai"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:42:19.430Z",
-    "scrapedAt": "2026-02-25T08:38:33.293Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "cb469cddaf91b9e9",
-    "title": "Full Stack Engineer (£60k-£80k + Equity) at Fast-growing fintech SaaS",
-    "company": null,
-    "region": "EMEA",
-    "salary": "$81k–$108k/year",
-    "salaryMin": 80932,
-    "salaryMax": 107910,
-    "skills": [
-      "Full Stack",
-      "JavaScript",
-      "REST",
-      "Jotai",
-      "NestJS"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:42:32.993Z",
-    "scrapedAt": "2026-02-25T08:38:33.440Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
     "id": "3e099b0cdcc944b2",
     "title": "Mobile Engineer at Fast-growing music technology startup",
     "company": null,
@@ -137017,63 +136827,6 @@
     "visibility": "teaser"
   },
   {
-    "id": "6305576e91502648",
-    "title": "Full Stack Engineer at Well-funded fintech SaaS",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Full Stack"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:42:47.386Z",
-    "scrapedAt": "2026-02-25T08:38:34.396Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "0bc628ae0ede266f",
-    "title": "Head of AI/ML Engineering at Fast-growing consumer fintech startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Transformers",
-      "Jotai",
-      "Cross-functional Collaboration"
-    ],
-    "seniority": "director",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:42:29.030Z",
-    "scrapedAt": "2026-02-25T08:38:34.510Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "014e02a18277dbdb",
-    "title": "Junior Product Designer at fast-growing AI e-commerce startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Jotai",
-      "Figma"
-    ],
-    "seniority": "junior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:42:49.463Z",
-    "scrapedAt": "2026-02-25T08:38:34.673Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
     "id": "5f44e13db10148e1",
     "title": "Senior Data Analyst at fast-growing fintech scale-up",
     "company": null,
@@ -137092,28 +136845,6 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T08:42:43.460Z",
     "scrapedAt": "2026-02-25T08:38:34.810Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "76198fd2f674d62b",
-    "title": "Data Operations Analyst at global financial services firm",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Excel",
-      "Data Visualization",
-      "Power BI",
-      "CRM Management",
-      "Jotai"
-    ],
-    "seniority": "junior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:42:56.490Z",
-    "scrapedAt": "2026-02-25T08:38:36.643Z",
     "url": null,
     "visibility": "teaser"
   },
@@ -137139,84 +136870,6 @@
     "visibility": "teaser"
   },
   {
-    "id": "187bd0ced793dcfa",
-    "title": "AI Engineer at Rapidly-scaling legal tech startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Jotai",
-      "Legal Documentation"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:00.083Z",
-    "scrapedAt": "2026-02-25T08:38:36.766Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "192fcee2d4b7d3a7",
-    "title": "Staff Engineer at seed-stage agentic AI startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Jotai"
-    ],
-    "seniority": "staff",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:42:52.940Z",
-    "scrapedAt": "2026-02-25T08:38:36.770Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "c0c9c50d146a37d0",
-    "title": "Frontend Designer and Developer at Well-funded data analytics platform",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "React",
-      "Jotai"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:03.603Z",
-    "scrapedAt": "2026-02-25T08:38:37.443Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "300ef9e566ad69df",
-    "title": "Backend Engineer at well-funded AI startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "SQL",
-      "Python",
-      "Docker",
-      "Kubernetes",
-      "FastAPI"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:12.603Z",
-    "scrapedAt": "2026-02-25T08:38:37.470Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
     "id": "5615bf0c7ebc4cbd",
     "title": "Senior Counsel, Commercial Technology",
     "company": null,
@@ -137229,48 +136882,6 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T08:43:07.216Z",
     "scrapedAt": "2026-02-25T08:38:37.820Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "9c6c2a82c3dba538",
-    "title": "Senior Kotlin/JVM Engineer at Unicorn Fintech Platform",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Kotlin",
-      "Jotai",
-      "GraphQL"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:12.603Z",
-    "scrapedAt": "2026-02-25T08:38:37.876Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "290c9b3e6bf77a90",
-    "title": "Head of Software Development (+ Equity) at Early-stage AI consumer hardware startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Python",
-      "TypeScript",
-      "GCP",
-      "Team Management",
-      "Jotai"
-    ],
-    "seniority": "director",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:22.360Z",
-    "scrapedAt": "2026-02-25T08:38:38.456Z",
     "url": null,
     "visibility": "teaser"
   },
@@ -137291,61 +136902,6 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T08:43:18.910Z",
     "scrapedAt": "2026-02-25T08:38:38.650Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "3653a2b414586107",
-    "title": "AI Engineer at Innovative AI Language Startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Python",
-      "Jotai"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:22.300Z",
-    "scrapedAt": "2026-02-25T08:38:39.056Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "ab31f26c4166b2a8",
-    "title": "Junior Developer at fast-growing AI startup",
-    "company": null,
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [],
-    "seniority": "junior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:22.390Z",
-    "scrapedAt": "2026-02-25T08:38:39.366Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "277ee2b8e9a45f67",
-    "title": "Senior Frontend Engineer (£100k + Equity) at Fast-growing fintech SaaS",
-    "company": null,
-    "region": "EMEA",
-    "salary": "$135k/year",
-    "salaryMin": 134887,
-    "salaryMax": 134887,
-    "skills": [
-      "React",
-      "TypeScript",
-      "Jotai"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T08:43:25.520Z",
-    "scrapedAt": "2026-02-25T08:38:39.410Z",
     "url": null,
     "visibility": "teaser"
   },
@@ -152861,6 +152417,83 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T06:15:09.760Z",
     "scrapedAt": "2026-02-27T06:15:08.956Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "9da29f6e8a0ab9e5",
+    "title": "Product Designer, Live Music",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T06:23:38.256Z",
+    "scrapedAt": "2026-02-27T06:23:37.746Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "35dcfc2a3b161881",
+    "title": "Paralegal (UK)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Contract Drafting",
+      "Contract Review",
+      "Governance",
+      "Contract Management",
+      "Documentation",
+      "Legal Research"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T06:23:40.670Z",
+    "scrapedAt": "2026-02-27T06:23:39.500Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "58797834bb080033",
+    "title": "Head of Engineering, UAE",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Front-end",
+      "Linear"
+    ],
+    "seniority": "director",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:23:44.110Z",
+    "scrapedAt": "2026-02-27T06:23:43.436Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "6f149b0ec1eecc1f",
+    "title": "Senior Customer Success Manager - UAE",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Customer Success",
+      "B2B"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:23:44.086Z",
+    "scrapedAt": "2026-02-27T06:23:43.440Z",
     "url": null,
     "visibility": "teaser"
   }
