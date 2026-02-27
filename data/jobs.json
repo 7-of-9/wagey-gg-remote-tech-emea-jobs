@@ -17195,28 +17195,6 @@
     "visibility": "full"
   },
   {
-    "id": "c6b9b0bda02b",
-    "title": "Storio group - Engineering Manager",
-    "company": "Storio group",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Records Management",
-      "Team Management",
-      "Product Marketing",
-      "Learning & Development",
-      "Project Planning"
-    ],
-    "seniority": "staff",
-    "ats": "lever",
-    "verifiedAt": "2026-02-26T02:05:02.180Z",
-    "scrapedAt": "2026-01-22T07:43:51.846Z",
-    "url": "https://wagey.gg/jobs/c6b9b0bda02b-storio-group-engineering-manager-at-storio-group?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "0812b2d43bdf",
     "title": "Software Engineer",
     "company": "Zopa",
@@ -51407,28 +51385,6 @@
     "verifiedAt": "2026-02-26T01:44:12.956Z",
     "scrapedAt": "2026-02-08T22:25:55.743Z",
     "url": "https://wagey.gg/jobs/abc760c45a92-senior-technical-productivity-manager-at-camunda-at-camunda?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "999938d53cea",
-    "title": "Senior Partner Marketing Manager  at Camunda",
-    "company": "Camunda",
-    "region": "EMEA",
-    "salary": "$124k–$200k/year",
-    "salaryMin": 124200,
-    "salaryMax": 200200,
-    "skills": [
-      "Digital Marketing",
-      "Storytelling",
-      "Product Marketing",
-      "B2B",
-      "KPI Tracking"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T01:44:19.380Z",
-    "scrapedAt": "2026-02-08T22:26:25.513Z",
-    "url": "https://wagey.gg/jobs/999938d53cea-senior-partner-marketing-manager-at-camunda-at-camunda?ref=github",
     "visibility": "full"
   },
   {
@@ -114798,28 +114754,6 @@
     "visibility": "full"
   },
   {
-    "id": "877e2e2dc0d96ba5",
-    "title": "Junior Account Manager",
-    "company": "carwow",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Excel",
-      "Google Sheets",
-      "Account Management",
-      "Outreach",
-      "Revenue Growth"
-    ],
-    "seniority": "junior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T01:21:01.476Z",
-    "scrapedAt": "2026-02-19T09:57:39.043Z",
-    "url": "https://wagey.gg/jobs/877e2e2dc0d96ba5-junior-account-manager-at-carwow?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "e5159725317edc05",
     "title": "Finance Manager",
     "company": "metaview",
@@ -119711,7 +119645,7 @@
     "verifiedAt": "2026-02-26T04:05:56.243Z",
     "scrapedAt": "2026-02-20T01:34:52.646Z",
     "url": "https://wagey.gg/jobs/38eb74a34dffd268-software-engineer-at-polyai?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "9c4320f8eb8df474",
@@ -119733,7 +119667,7 @@
     "verifiedAt": "2026-02-26T04:06:01.610Z",
     "scrapedAt": "2026-02-20T01:35:02.896Z",
     "url": "https://wagey.gg/jobs/9c4320f8eb8df474-sr-machine-learning-engineer-at-typeform?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a341e2d800c3a1b8",
@@ -119749,7 +119683,7 @@
     "verifiedAt": "2026-02-26T04:06:11.320Z",
     "scrapedAt": "2026-02-20T01:35:08.643Z",
     "url": "https://wagey.gg/jobs/a341e2d800c3a1b8-senior-software-engineer-design-systems-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "b8dfa4bef2f87644",
@@ -119765,7 +119699,7 @@
     "verifiedAt": "2026-02-26T04:06:20.186Z",
     "scrapedAt": "2026-02-20T01:35:24.400Z",
     "url": "https://wagey.gg/jobs/b8dfa4bef2f87644-senior-software-engineer-design-systems-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "d0146666843672e6",
@@ -119786,7 +119720,7 @@
     "verifiedAt": "2026-02-26T04:06:35.793Z",
     "scrapedAt": "2026-02-20T01:35:34.863Z",
     "url": "https://wagey.gg/jobs/d0146666843672e6-elasticsearch-principal-software-engineer-ii-at-referral-board?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "1f271b936be3a433",
@@ -119808,7 +119742,7 @@
     "verifiedAt": "2026-02-26T04:06:48.050Z",
     "scrapedAt": "2026-02-20T01:35:50.310Z",
     "url": "https://wagey.gg/jobs/1f271b936be3a433-senior-fullstack-software-engineer-at-unybrands?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "673cd99da0e4b32a",
@@ -119830,7 +119764,7 @@
     "verifiedAt": "2026-02-26T04:07:12.930Z",
     "scrapedAt": "2026-02-20T01:36:12.020Z",
     "url": "https://wagey.gg/jobs/673cd99da0e4b32a-senior-software-engineer-london-only-at-8th-light?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "78bd81902d32b002",
@@ -119848,7 +119782,7 @@
     "verifiedAt": "2026-02-26T04:07:25.673Z",
     "scrapedAt": "2026-02-20T01:36:17.326Z",
     "url": "https://wagey.gg/jobs/78bd81902d32b002-engineering-manager-at-gocardless?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ac64536c1414ab82",
@@ -119864,7 +119798,7 @@
     "verifiedAt": "2026-02-26T08:47:39.553Z",
     "scrapedAt": "2026-02-20T01:36:22.840Z",
     "url": "https://wagey.gg/jobs/ac64536c1414ab82-xsolla-senior-product-designer-at-xsolla?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "7f684068ccc821e1",
@@ -119880,7 +119814,7 @@
     "verifiedAt": "2026-02-26T04:07:12.880Z",
     "scrapedAt": "2026-02-20T01:36:22.973Z",
     "url": "https://wagey.gg/jobs/7f684068ccc821e1-senior-software-engineer-design-systems-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "cecd30fe85a1bb79",
@@ -119901,7 +119835,7 @@
     "verifiedAt": "2026-02-26T04:07:19.263Z",
     "scrapedAt": "2026-02-20T01:36:32.883Z",
     "url": "https://wagey.gg/jobs/cecd30fe85a1bb79-software-engineer-build-compute-at-vercel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "c80fc15c1d9a6b9e",
@@ -119923,7 +119857,7 @@
     "verifiedAt": "2026-02-26T04:07:22.080Z",
     "scrapedAt": "2026-02-20T01:36:37.773Z",
     "url": "https://wagey.gg/jobs/c80fc15c1d9a6b9e-software-engineer-builds-at-vercel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "6bd6d81f21ed4158",
@@ -119941,7 +119875,7 @@
     "verifiedAt": "2026-02-26T04:07:31.853Z",
     "scrapedAt": "2026-02-20T01:36:47.753Z",
     "url": "https://wagey.gg/jobs/6bd6d81f21ed4158-staff-software-engineer-at-sparrow?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "6c56ae85acd8525c",
@@ -119963,7 +119897,7 @@
     "verifiedAt": "2026-02-26T04:07:43.640Z",
     "scrapedAt": "2026-02-20T01:36:52.540Z",
     "url": "https://wagey.gg/jobs/6c56ae85acd8525c-platform-billing-engineering-manager-at-referral-board?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "f4d5be6e81e511a0",
@@ -119985,7 +119919,7 @@
     "verifiedAt": "2026-02-26T04:07:57.043Z",
     "scrapedAt": "2026-02-20T01:37:02.846Z",
     "url": "https://wagey.gg/jobs/f4d5be6e81e511a0-software-engineer-at-algolia?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e6bfa1fdf0c61a3c",
@@ -120001,7 +119935,7 @@
     "verifiedAt": "2026-02-26T04:08:18.790Z",
     "scrapedAt": "2026-02-20T01:37:28.760Z",
     "url": "https://wagey.gg/jobs/e6bfa1fdf0c61a3c-senior-software-engineer-core-ux-platform-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "15b7c4704d6a84fa",
@@ -120019,7 +119953,7 @@
     "verifiedAt": "2026-02-26T04:08:22.313Z",
     "scrapedAt": "2026-02-20T01:37:34.193Z",
     "url": "https://wagey.gg/jobs/15b7c4704d6a84fa-senior-python-engineer-application-platform-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "9fa4e62c050dc207",
@@ -120041,7 +119975,7 @@
     "verifiedAt": "2026-02-26T04:08:34.466Z",
     "scrapedAt": "2026-02-20T01:37:39.473Z",
     "url": "https://wagey.gg/jobs/9fa4e62c050dc207-principal-software-engineer-london-only-at-8th-light?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ba72233655aecbaf",
@@ -120063,7 +119997,7 @@
     "verifiedAt": "2026-02-26T08:46:31.163Z",
     "scrapedAt": "2026-02-20T01:37:43.796Z",
     "url": "https://wagey.gg/jobs/ba72233655aecbaf-erp-developer-at-econstruct?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "10f32260c8179da2",
@@ -120085,7 +120019,7 @@
     "verifiedAt": "2026-02-26T04:08:49.290Z",
     "scrapedAt": "2026-02-20T01:37:45.040Z",
     "url": "https://wagey.gg/jobs/10f32260c8179da2-senior-software-engineer-at-algolia?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "dd94406a812e285f",
@@ -120103,7 +120037,7 @@
     "verifiedAt": "2026-02-26T04:09:14.080Z",
     "scrapedAt": "2026-02-20T01:38:06.096Z",
     "url": "https://wagey.gg/jobs/dd94406a812e285f-senior-python-engineer-application-platform-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "d614194c8e8f4dce",
@@ -120125,7 +120059,7 @@
     "verifiedAt": "2026-02-26T04:09:17.206Z",
     "scrapedAt": "2026-02-20T01:38:17.886Z",
     "url": "https://wagey.gg/jobs/d614194c8e8f4dce-data-engineering-manager-at-onestudyteam?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ccdfc33e835b55a6",
@@ -120147,7 +120081,7 @@
     "verifiedAt": "2026-02-26T03:43:36.953Z",
     "scrapedAt": "2026-02-20T01:38:20.193Z",
     "url": "https://wagey.gg/jobs/ccdfc33e835b55a6-principal-product-manager-at-uipath?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "c0914c9ce0f90367",
@@ -120169,7 +120103,7 @@
     "verifiedAt": "2026-02-26T04:09:28.010Z",
     "scrapedAt": "2026-02-20T01:38:28.166Z",
     "url": "https://wagey.gg/jobs/c0914c9ce0f90367-engineering-manager-at-hudl?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "06262f8fa36281ce",
@@ -120185,7 +120119,7 @@
     "verifiedAt": "2026-02-26T04:09:41.030Z",
     "scrapedAt": "2026-02-20T01:38:29.386Z",
     "url": "https://wagey.gg/jobs/06262f8fa36281ce-senior-product-designer-at-careem?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "3d3fd32aab3aeea1",
@@ -120207,7 +120141,7 @@
     "verifiedAt": "2026-02-26T04:10:04.883Z",
     "scrapedAt": "2026-02-20T01:38:33.156Z",
     "url": "https://wagey.gg/jobs/3d3fd32aab3aeea1-senior-c-software-engineer-at-flow-traders?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "7f949ceefaf2eda2",
@@ -120229,7 +120163,7 @@
     "verifiedAt": "2026-02-26T04:09:43.150Z",
     "scrapedAt": "2026-02-20T01:38:38.380Z",
     "url": "https://wagey.gg/jobs/7f949ceefaf2eda2-principal-software-engineer-at-referral-board?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "219f4d1a364d0fa8",
@@ -120245,7 +120179,7 @@
     "verifiedAt": "2026-02-26T04:10:04.993Z",
     "scrapedAt": "2026-02-20T01:38:58.783Z",
     "url": "https://wagey.gg/jobs/219f4d1a364d0fa8-software-engineer-at-sparrow?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "68d21d0b270b566b",
@@ -120267,7 +120201,7 @@
     "verifiedAt": "2026-02-26T04:10:35.980Z",
     "scrapedAt": "2026-02-20T01:39:19.310Z",
     "url": "https://wagey.gg/jobs/68d21d0b270b566b-senior-software-engineer-at-algolia?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "1e4071aef6b3f8bd",
@@ -120289,7 +120223,7 @@
     "verifiedAt": "2026-02-26T04:10:39.066Z",
     "scrapedAt": "2026-02-20T01:39:24.426Z",
     "url": "https://wagey.gg/jobs/1e4071aef6b3f8bd-senior-data-analyst-full-stack-at-blacklane?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ca7d81969dd462ff",
@@ -120311,7 +120245,7 @@
     "verifiedAt": "2026-02-26T08:43:57.026Z",
     "scrapedAt": "2026-02-20T01:39:24.656Z",
     "url": "https://wagey.gg/jobs/ca7d81969dd462ff-ajax-systems-chief-administrative-officer-at-lever?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "702f8cf2626e72e3",
@@ -120327,7 +120261,7 @@
     "verifiedAt": "2026-02-26T04:10:45.513Z",
     "scrapedAt": "2026-02-20T01:39:40.020Z",
     "url": "https://wagey.gg/jobs/702f8cf2626e72e3-senior-software-engineer-core-ux-platform-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "522c42918789951a",
@@ -120343,7 +120277,7 @@
     "verifiedAt": "2026-02-26T04:10:58.016Z",
     "scrapedAt": "2026-02-20T01:39:50.390Z",
     "url": "https://wagey.gg/jobs/522c42918789951a-senior-software-engineer-core-ux-platform-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "8f8affc0be5f497c",
@@ -120365,7 +120299,7 @@
     "verifiedAt": "2026-02-26T04:11:36.506Z",
     "scrapedAt": "2026-02-20T01:40:00.196Z",
     "url": "https://wagey.gg/jobs/8f8affc0be5f497c-software-engineer-in-test-at-dataiku-misc-postings?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "f291521e91701de0",
@@ -120387,7 +120321,7 @@
     "verifiedAt": "2026-02-26T08:44:09.790Z",
     "scrapedAt": "2026-02-20T01:40:04.686Z",
     "url": "https://wagey.gg/jobs/f291521e91701de0-digital-administrator-at-lyra-health?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a9ffcc5fadc7dca1",
@@ -120409,7 +120343,7 @@
     "verifiedAt": "2026-02-26T04:12:17.346Z",
     "scrapedAt": "2026-02-20T01:40:31.683Z",
     "url": "https://wagey.gg/jobs/a9ffcc5fadc7dca1-senior-data-engineer-data-platform-at-recursion?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "f54d561544ccef87",
@@ -120431,7 +120365,7 @@
     "verifiedAt": "2026-02-26T04:12:10.333Z",
     "scrapedAt": "2026-02-20T01:40:37.490Z",
     "url": "https://wagey.gg/jobs/f54d561544ccef87-senior-fullstack-software-engineer-at-unybrands?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "bc08668aa928bb57",
@@ -120453,7 +120387,7 @@
     "verifiedAt": "2026-02-26T04:12:22.750Z",
     "scrapedAt": "2026-02-20T01:40:49.220Z",
     "url": "https://wagey.gg/jobs/bc08668aa928bb57-software-engineer-builds-at-vercel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "f8eb721df9b870d6",
@@ -120472,7 +120406,7 @@
     "verifiedAt": "2026-02-26T04:12:50.470Z",
     "scrapedAt": "2026-02-20T01:40:54.153Z",
     "url": "https://wagey.gg/jobs/f8eb721df9b870d6-platform-engineering-productivity-engineering-manager-at-referral-board?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ac891e84acc598a1",
@@ -120494,7 +120428,7 @@
     "verifiedAt": "2026-02-26T04:12:31.986Z",
     "scrapedAt": "2026-02-20T01:40:57.970Z",
     "url": "https://wagey.gg/jobs/ac891e84acc598a1-data-platform-intelligence-manager-at-property-finder?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "b763266d54ff4508",
@@ -120515,7 +120449,7 @@
     "verifiedAt": "2026-02-26T04:12:37.836Z",
     "scrapedAt": "2026-02-20T01:40:58.996Z",
     "url": "https://wagey.gg/jobs/b763266d54ff4508-software-engineering-manager-native-linux-integrations-at-referral-board?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "186d47d434f99ac4",
@@ -120533,7 +120467,7 @@
     "verifiedAt": "2026-02-26T04:12:56.320Z",
     "scrapedAt": "2026-02-20T01:41:15.250Z",
     "url": "https://wagey.gg/jobs/186d47d434f99ac4-senior-python-engineer-application-platform-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "789b991b1297a905",
@@ -120549,7 +120483,7 @@
     "verifiedAt": "2026-02-26T04:13:12.183Z",
     "scrapedAt": "2026-02-20T01:41:22.233Z",
     "url": "https://wagey.gg/jobs/789b991b1297a905-senior-software-engineer-at-sparrow?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "dd3e4239d5abe692",
@@ -120571,7 +120505,7 @@
     "verifiedAt": "2026-02-26T04:12:59.833Z",
     "scrapedAt": "2026-02-20T01:41:27.673Z",
     "url": "https://wagey.gg/jobs/dd3e4239d5abe692-engineering-manager-at-typeform?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "c7b727bc60e588ac",
@@ -120593,7 +120527,7 @@
     "verifiedAt": "2026-02-26T04:13:38.320Z",
     "scrapedAt": "2026-02-20T01:42:04.696Z",
     "url": "https://wagey.gg/jobs/c7b727bc60e588ac-senior-security-engineer-at-mozilla?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "3c4834818de4765f",
@@ -120615,7 +120549,7 @@
     "verifiedAt": "2026-02-26T08:39:59.850Z",
     "scrapedAt": "2026-02-20T01:42:34.230Z",
     "url": "https://wagey.gg/jobs/3c4834818de4765f-dlocal-senior-software-engineer-at-dlocal?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "eb7f6c47609149fa",
@@ -120633,7 +120567,7 @@
     "verifiedAt": "2026-02-26T03:47:08.486Z",
     "scrapedAt": "2026-02-20T01:42:58.260Z",
     "url": "https://wagey.gg/jobs/eb7f6c47609149fa-staff-product-manager-fintech-client-experience-at-deel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "dfa5f95841d99c53",
@@ -120665,7 +120599,7 @@
     "verifiedAt": "2026-02-26T08:39:15.236Z",
     "scrapedAt": "2026-02-20T01:43:34.703Z",
     "url": "https://wagey.gg/jobs/dfa5f95841d99c53-senior-supply-chain-productivity-and-efficiency-specialist-at-sword-health?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e3337f48fd9fb00b",
@@ -120687,7 +120621,7 @@
     "verifiedAt": "2026-02-26T03:48:02.160Z",
     "scrapedAt": "2026-02-20T01:44:09.623Z",
     "url": "https://wagey.gg/jobs/e3337f48fd9fb00b-data-engineer-at-deel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "208aa14665dba376",
@@ -120705,7 +120639,7 @@
     "verifiedAt": "2026-02-26T03:48:23.433Z",
     "scrapedAt": "2026-02-20T01:44:37.326Z",
     "url": "https://wagey.gg/jobs/208aa14665dba376-technical-director-at-voodoo?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "65d7b92167faf3dc",
@@ -120724,7 +120658,7 @@
     "verifiedAt": "2026-02-26T04:16:46.566Z",
     "scrapedAt": "2026-02-20T01:45:11.706Z",
     "url": "https://wagey.gg/jobs/65d7b92167faf3dc-senior-global-events-manager-martech-operations-at-celonis?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "21c46de783b484d8",
@@ -120746,7 +120680,7 @@
     "verifiedAt": "2026-02-26T08:38:31.640Z",
     "scrapedAt": "2026-02-20T02:00:10.023Z",
     "url": "https://wagey.gg/jobs/21c46de783b484d8-machine-learning-manager-at-pennylane?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ecb2a3b7d17227ab",
@@ -120765,7 +120699,7 @@
     "verifiedAt": "2026-02-26T04:26:21.100Z",
     "scrapedAt": "2026-02-20T02:05:06.056Z",
     "url": "https://wagey.gg/jobs/ecb2a3b7d17227ab-content-marketing-team-manager-at-canonical?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "9e19525f5689110f",
@@ -120787,7 +120721,7 @@
     "verifiedAt": "2026-02-26T04:29:05.940Z",
     "scrapedAt": "2026-02-20T02:10:46.336Z",
     "url": "https://wagey.gg/jobs/9e19525f5689110f-information-security-specialist-at-remote?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "970d81c0875f4592",
@@ -120809,7 +120743,7 @@
     "verifiedAt": "2026-02-26T08:35:48.363Z",
     "scrapedAt": "2026-02-20T02:11:06.210Z",
     "url": "https://wagey.gg/jobs/970d81c0875f4592-planner5d-internal-application-developer-java-kotlin-at-planner5d?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "2ec62cdbc575a2d9",
@@ -126646,28 +126580,6 @@
     "verifiedAt": "2026-02-26T01:24:12.053Z",
     "scrapedAt": "2026-02-21T01:46:45.826Z",
     "url": "https://wagey.gg/jobs/27029bb65b8d917f-jobgether-full-stack-developer-javascript-at-jobgether?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "ad42963812af2c5b",
-    "title": "Jobgether - Software Engineer, Asset Store Content Operations",
-    "company": "Jobgether",
-    "region": "EMEA",
-    "salary": "$590k–$884k/year",
-    "salaryMin": 590236,
-    "salaryMax": 883941,
-    "skills": [
-      "C#",
-      "Training Development",
-      "Learning & Development",
-      "Reporting",
-      "Git"
-    ],
-    "seniority": null,
-    "ats": "lever",
-    "verifiedAt": "2026-02-26T01:25:56.133Z",
-    "scrapedAt": "2026-02-21T01:48:37.520Z",
-    "url": "https://wagey.gg/jobs/ad42963812af2c5b-jobgether-software-engineer-asset-store-content-operations-at-jobgether?ref=github",
     "visibility": "fomo"
   },
   {
@@ -135168,28 +135080,6 @@
     "verifiedAt": "2026-02-26T01:44:22.906Z",
     "scrapedAt": "2026-02-24T15:12:07.890Z",
     "url": "https://wagey.gg/jobs/bb05c042f256f540-senior-product-designer-core-ux-mobile-at-pandadoc?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "d396e58edf5df6fb",
-    "title": "Senior Software Engineer I",
-    "company": "GOAT Group",
-    "region": "EMEA",
-    "salary": "$147k–$184k/year",
-    "salaryMin": 147200,
-    "salaryMax": 184000,
-    "skills": [
-      "Elasticsearch",
-      "Algolia",
-      "Go",
-      "Claude",
-      "Cursor"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T01:47:03.170Z",
-    "scrapedAt": "2026-02-24T15:15:10.950Z",
-    "url": "https://wagey.gg/jobs/d396e58edf5df6fb-senior-software-engineer-i-at-goat-group?ref=github",
     "visibility": "fomo"
   },
   {
