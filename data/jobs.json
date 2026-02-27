@@ -18233,28 +18233,6 @@
     "visibility": "full"
   },
   {
-    "id": "ab338321a7f8",
-    "title": "Head of Risk (PCF-14) (9 month FTC)",
-    "company": "Ramp Network",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Governance",
-      "FRM",
-      "Risk Management",
-      "Reporting",
-      "Google Workspace"
-    ],
-    "seniority": "director",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T13:31:23.543Z",
-    "scrapedAt": "2026-01-22T10:03:55.240Z",
-    "url": "https://wagey.gg/jobs/ab338321a7f8-head-of-risk-pcf-14-9-month-ftc-at-ramp-network?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "3e1074a4fe90",
     "title": "Legal Operations Associate",
     "company": "Ethereum Foundation",
@@ -41513,28 +41491,6 @@
     "visibility": "full"
   },
   {
-    "id": "72cd7e9e2a40",
-    "title": "Senior Data Engineer (Temp)",
-    "company": "Pantheon Ventures Careers",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Data Quality",
-      "Azure",
-      "Databricks",
-      "SQL",
-      "Python"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T14:15:38.553Z",
-    "scrapedAt": "2026-02-08T13:46:35.293Z",
-    "url": "https://wagey.gg/jobs/72cd7e9e2a40-senior-data-engineer-temp-at-pantheon-ventures-careers?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "f0ba20a7a131",
     "title": "Senior Software Engineer, Platform",
     "company": "Peregrine Technologies",
@@ -43118,27 +43074,6 @@
     "visibility": "full"
   },
   {
-    "id": "834ac1de1088",
-    "title": "Sales Development Representative",
-    "company": "Motive",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Coaching",
-      "Prospecting",
-      "Cold Calling",
-      "Salesforce"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T14:23:39.600Z",
-    "scrapedAt": "2026-02-08T14:15:21.653Z",
-    "url": "https://wagey.gg/jobs/834ac1de1088-sales-development-representative-at-motive?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "af40c9d6709e",
     "title": "Business Value Engineer | Germany | Remote ",
     "company": "Grafana Labs",
@@ -43417,28 +43352,6 @@
     "visibility": "full"
   },
   {
-    "id": "5a45f43cbb69",
-    "title": "Sales and Business Development Lead at No Pressure",
-    "company": "No Pressure at JetBrains",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Business Development",
-      "B2B",
-      "Coaching",
-      "Email Marketing",
-      "Storytelling"
-    ],
-    "seniority": "staff",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T14:24:47.200Z",
-    "scrapedAt": "2026-02-08T14:16:41.123Z",
-    "url": "https://wagey.gg/jobs/5a45f43cbb69-sales-and-business-development-lead-at-no-pressure-at-no-pressure-at-jetbrains?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "f934b3b1aaf4",
     "title": "Senior Full-Stack Kotlin Engineer (Kineto)",
     "company": "JetBrains",
@@ -43661,28 +43574,6 @@
     "verifiedAt": "2026-02-26T14:25:25.193Z",
     "scrapedAt": "2026-02-08T14:17:51.306Z",
     "url": "https://wagey.gg/jobs/cbf80057519a-product-trainer-emea-f-m-d-at-parloa?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "6a65582abfe6",
-    "title": "Technical Support Engineer (f/m/d)*",
-    "company": "Parloa",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Customer Relations",
-      "JavaScript",
-      "TypeScript",
-      "Customer Success",
-      "Documentation"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T14:26:51.673Z",
-    "scrapedAt": "2026-02-08T14:17:54.556Z",
-    "url": "https://wagey.gg/jobs/6a65582abfe6-technical-support-engineer-f-m-d-at-parloa?ref=github",
     "visibility": "full"
   },
   {
@@ -59770,28 +59661,6 @@
     "verifiedAt": "2026-02-26T13:30:03.056Z",
     "scrapedAt": "2026-02-12T00:26:45.973Z",
     "url": "https://wagey.gg/jobs/b1a91b78ecfd7bcd-research-insights-associate-at-clearscore-technology-limited?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "873e1d9ec44fb57c",
-    "title": "Sr Site Reliability Engineer - Onsite or Remote (FR, UK, DE, NL)",
-    "company": "Dataiku",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "Helm",
-      "AWS"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T13:30:25.266Z",
-    "scrapedAt": "2026-02-12T00:26:53.490Z",
-    "url": "https://wagey.gg/jobs/873e1d9ec44fb57c-sr-site-reliability-engineer-onsite-or-remote-fr-uk-de-nl-at-dataiku?ref=github",
     "visibility": "full"
   },
   {
@@ -139838,7 +139707,7 @@
   {
     "id": "a5d4432e187ac535",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139851,13 +139720,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:26.883Z",
     "scrapedAt": "2026-02-25T09:14:32.656Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a5d4432e187ac535-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e87f9fbef7de2c1e",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139870,13 +139739,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:24.753Z",
     "scrapedAt": "2026-02-25T09:14:37.546Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e87f9fbef7de2c1e-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4648b818fefb4c4d",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139889,13 +139758,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:30.496Z",
     "scrapedAt": "2026-02-25T09:14:42.476Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4648b818fefb4c4d-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f185869fb3ff5167",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139908,13 +139777,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:33.703Z",
     "scrapedAt": "2026-02-25T09:14:47.583Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f185869fb3ff5167-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cc6d5788a836f963",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139927,13 +139796,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:30.440Z",
     "scrapedAt": "2026-02-25T09:14:57.446Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cc6d5788a836f963-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7e712384c7c96789",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139946,13 +139815,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:33.716Z",
     "scrapedAt": "2026-02-25T09:15:02.710Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7e712384c7c96789-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "14ddfddd435e876e",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139965,13 +139834,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:39.793Z",
     "scrapedAt": "2026-02-25T09:15:07.666Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/14ddfddd435e876e-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b2bc561965870f06",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -139984,13 +139853,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:36.483Z",
     "scrapedAt": "2026-02-25T09:15:17.893Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b2bc561965870f06-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "19dc805251e4ffd7",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140003,13 +139872,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:43.730Z",
     "scrapedAt": "2026-02-25T09:15:33.976Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/19dc805251e4ffd7-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1c6ebb1df78dd545",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140022,13 +139891,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:47.243Z",
     "scrapedAt": "2026-02-25T09:15:45.930Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1c6ebb1df78dd545-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "28fa8a4ec8fe0b59",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140041,13 +139910,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:47.250Z",
     "scrapedAt": "2026-02-25T09:15:50.830Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/28fa8a4ec8fe0b59-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "6edfeff9bc4b68c9",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140060,13 +139929,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:50.146Z",
     "scrapedAt": "2026-02-25T09:15:57.243Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/6edfeff9bc4b68c9-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ed2c57825d409122",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140079,13 +139948,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:34:54.066Z",
     "scrapedAt": "2026-02-25T09:16:02.170Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ed2c57825d409122-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "80aa578adea7fee8",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140098,13 +139967,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:35:20.573Z",
     "scrapedAt": "2026-02-25T09:16:12.270Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/80aa578adea7fee8-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bf2d2ce867af0f7d",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140117,13 +139986,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:35:51.533Z",
     "scrapedAt": "2026-02-25T09:16:17.266Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bf2d2ce867af0f7d-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "04d0a91121cdc189",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140136,13 +140005,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:36:17.820Z",
     "scrapedAt": "2026-02-25T09:16:27.960Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/04d0a91121cdc189-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "abc767889f8ab27f",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140155,13 +140024,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:36:54.140Z",
     "scrapedAt": "2026-02-25T09:16:32.780Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/abc767889f8ab27f-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b28e5774088ab184",
     "title": "GRADUATE SOFTWARE ENGINEER",
-    "company": null,
+    "company": "Cobblestone Energy",
     "region": "EMEA",
     "salary": "$65k/year",
     "salaryMin": 65000,
@@ -140174,13 +140043,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:37:06.980Z",
     "scrapedAt": "2026-02-25T09:16:37.706Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b28e5774088ab184-graduate-software-engineer-at-cobblestone-energy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "578332850e27584e",
     "title": "Senior Platform Engineer",
-    "company": null,
+    "company": "OnHires",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140196,13 +140065,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:36:49.943Z",
     "scrapedAt": "2026-02-25T09:19:38.120Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/578332850e27584e-senior-platform-engineer-at-onhires?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fa5e5fe7d9366a71",
     "title": "Teramind - Principal Full Stack Developer with React",
-    "company": null,
+    "company": "Teramind",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140218,13 +140087,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:51:24.183Z",
     "scrapedAt": "2026-02-25T09:19:57.293Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fa5e5fe7d9366a71-teramind-principal-full-stack-developer-with-react-at-teramind?ref=github",
+    "visibility": "full"
   },
   {
     "id": "057b675d2f285bf3",
     "title": "Growth Manager",
-    "company": null,
+    "company": "Binance",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140240,13 +140109,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:51:31.086Z",
     "scrapedAt": "2026-02-25T09:20:18.263Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/057b675d2f285bf3-growth-manager-at-binance?ref=github",
+    "visibility": "full"
   },
   {
     "id": "82b9a5c2c27fec97",
     "title": "Back-End/Infra Engineer (Kubernetes / Node.js)",
-    "company": null,
+    "company": "Deel",
     "region": "EMEA",
     "salary": "$154k/year",
     "salaryMin": 153920,
@@ -140262,13 +140131,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:40:11.540Z",
     "scrapedAt": "2026-02-25T09:20:43.723Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/82b9a5c2c27fec97-back-end-infra-engineer-kubernetes-node-js-at-deel?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c8e2cd498fae2984",
     "title": "Zopa - Senior Android Engineer",
-    "company": null,
+    "company": "Zopa",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140283,13 +140152,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:51:58.643Z",
     "scrapedAt": "2026-02-25T09:20:50.373Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c8e2cd498fae2984-zopa-senior-android-engineer-at-zopa?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c24944277a678b0d",
     "title": "Senior Software Engineer",
-    "company": null,
+    "company": "Kraken",
     "region": "EMEA",
     "salary": "$104k/year",
     "salaryMin": 104000,
@@ -140304,13 +140173,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:41:35.110Z",
     "scrapedAt": "2026-02-25T09:21:25.736Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c24944277a678b0d-senior-software-engineer-at-kraken?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5d92ffb267ea50a0",
     "title": "Principal Software Engineer",
-    "company": null,
+    "company": "DevSavant Inc.",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140326,13 +140195,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:43:05.476Z",
     "scrapedAt": "2026-02-25T09:21:50.223Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5d92ffb267ea50a0-principal-software-engineer-at-devsavant-inc?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cd4af525a904ea68",
     "title": "Full Stack Software Developer",
-    "company": null,
+    "company": "STATSports",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140348,13 +140217,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:43:15.640Z",
     "scrapedAt": "2026-02-25T09:21:58.663Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cd4af525a904ea68-full-stack-software-developer-at-statsports?ref=github",
+    "visibility": "full"
   },
   {
     "id": "6c45916bfd36fcea",
     "title": "Senior Software Engineer",
-    "company": null,
+    "company": "DeepL",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140370,13 +140239,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:45:17.910Z",
     "scrapedAt": "2026-02-25T09:23:08.500Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/6c45916bfd36fcea-senior-software-engineer-at-deepl?ref=github",
+    "visibility": "full"
   },
   {
     "id": "02db836aff643baf",
     "title": "Senior Software Engineer - Frontend",
-    "company": null,
+    "company": "Kraken",
     "region": "EMEA",
     "salary": "$104k/year",
     "salaryMin": 104000,
@@ -140392,13 +140261,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:45:42.906Z",
     "scrapedAt": "2026-02-25T09:23:16.800Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/02db836aff643baf-senior-software-engineer-frontend-at-kraken?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cf6254cf1f76fd0b",
     "title": "Senior Software Engineer - Full Stack",
-    "company": null,
+    "company": "Kraken",
     "region": "EMEA",
     "salary": "$104k/year",
     "salaryMin": 104000,
@@ -140414,13 +140283,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:46:13.586Z",
     "scrapedAt": "2026-02-25T09:23:25.240Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cf6254cf1f76fd0b-senior-software-engineer-full-stack-at-kraken?ref=github",
+    "visibility": "full"
   },
   {
     "id": "92d3ef4590a42f92",
     "title": "Senior Software Engineer – Agent Systems",
-    "company": null,
+    "company": "Kraken",
     "region": "EMEA",
     "salary": "$104k/year",
     "salaryMin": 104000,
@@ -140432,13 +140301,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:46:24.906Z",
     "scrapedAt": "2026-02-25T09:23:33.423Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/92d3ef4590a42f92-senior-software-engineer-agent-systems-at-kraken?ref=github",
+    "visibility": "full"
   },
   {
     "id": "128376757a2006a1",
     "title": "Senior Platform Engineer (Integrations) (f/m/d)",
-    "company": null,
+    "company": "Moss",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140454,13 +140323,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:47:33.953Z",
     "scrapedAt": "2026-02-25T09:23:50.563Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/128376757a2006a1-senior-platform-engineer-integrations-f-m-d-at-moss?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1e27b5672db1afba",
     "title": "Software Engineer",
-    "company": null,
+    "company": "Kraken",
     "region": "EMEA",
     "salary": "$104k/year",
     "salaryMin": 104000,
@@ -140473,13 +140342,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:48:10.010Z",
     "scrapedAt": "2026-02-25T09:24:07.343Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1e27b5672db1afba-software-engineer-at-kraken?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c088b713b242e8b3",
     "title": "Software Engineer",
-    "company": null,
+    "company": "Kraken",
     "region": "EMEA",
     "salary": "$104k/year",
     "salaryMin": 104000,
@@ -140492,13 +140361,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:48:21.790Z",
     "scrapedAt": "2026-02-25T09:24:16.420Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c088b713b242e8b3-software-engineer-at-kraken?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4e9c26ce523d00dc",
     "title": "Senior Full Stack Software Engineer",
-    "company": null,
+    "company": "Faculty",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140514,13 +140383,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:48:41.883Z",
     "scrapedAt": "2026-02-25T09:24:24.980Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4e9c26ce523d00dc-senior-full-stack-software-engineer-at-faculty?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f01d60537f0040ea",
     "title": "Data Engineer",
-    "company": null,
+    "company": "Trainline",
     "region": "EMEA",
     "salary": "$81k–$101k/year",
     "salaryMin": 80932,
@@ -140535,13 +140404,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:48:56.203Z",
     "scrapedAt": "2026-02-25T09:24:33.673Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f01d60537f0040ea-data-engineer-at-trainline?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c2d59c84ac4d705d",
     "title": "Full Stack Engineer (React, Node.js)",
-    "company": null,
+    "company": "Deel",
     "region": "EMEA",
     "salary": "$154k/year",
     "salaryMin": 153920,
@@ -140557,13 +140426,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:49:00.276Z",
     "scrapedAt": "2026-02-25T09:24:42.053Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c2d59c84ac4d705d-full-stack-engineer-react-node-js-at-deel?ref=github",
+    "visibility": "full"
   },
   {
     "id": "83353d03848f991f",
     "title": "Database Administrator (DBA)",
-    "company": null,
+    "company": "Happl",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140579,13 +140448,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:49:06.696Z",
     "scrapedAt": "2026-02-25T09:24:50.406Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/83353d03848f991f-database-administrator-dba-at-happl?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2dcae3fabc4885c1",
     "title": "Senior Backend Engineer, Node.js + AWS",
-    "company": null,
+    "company": "Deel",
     "region": "EMEA",
     "salary": "$154k/year",
     "salaryMin": 153920,
@@ -140601,13 +140470,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:49:10.600Z",
     "scrapedAt": "2026-02-25T09:24:58.973Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2dcae3fabc4885c1-senior-backend-engineer-node-js-aws-at-deel?ref=github",
+    "visibility": "full"
   },
   {
     "id": "54255e9cccc2d878",
     "title": "Full Stack Software Engineer",
-    "company": null,
+    "company": "Faculty",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140623,13 +140492,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T09:49:16.276Z",
     "scrapedAt": "2026-02-25T09:25:07.996Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/54255e9cccc2d878-full-stack-software-engineer-at-faculty?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4b3e877e372f7a3b",
     "title": "Anchorage Digital - Member of KYC Operations, Onboarding",
-    "company": null,
+    "company": "Anchorage Digital",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140645,13 +140514,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:54:03.900Z",
     "scrapedAt": "2026-02-25T09:27:26.520Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4b3e877e372f7a3b-anchorage-digital-member-of-kyc-operations-onboarding-at-anchorage-digital?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8cc5285fd07bcccb",
     "title": "Client Success Manager",
-    "company": null,
+    "company": "Brave",
     "region": "EMEA",
     "salary": "$75k–$85k/year",
     "salaryMin": 75000,
@@ -140666,13 +140535,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T09:55:14.366Z",
     "scrapedAt": "2026-02-25T09:37:19.693Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8cc5285fd07bcccb-client-success-manager-at-brave?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2167e988c39b3a10",
     "title": "Product Designer at Airalo",
-    "company": null,
+    "company": "Airalo",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140687,13 +140556,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:58:42.410Z",
     "scrapedAt": "2026-02-25T09:42:02.933Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2167e988c39b3a10-product-designer-at-airalo-at-airalo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "aea36b0fea79f95a",
     "title": "Senior PHP Engineer at Airalo",
-    "company": null,
+    "company": "Airalo",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140709,13 +140578,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:58:56.240Z",
     "scrapedAt": "2026-02-25T09:42:24.240Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/aea36b0fea79f95a-senior-php-engineer-at-airalo-at-airalo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bc334c98f32e7dcc",
     "title": "Clinical Research Associate I/ Clinical Research Associate II",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140727,13 +140596,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T12:56:03.560Z",
     "scrapedAt": "2026-02-25T09:42:40.260Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bc334c98f32e7dcc-clinical-research-associate-i-clinical-research-associate-ii-at-precision-medici?ref=github",
+    "visibility": "full"
   },
   {
     "id": "14c66fd1dd79846e",
     "title": "Financial Accountant (Remote - Work from Anywhere) at Xapo Bank",
-    "company": null,
+    "company": "Xapo Bank",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140749,13 +140618,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T12:56:24.053Z",
     "scrapedAt": "2026-02-25T09:43:07.900Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/14c66fd1dd79846e-financial-accountant-remote-work-from-anywhere-at-xapo-bank-at-xapo-bank?ref=github",
+    "visibility": "full"
   },
   {
     "id": "28eaafeb266ff2cb",
     "title": "Senior AP Accountant  at Camunda",
-    "company": null,
+    "company": "Camunda",
     "region": "EMEA",
     "salary": "$92k–$148k/year",
     "salaryMin": 91700,
@@ -140771,13 +140640,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T10:09:02.153Z",
     "scrapedAt": "2026-02-25T09:45:13.563Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/28eaafeb266ff2cb-senior-ap-accountant-at-camunda-at-camunda?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bcd56242c6db3a7d",
     "title": "Senior Product Designer - Core Platform - EMEA / US East at Camunda",
-    "company": null,
+    "company": "Camunda",
     "region": "EMEA",
     "salary": "$138k–$223k/year",
     "salaryMin": 138300,
@@ -140793,13 +140662,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T10:10:09.403Z",
     "scrapedAt": "2026-02-25T09:46:03.493Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bcd56242c6db3a7d-senior-product-designer-core-platform-emea-us-east-at-camunda-at-camunda?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cfc79508b64ab852",
     "title": "Sr. Software Engineer",
-    "company": null,
+    "company": "Smartsheet",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140815,13 +140684,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T12:58:07.686Z",
     "scrapedAt": "2026-02-25T09:47:02.730Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cfc79508b64ab852-sr-software-engineer-at-smartsheet?ref=github",
+    "visibility": "full"
   },
   {
     "id": "84dcdfde78f912d5",
     "title": "Clinical Research Associate I/ Clinical Research Associate II",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140833,13 +140702,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T12:58:42.540Z",
     "scrapedAt": "2026-02-25T09:47:58.883Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/84dcdfde78f912d5-clinical-research-associate-i-clinical-research-associate-ii-at-precision-medici?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e0aebee1fdb6982f",
     "title": "Senior Software Engineer, Backend (Repayment UX Engineering)",
-    "company": null,
+    "company": "Affirm",
     "region": "EMEA",
     "salary": "$100k–$135k/year",
     "salaryMin": 100105,
@@ -140855,13 +140724,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T12:58:58.770Z",
     "scrapedAt": "2026-02-25T09:48:32.083Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e0aebee1fdb6982f-senior-software-engineer-backend-repayment-ux-engineering-at-affirm?ref=github",
+    "visibility": "full"
   },
   {
     "id": "88308b8310049121",
     "title": "Financial Accountant (Remote",
-    "company": null,
+    "company": "Xapo Bank",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140877,13 +140746,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T12:59:20.390Z",
     "scrapedAt": "2026-02-25T09:48:54.886Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/88308b8310049121-financial-accountant-remote-at-xapo-bank?ref=github",
+    "visibility": "full"
   },
   {
     "id": "37d7ef051c3714d5",
     "title": "Senior Product Designer, Policies",
-    "company": null,
+    "company": "GitLab",
     "region": "EMEA",
     "salary": "$100k–$150k/year",
     "salaryMin": 100000,
@@ -140899,13 +140768,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T12:59:55.963Z",
     "scrapedAt": "2026-02-25T09:50:14.256Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/37d7ef051c3714d5-senior-product-designer-policies-at-gitlab?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bf401319c796dc14",
     "title": "VP Product",
-    "company": null,
+    "company": "Keyrock",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140921,13 +140790,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T10:41:54.480Z",
     "scrapedAt": "2026-02-25T09:52:34.560Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bf401319c796dc14-vp-product-at-keyrock?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fff70af5602369ce",
     "title": "Frontend Software Engineer II, Graphs",
-    "company": null,
+    "company": "Chainalysis",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140943,13 +140812,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T10:43:48.193Z",
     "scrapedAt": "2026-02-25T09:55:17.466Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fff70af5602369ce-frontend-software-engineer-ii-graphs-at-chainalysis?ref=github",
+    "visibility": "full"
   },
   {
     "id": "88b1e40e1308e031",
     "title": "Senior Marketing Analyst (AI & Web3)",
-    "company": null,
+    "company": "Improbable",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -140965,13 +140834,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T11:13:53.776Z",
     "scrapedAt": "2026-02-25T09:56:45.626Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/88b1e40e1308e031-senior-marketing-analyst-ai-web3-at-improbable?ref=github",
+    "visibility": "full"
   },
   {
     "id": "99896466906afc4a",
     "title": "Client Success Manager",
-    "company": null,
+    "company": "Brave",
     "region": "EMEA",
     "salary": "$75k–$85k/year",
     "salaryMin": 75000,
@@ -140986,13 +140855,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T13:03:13.166Z",
     "scrapedAt": "2026-02-25T09:58:02.430Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/99896466906afc4a-client-success-manager-at-brave?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ea51696bd6942abe",
     "title": "Staff Software Engineer – Special Projects @ Chairman Office",
-    "company": null,
+    "company": "Kraken",
     "region": "EMEA",
     "salary": "$104k/year",
     "salaryMin": 104000,
@@ -141008,13 +140877,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T11:18:47.940Z",
     "scrapedAt": "2026-02-25T09:59:55.493Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ea51696bd6942abe-staff-software-engineer-special-projects-chairman-office-at-kraken?ref=github",
+    "visibility": "full"
   },
   {
     "id": "08c1156af3302650",
     "title": "Staff Software Engineer, Hexagate",
-    "company": null,
+    "company": "Chainalysis",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -141030,13 +140899,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T11:19:21.436Z",
     "scrapedAt": "2026-02-25T10:00:03.763Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/08c1156af3302650-staff-software-engineer-hexagate-at-chainalysis?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5c793c078408fd1c",
     "title": "Graduate Quant Developer",
-    "company": null,
+    "company": "B2C2",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -141051,13 +140920,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T13:05:03.623Z",
     "scrapedAt": "2026-02-25T10:01:40.530Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5c793c078408fd1c-graduate-quant-developer-at-b2c2?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bd3a529699598089",
     "title": "Graduate Trader",
-    "company": null,
+    "company": "B2C2",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -141071,13 +140940,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T13:05:09.633Z",
     "scrapedAt": "2026-02-25T10:01:48.370Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bd3a529699598089-graduate-trader-at-b2c2?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5fb11115e7c6f8dd",
     "title": "Associate, AML & KYC Operations",
-    "company": null,
+    "company": "Bitpanda",
     "region": "EMEA",
     "salary": "",
     "salaryMin": null,
@@ -141092,8 +140961,8 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T13:09:36.873Z",
     "scrapedAt": "2026-02-25T10:10:55.873Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5fb11115e7c6f8dd-associate-aml-kyc-operations-at-bitpanda?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8069ca739eb1b372",
@@ -152200,6 +152069,634 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T06:23:44.086Z",
     "scrapedAt": "2026-02-27T06:23:43.440Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f84c5943458e4b84",
+    "title": "Senior Data Engineer - Analytics",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$983k/year",
+    "salaryMin": 982929,
+    "salaryMax": 982929,
+    "skills": [
+      "Stripe",
+      "PayPal",
+      "Team Leadership",
+      "Case Management",
+      "Reporting",
+      "Data Quality",
+      "Talent Acquisition",
+      "Data Governance"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": null,
+    "scrapedAt": "2026-02-27T09:32:19.986Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "840b0d44e4057156",
+    "title": "Senior Engineering Manager - Platform Metal | Sweden | Remote",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Kubernetes",
+      "Team Management",
+      "Grafana",
+      "Gemini",
+      "Claude",
+      "Documentation"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:32:23.310Z",
+    "scrapedAt": "2026-02-27T09:32:21.400Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "1806a46da9fcc5c1",
+    "title": "New Business Enterprise Account Executive - Paris",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "B2B",
+      "Outreach",
+      "Coaching",
+      "Business Development",
+      "Salesforce",
+      "Gong",
+      "Customer Success",
+      "Segment",
+      "Talent Acquisition",
+      "Close",
+      "Prospecting"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:32:24.406Z",
+    "scrapedAt": "2026-02-27T09:32:23.040Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3b6575cd39ebe2cb",
+    "title": "Frontend Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Sass",
+      "Front-end",
+      "Bootstrap",
+      "Tailwind",
+      "Vue.js",
+      "Git",
+      "Data Visualization",
+      "Laravel",
+      "REST",
+      "Back-end"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T09:32:27.846Z",
+    "scrapedAt": "2026-02-27T09:32:26.883Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5598cb58c5e503d8",
+    "title": "Video Producer, London",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$732k–$976k/year",
+    "salaryMin": 731687,
+    "salaryMax": 975583,
+    "skills": [
+      "Adobe Premiere",
+      "Storytelling"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T09:32:27.380Z",
+    "scrapedAt": "2026-02-27T09:32:26.886Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e5dc28889053127c",
+    "title": "Information Security Officer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Slack",
+      "Notion",
+      "Linear",
+      "AWS",
+      "Prospecting",
+      "Git",
+      "Claude",
+      "Harness",
+      "Documentation"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T09:32:28.036Z",
+    "scrapedAt": "2026-02-27T09:32:27.000Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ca6b1a9de34b891c",
+    "title": "AI Automation Specialist / Martech Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "JavaScript",
+      "REST",
+      "Google Sheets",
+      "Airtable"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T09:32:28.270Z",
+    "scrapedAt": "2026-02-27T09:32:27.690Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3401ecb6ad1cd082",
+    "title": "Senior Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "AWS",
+      "Webpack",
+      "Sass",
+      "GraphQL",
+      "Preact",
+      "Cloudflare",
+      "GitHub",
+      "Terraform",
+      "Grafana",
+      "Splunk"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:39:50.706Z",
+    "scrapedAt": "2026-02-27T09:39:49.716Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a9d44f0be0301188",
+    "title": "Software Engineer, Android",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Bitcoin"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T09:40:13.000Z",
+    "scrapedAt": "2026-02-27T09:40:12.380Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "51ecca0a5b728631",
+    "title": "Data Migration Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Prospecting",
+      "Contract Management",
+      "Reporting",
+      "SQL",
+      "Customer Success",
+      "Express"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:40:45.236Z",
+    "scrapedAt": "2026-02-27T09:40:44.563Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "76241e288c42c081",
+    "title": "Engineering Manager, Full Stack (m/f/d)",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Rust",
+      "Dart",
+      "Go",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "React",
+      "Full Stack",
+      "Technical Writing",
+      "Mentoring",
+      "AWS",
+      "REST",
+      "Documentation"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:41:12.410Z",
+    "scrapedAt": "2026-02-27T09:41:11.303Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a3f65d1ea14731d1",
+    "title": "Senior Full Stack Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$208k/year",
+    "salaryMin": 208000,
+    "salaryMax": 208000,
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "Express",
+      "React",
+      "Full Stack",
+      "JavaScript",
+      "Move",
+      "Docker",
+      "SQL",
+      "Kubernetes",
+      "Rust",
+      "PHP",
+      "Python"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:41:28.190Z",
+    "scrapedAt": "2026-02-27T09:41:27.086Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "2af66478248cbdea",
+    "title": "Full-Stack Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Front-end",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Full Stack",
+      "Go",
+      "Python",
+      "GraphQL",
+      "MySQL",
+      "Elasticsearch",
+      "Kubernetes"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:42:05.016Z",
+    "scrapedAt": "2026-02-27T09:42:04.120Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "960feaf715470267",
+    "title": "Senior Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Timeline Management",
+      "Backlog Management",
+      "SQL",
+      "C#",
+      "Full Stack",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Angular",
+      "Helm",
+      "TypeScript",
+      "ASP.NET"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:42:10.530Z",
+    "scrapedAt": "2026-02-27T09:42:09.520Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "572a10d24d5e2fc7",
+    "title": "MacOS Senior Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "C++",
+      "Objective-C",
+      "Swift",
+      "Team Leadership",
+      "Azure",
+      "Linux",
+      "Xcode",
+      "SQL"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:42:27.366Z",
+    "scrapedAt": "2026-02-27T09:42:26.483Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "146090be575b3837",
+    "title": "Full-Stack Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Front-end",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Full Stack",
+      "Go",
+      "Python",
+      "GraphQL",
+      "MySQL",
+      "Elasticsearch",
+      "Kubernetes"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:42:49.620Z",
+    "scrapedAt": "2026-02-27T09:42:48.770Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "74c9f76b434cb76b",
+    "title": "Full-Stack Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Front-end",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Full Stack",
+      "Go",
+      "Python",
+      "GraphQL",
+      "MySQL",
+      "Elasticsearch",
+      "Kubernetes"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:42:55.180Z",
+    "scrapedAt": "2026-02-27T09:42:54.143Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "fc5439b863774b02",
+    "title": "Staff Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Coaching",
+      "Mentoring",
+      "Helm",
+      "Cross-functional Collaboration",
+      "Customer Success",
+      "C#",
+      "Full Stack",
+      "Angular",
+      "TypeScript"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:43:24.280Z",
+    "scrapedAt": "2026-02-27T09:43:23.233Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5b7fc78432236a9d",
+    "title": "Senior Full Stack Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$208k/year",
+    "salaryMin": 208000,
+    "salaryMax": 208000,
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "Express",
+      "React",
+      "Full Stack",
+      "JavaScript",
+      "Move",
+      "Docker",
+      "SQL",
+      "Kubernetes",
+      "Rust",
+      "PHP",
+      "Python"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:43:51.110Z",
+    "scrapedAt": "2026-02-27T09:43:50.056Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ee880b9df409cceb",
+    "title": "Mid-Level Data Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Airflow",
+      "Kafka"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:44:01.696Z",
+    "scrapedAt": "2026-02-27T09:44:01.260Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "0eafdef9cc4a5c96",
+    "title": "Senior Full Stack Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "$208k/year",
+    "salaryMin": 208000,
+    "salaryMax": 208000,
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "Express",
+      "React",
+      "Full Stack",
+      "JavaScript",
+      "Move",
+      "Docker",
+      "SQL",
+      "Kubernetes",
+      "Rust",
+      "PHP",
+      "Python"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:44:28.066Z",
+    "scrapedAt": "2026-02-27T09:44:27.006Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "7f6d7201d2f2096c",
+    "title": "Staff Backend Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Java",
+      "PHP",
+      "Staff Development",
+      "Spring",
+      "PostgreSQL",
+      "Python",
+      "MySQL",
+      "AWS",
+      "Kubernetes",
+      "Kafka",
+      "Terraform"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:44:45.060Z",
+    "scrapedAt": "2026-02-27T09:44:44.103Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "0f409c25be439269",
+    "title": "C++ Staff Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "C++",
+      "Linux",
+      "Azure",
+      "Documentation",
+      "Git",
+      "Mentoring"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:44:55.576Z",
+    "scrapedAt": "2026-02-27T09:44:54.863Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "29d81c08b931c922",
+    "title": "Senior Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Java",
+      "PHP",
+      "Documentation",
+      "REST",
+      "Python",
+      "Kubernetes",
+      "Docker",
+      "AWS"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T09:45:38.830Z",
+    "scrapedAt": "2026-02-27T09:45:38.000Z",
     "url": null,
     "visibility": "teaser"
   }
