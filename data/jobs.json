@@ -49520,28 +49520,6 @@
     "visibility": "full"
   },
   {
-    "id": "433fd7b83715",
-    "title": "Sr. Product Manager, Onboarding",
-    "company": "Kraken",
-    "region": "EMEA",
-    "salary": "$104k/year",
-    "salaryMin": 104000,
-    "salaryMax": 104000,
-    "skills": [
-      "Client Onboarding",
-      "Performance Management",
-      "Bitcoin",
-      "Stakeholder Management",
-      "Data Analysis"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T02:40:34.176Z",
-    "scrapedAt": "2026-02-08T18:40:13.013Z",
-    "url": "https://wagey.gg/jobs/433fd7b83715-sr-product-manager-onboarding-at-kraken?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "dcf0131dc1a1",
     "title": "Zerion - Senior Backend Engineer",
     "company": "Zerion",
@@ -54369,28 +54347,6 @@
     "visibility": "full"
   },
   {
-    "id": "78a6359049ee6b71",
-    "title": "Partner Enablement Manager",
-    "company": "DeepL",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Customer Success",
-      "B2B",
-      "Reporting",
-      "CSM",
-      "Team Management"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T02:43:38.353Z",
-    "scrapedAt": "2026-02-10T10:41:37.246Z",
-    "url": "https://wagey.gg/jobs/78a6359049ee6b71-partner-enablement-manager-at-deepl?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "430c216f0274ddef",
     "title": "Group Financial Controller",
     "company": "Lean Technologies",
@@ -55347,28 +55303,6 @@
     "verifiedAt": "2026-02-26T02:40:37.596Z",
     "scrapedAt": "2026-02-10T14:12:02.130Z",
     "url": "https://wagey.gg/jobs/047095054a123a8f-software-engineer-at-example-corp?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "de0ab842609cd40a",
-    "title": "Software Engineer (Product), International Public Sector",
-    "company": "Scale AI",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Full Stack",
-      "Python",
-      "MongoDB",
-      "TypeScript",
-      "JavaScript"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T02:40:28.353Z",
-    "scrapedAt": "2026-02-10T14:12:06.906Z",
-    "url": "https://wagey.gg/jobs/de0ab842609cd40a-software-engineer-product-international-public-sector-at-scale-ai?ref=github",
     "visibility": "full"
   },
   {
@@ -88898,28 +88832,6 @@
     "visibility": "full"
   },
   {
-    "id": "532f2b897b831b43",
-    "title": "Head of Product - Comms",
-    "company": "kraken123",
-    "region": "EMEA",
-    "salary": "$230k–$280k/year",
-    "salaryMin": 230000,
-    "salaryMax": 280000,
-    "skills": [
-      "Excel",
-      "Customer Engagement",
-      "MBA",
-      "Campaign Management",
-      "PMP"
-    ],
-    "seniority": "director",
-    "ats": "lever",
-    "verifiedAt": "2026-02-26T02:31:34.720Z",
-    "scrapedAt": "2026-02-16T14:55:10.050Z",
-    "url": "https://wagey.gg/jobs/532f2b897b831b43-head-of-product-comms-at-kraken123?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "21cc2fe509246282",
     "title": "Privacy Analyst",
     "company": "kraken123",
@@ -112791,28 +112703,6 @@
     "visibility": "full"
   },
   {
-    "id": "cf05e33d6c8734b7",
-    "title": "Lead Creative Producer",
-    "company": "Flo Health",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Jira",
-      "Confluence",
-      "Google Workspace",
-      "Documentation",
-      "CVR"
-    ],
-    "seniority": "staff",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T02:04:47.916Z",
-    "scrapedAt": "2026-02-19T09:56:21.950Z",
-    "url": "https://wagey.gg/jobs/cf05e33d6c8734b7-lead-creative-producer-at-flo-health?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "404cd2d293745dd2",
     "title": "Sales Development Representative",
     "company": "Anaplan",
@@ -116971,28 +116861,6 @@
     "visibility": "full"
   },
   {
-    "id": "0e14d1944084c32e",
-    "title": "Head of EMEA ",
-    "company": "Triple Whale",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Customer Success",
-      "Product Marketing",
-      "Move",
-      "Reporting",
-      "Customer Engagement"
-    ],
-    "seniority": "director",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T02:22:46.746Z",
-    "scrapedAt": "2026-02-19T22:35:54.600Z",
-    "url": "https://wagey.gg/jobs/0e14d1944084c32e-head-of-emea-at-triple-whale?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "0432dcdeea0639f5",
     "title": "Agency Partner Manager, EMEA",
     "company": "Triple Whale",
@@ -117075,27 +116943,6 @@
     "verifiedAt": "2026-02-26T02:22:55.413Z",
     "scrapedAt": "2026-02-19T22:36:01.796Z",
     "url": "https://wagey.gg/jobs/5a337fda867b7531-principal-site-reliability-engineer-at-copper-co?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "de7f468a8611872a",
-    "title": "Customer Implementation Specialist – London or Peterborough, UK (hybrid)",
-    "company": "Convera",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Customer Onboarding",
-      "Asana",
-      "B2B",
-      "Documentation"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T02:23:26.240Z",
-    "scrapedAt": "2026-02-19T22:36:02.313Z",
-    "url": "https://wagey.gg/jobs/de7f468a8611872a-customer-implementation-specialist-london-or-peterborough-uk-hybrid-at-convera?ref=github",
     "visibility": "full"
   },
   {
@@ -152527,6 +152374,30 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-27T00:38:00.603Z",
     "scrapedAt": "2026-02-27T00:37:59.943Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "1b4fcbef69124738",
+    "title": "Solutions Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "REST",
+      "Prospecting",
+      "WebRTC",
+      "Move",
+      "Mid-Market",
+      "Objection Handling",
+      "Due Diligence"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T03:05:05.323Z",
+    "scrapedAt": "2026-02-27T03:05:03.626Z",
     "url": null,
     "visibility": "teaser"
   }
