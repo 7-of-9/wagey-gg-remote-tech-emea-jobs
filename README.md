@@ -4,14 +4,14 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Europe & Middle East as of 1-Mar-2026 09:07 UTC** | **7,367** | **1,848** | **7,367** |
+| **Europe & Middle East as of 1-Mar-2026 10:05 UTC** | **7,372** | **1,848** | **7,371** |
 
 > Upload your CV at [wagey.gg](https://wagey.gg?ref=github) for smart matching and one-click apply.
 
 ## Other Regions
 
 - [**All regions (main list)**](https://github.com/7-of-9/wagey-gg-remote-tech-jobs)
-- [**Asia-Pacific**](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs) — 2,493 jobs
+- [**Asia-Pacific**](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs) — 2,496 jobs
 
 ---
 
@@ -19,113 +19,118 @@
 
 | Company | Role | Salary USD | Age | |
 |---------|------|------------|-----|---|
-| ░░░░ | Principal Concept Engineer - Pre-Sale... <br><sub>🌐 Remote - Germany • EMEA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Credit Strategy Analyst <br><sub>🏢 London, United Kingdom - Hybrid • EMEA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Lead Product Designer (Fintech) <br><sub>🏢 United Kingdom - Hybrid • EMEA</sub> | $154k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Engineering Manager (Infra / Edge) <br><sub>🏢 London, London, City of, United Kin • EMEA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Back End Engineer <br><sub>🏢 London , United Kingdom , United Ki • EMEA</sub> | $108k–$135k/year | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Engineer (Full Remote <br><sub>🌐 Remote - Czech Republic • EMEA</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Business Development Manager- 3 month... <br><sub>🏢 Dubai • EMEA</sub> | $120k–$240k/year | 6h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Software Engineer - Full Stack <br><sub>🌐 Remote - Greece; Ireland; Portugal; • EMEA</sub> |  | <1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Data Platform Reliability Engineer <br><sub>🌐 Remote - UK • EMEA</sub> |  | <1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Marketing Design Lead (AI & Web3) <br><sub>🌐 Remote - UK • EMEA</sub> |  | <1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Backend Engineer, Node.js + AWS <br><sub>🌐 Remote - UK • EMEA</sub> |  | <1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior SRE DevOps Engineer <br><sub>🌐 Remote - UK • EMEA</sub> |  | <1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Principal Concept Engineer - Pre-Sale... <br><sub>🌐 Remote - Germany • EMEA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Credit Strategy Analyst <br><sub>🏢 London, United Kingdom - Hybrid • EMEA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Lead Product Designer (Fintech) <br><sub>🏢 United Kingdom - Hybrid • EMEA</sub> | $154k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager (Infra / Edge) <br><sub>🏢 London, London, City of, United Kin • EMEA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Back End Engineer <br><sub>🏢 London , United Kingdom , United Ki • EMEA</sub> | $108k–$135k/year | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Engineer (Full Remote <br><sub>🌐 Remote - Czech Republic • EMEA</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Business Development Manager- 3 month... <br><sub>🏢 Dubai • EMEA</sub> | $120k–$240k/year | 7h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░ | Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░ | Performance Marketer (Full Remote <br><sub>🌐 Remote - Italy • EMEA</sub> | $31k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | DACH Marketing Manager <br><sub>🌐 Remote - Europe • EMEA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior QA Automation Engineer <br><sub>🌐 Remote - European Union • EMEA</sub> | $104k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Cyber Security Consultant <br><sub>🌐 Remote - Dubai, Emirate of Dubai, U • EMEA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Software Consultant Specialist- Moder... <br><sub>🏢 London, UKD and Remote - Hybrid • EMEA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Manager, Product Manager <br><sub>🌐 Remote - EMEA • EMEA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Legal Operations Specialist <br><sub>🏢 Remote - Bulgaria - Hybrid • EMEA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Software Engineer (Privacy) <br><sub>🌐 Remote - Europe * • EMEA</sub> | $31k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Engineering Manager Infrastructure <br><sub>🏢 Warsaw, Poland - Hybrid • EMEA</sub> | $105k–$143k/year | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Telecom Sales Specialist, Voice <br><sub>🌐 Remote - UK • EMEA</sub> |  | 8h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Remote Senior Backend Engineer (Djang... <br><sub>🏢 Germany • EMEA</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Software Engineer <br><sub>🏢 London, London, City of, United Kin • EMEA</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Sr AI Engineer <br><sub>🏢 Berlin, Berlin-Brandenburg, Germany • EMEA</sub> | $14k/year | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Delivery Manager <br><sub>🏢 London • EMEA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Principal Data Engineer <br><sub>🏢 London, Greater London, United King • EMEA</sub> | $135k–$162k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - EMEA • EMEA</sub> | $173k–$278k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Credit Risk Analyst <br><sub>🌐 Remote - UK • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🏢 Athens • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Tech Lead, LLM & Generative AI (Full ... <br><sub>🌐 Remote - Turkey • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Director of Revenue Operations <br><sub>🌐 Remote - Europe * • EMEA</sub> | $30k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Tech Lead, LLM & Generative AI (Full ... <br><sub>🌐 Remote - Poland • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Data Engineer <br><sub>🏢 United Kingdom • EMEA</sub> | $135k–$155k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Lead Product Designer (Fintech) <br><sub>🏢 United Kingdom - Hybrid • EMEA</sub> | $154k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Engineering Manager <br><sub>🌐 Remote - UK • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Directeur(trice) Ressources Humaines ... <br><sub>🏢 Paris • EMEA</sub> | $24k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Principal Software Engineer, Backend <br><sub>🏢 Bucharest • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Head of Sales, xStocks <br><sub>🌐 Remote - United States, European Un • EMEA</sub> | $104k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | VP, EMS-SOR Developer <br><sub>🏢 London - Hybrid • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Sales Director, EU <br><sub>🌐 Remote - Global (Remote) - Europe * • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Sales Director, UK <br><sub>🌐 Remote - Global (Remote) - Europe * • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Product Analyst (AI tribe) <br><sub>🏢 London - Hybrid • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Chief Information Security Officer - ... <br><sub>🏢 Greece, Athens • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Executive Assistant and Office Manager <br><sub>🏢 London, UK • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Business Partnership Manager - Payment <br><sub>🏢 Czech Republic, Prague / Poland, Wa • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Blockchain Application Support Engineer <br><sub>🏢 Warsaw, Poland • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | QA Engineer <br><sub>🌐 Remote - Spain (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Database Reliability Engineer <br><sub>🌐 Remote - Netherlands • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Database Reliability Engineer <br><sub>🌐 Remote - Netherlands • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Trading & Onchain Data Analyst <br><sub>🌐 Remote - France, Switzerland, Unite • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - Amsterdam (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | QA Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | QA Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Customer Success Engineer, EMEA <br><sub>🌐 Remote - EMEA • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Core Software Engineer (C++) - Remote <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | AI Vibe Coding Web Designer <br><sub>🌐 Remote - United States, Canada, Bra • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Cloud Platform Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Database Reliability Engineer <br><sub>🌐 Remote - UK • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Core Software Engineer (C++) - Remote <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Fullstack Engineer (Node.js, R... <br><sub>🏢 London, London, United Kingdom • EMEA</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Senior Software Engineer – AI Infrast... <br><sub>🌐 Remote - Canada, Portugal, Spain... • EMEA</sub> | $104k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Product Modeling Engineer <br><sub>🏢 Zagreb, Zagreb, Croatia • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior DevOps Engineer <br><sub>🏢 Poland • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior SDR <br><sub>🌐 Remote - Munich, Bavaria, Germany • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Training: ML Framework Engineer <br><sub>🏢 London, Greater London, United King • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Manager, Solutions Consulting <br><sub>🏢 Remote - Switzerland - Hybrid • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Motion Designer <br><sub>🌐 Remote - Poland, Ukraine • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Benefits Analyst <br><sub>🏢 United Kingdom - Hybrid • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Solution Acceleration Architect <br><sub>🌐 Remote - UK • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Solutions Architect, Public Se... <br><sub>🌐 Remote - Europe * • EMEA</sub> | $140k–$190k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Communications Associate <br><sub>🌐 Remote - Europe • EMEA</sub> | $75k–$115k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Product Counsel <br><sub>🌐 Remote - United Kingdom (Remote) • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Enterprise Account Executive <br><sub>🏢 Oslo, Norway, Norway • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Software Development Engineer III, Te... <br><sub>🌐 Remote - Poland • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Product Counsel <br><sub>🌐 Remote - EMEA (Remote) • EMEA</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Product Engineer (Remote - Anywhere) <br><sub>🌐 Remote - UK • EMEA</sub> | $101k–$148k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Full-Stack Engineer, Email Sys... <br><sub>🌐 Remote - UK • EMEA</sub> | $84k–$97k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Software Engineer, Backend <br><sub>🌐 Remote - Poland, Romania, Hungary,  • EMEA</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - Cyprus, Czech Republic, Ge • EMEA</sub> | $104k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Lead Salesforce Platform Engineer <br><sub>🌐 Remote - EMEA • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Frontend Engineer (Document App Track) <br><sub>🌐 Remote - Portugal • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Frontend Engineer (Document App Track) <br><sub>🌐 Remote - Poland • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Software Engineer, C/FICCO Data <br><sub>🏢 London • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🏢 London, UK • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Software Engineer, Research – Cumberl... <br><sub>🏢 London • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Frontend Engineer (Document App Track) <br><sub>🌐 Remote - Germany • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Engineering Manager, Royalty Accounti... <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🏢 London, UK • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Software Engineer, D2C <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Software Engineer, D2C <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Lead Software Engineer <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Fullstack Software Engineer (Digital ... <br><sub>🌐 Remote - Germany • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Engineering Manager <br><sub>🏢 Dubai, United Arab Emirates • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Lead Generation Specialist <br><sub>🌐 Remote - UK • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Software Engineer, Wikimedia E... <br><sub>🌐 Remote - UTC+0 to UTC+2 - Europe * • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | DACH Marketing Manager <br><sub>🌐 Remote - Europe • EMEA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior QA Automation Engineer <br><sub>🌐 Remote - European Union • EMEA</sub> | $104k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Cyber Security Consultant <br><sub>🌐 Remote - Dubai, Emirate of Dubai, U • EMEA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Software Consultant Specialist- Moder... <br><sub>🏢 London, UKD and Remote - Hybrid • EMEA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Manager, Product Manager <br><sub>🌐 Remote - EMEA • EMEA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Legal Operations Specialist <br><sub>🏢 Remote - Bulgaria - Hybrid • EMEA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Software Engineer (Privacy) <br><sub>🌐 Remote - Europe * • EMEA</sub> | $31k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Engineering Manager Infrastructure <br><sub>🏢 Warsaw, Poland - Hybrid • EMEA</sub> | $105k–$143k/year | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Telecom Sales Specialist, Voice <br><sub>🌐 Remote - UK • EMEA</sub> |  | 9h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Remote Senior Backend Engineer (Djang... <br><sub>🏢 Germany • EMEA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Software Engineer <br><sub>🏢 London, London, City of, United Kin • EMEA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Sr AI Engineer <br><sub>🏢 Berlin, Berlin-Brandenburg, Germany • EMEA</sub> | $14k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Delivery Manager <br><sub>🏢 London • EMEA</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Principal Data Engineer <br><sub>🏢 London, Greater London, United King • EMEA</sub> | $135k–$162k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - EMEA • EMEA</sub> | $173k–$278k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Credit Risk Analyst <br><sub>🌐 Remote - UK • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🏢 Athens • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Tech Lead, LLM & Generative AI (Full ... <br><sub>🌐 Remote - Turkey • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Director of Revenue Operations <br><sub>🌐 Remote - Europe * • EMEA</sub> | $30k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Tech Lead, LLM & Generative AI (Full ... <br><sub>🌐 Remote - Poland • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Data Engineer <br><sub>🏢 United Kingdom • EMEA</sub> | $135k–$155k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Lead Product Designer (Fintech) <br><sub>🏢 United Kingdom - Hybrid • EMEA</sub> | $154k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Engineering Manager <br><sub>🌐 Remote - UK • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Directeur(trice) Ressources Humaines ... <br><sub>🏢 Paris • EMEA</sub> | $24k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Principal Software Engineer, Backend <br><sub>🏢 Bucharest • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Head of Sales, xStocks <br><sub>🌐 Remote - United States, European Un • EMEA</sub> | $104k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | VP, EMS-SOR Developer <br><sub>🏢 London - Hybrid • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Sales Director, EU <br><sub>🌐 Remote - Global (Remote) - Europe * • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Sales Director, UK <br><sub>🌐 Remote - Global (Remote) - Europe * • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Product Analyst (AI tribe) <br><sub>🏢 London - Hybrid • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Chief Information Security Officer - ... <br><sub>🏢 Greece, Athens • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Executive Assistant and Office Manager <br><sub>🏢 London, UK • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Business Partnership Manager - Payment <br><sub>🏢 Czech Republic, Prague / Poland, Wa • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Blockchain Application Support Engineer <br><sub>🏢 Warsaw, Poland • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | QA Engineer <br><sub>🌐 Remote - Spain (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Database Reliability Engineer <br><sub>🌐 Remote - Netherlands • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Database Reliability Engineer <br><sub>🌐 Remote - Netherlands • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Trading & Onchain Data Analyst <br><sub>🌐 Remote - France, Switzerland, Unite • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - Amsterdam (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | QA Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | QA Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Customer Success Engineer, EMEA <br><sub>🌐 Remote - EMEA • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Core Software Engineer (C++) - Remote <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | AI Vibe Coding Web Designer <br><sub>🌐 Remote - United States, Canada, Bra • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Cloud Platform Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Database Reliability Engineer <br><sub>🌐 Remote - UK • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Core Software Engineer (C++) - Remote <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Fullstack Engineer (Node.js, R... <br><sub>🏢 London, London, United Kingdom • EMEA</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Full Stack Software Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Senior Software Engineer – AI Infrast... <br><sub>🌐 Remote - Canada, Portugal, Spain... • EMEA</sub> | $104k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Product Modeling Engineer <br><sub>🏢 Zagreb, Zagreb, Croatia • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Software Engineer <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior DevOps Engineer <br><sub>🏢 Poland • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior SDR <br><sub>🌐 Remote - Munich, Bavaria, Germany • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Training: ML Framework Engineer <br><sub>🏢 London, Greater London, United King • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Manager, Solutions Consulting <br><sub>🏢 Remote - Switzerland - Hybrid • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Motion Designer <br><sub>🌐 Remote - Poland, Ukraine • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Benefits Analyst <br><sub>🏢 United Kingdom - Hybrid • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Solution Acceleration Architect <br><sub>🌐 Remote - UK • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Solutions Architect, Public Se... <br><sub>🌐 Remote - Europe * • EMEA</sub> | $140k–$190k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Communications Associate <br><sub>🌐 Remote - Europe • EMEA</sub> | $75k–$115k/year | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Product Counsel <br><sub>🌐 Remote - United Kingdom (Remote) • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Enterprise Account Executive <br><sub>🏢 Oslo, Norway, Norway • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Software Development Engineer III, Te... <br><sub>🌐 Remote - Poland • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Product Counsel <br><sub>🌐 Remote - EMEA (Remote) • EMEA</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Product Engineer (Remote - Anywhere) <br><sub>🌐 Remote - UK • EMEA</sub> | $101k–$148k/year | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Full-Stack Engineer, Email Sys... <br><sub>🌐 Remote - UK • EMEA</sub> | $84k–$97k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Software Engineer, Backend <br><sub>🌐 Remote - Poland, Romania, Hungary,  • EMEA</sub> |  | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - Cyprus, Czech Republic, Ge • EMEA</sub> | $104k/year | 23h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Lead Salesforce Platform Engineer <br><sub>🌐 Remote - EMEA • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Frontend Engineer (Document App Track) <br><sub>🌐 Remote - Portugal • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Frontend Engineer (Document App Track) <br><sub>🌐 Remote - Poland • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Software Engineer, C/FICCO Data <br><sub>🏢 London • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🏢 London, UK • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Software Engineer, Research – Cumberl... <br><sub>🏢 London • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Frontend Engineer (Document App Track) <br><sub>🌐 Remote - Germany • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Engineering Manager, Royalty Accounti... <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🏢 London, UK • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Software Engineer, D2C <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Software Engineer, D2C <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Lead Software Engineer <br><sub>🏢 UK & Ireland, United Kingdom, Londo • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Fullstack Software Engineer (Digital ... <br><sub>🌐 Remote - Germany • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager <br><sub>🏢 Dubai, United Arab Emirates • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Lead Generation Specialist <br><sub>🌐 Remote - UK • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Software Engineer, Wikimedia E... <br><sub>🌐 Remote - UTC+0 to UTC+2 - Europe * • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░ | Senior Fullstack Software Engineer <br><sub>🏢 London, London, United Kingdom • EMEA</sub> | $150k–$210k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░░░ | Senior Fullstack Engineer <br><sub>🏢 Lisbon, Lisbon, Portugal • EMEA</sub> | $21k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░ | Senior Software Engineer EHR/EMR Inte... <br><sub>🏢 London, London, United Kingdom - Hy • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
@@ -393,30 +398,30 @@
 | ░░░░░ | Freelance Technical Writer at ZenRows <br><sub>🌐 Remote - Europe • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░ | Head of Sales (EMEA/APAC) at Kinsta <br><sub>🌐 Remote - London • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░ | Senior Product Manager - Core Platfor... <br><sub>🌐 Remote - Anywhere • EMEA</sub> | $120k–$193k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | C++ Staff Software Engineer <br><sub>🌐 Remote - Daresbury, United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Staff Backend Engineer <br><sub>🌐 Remote - United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Mid-Level Data Engineer <br><sub>🌐 Remote - Europe • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Staff Software Engineer <br><sub>🌐 Remote - Daresbury, United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Full-Stack Engineer <br><sub>🏢 Cambridge, England, United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Full-Stack Engineer <br><sub>🏢 Cambridge, England, United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | MacOS Senior Software Engineer <br><sub>🌐 Remote - Daresbury, United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🏢 Daresbury, United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Full-Stack Engineer <br><sub>🏢 Cambridge, England, United Kingdom • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Full Stack Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Engineering Manager, Full Stack (m/f/d) <br><sub>🏢 London, England, United Kingdom - H • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Data Migration Engineer <br><sub>🏢 Location: Manchester - Hybrid • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Jobgether - Software Engineer, Android <br><sub>🌐 Remote - UK • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - London • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | AI Automation Specialist / Martech En... <br><sub>🌐 Remote - Ukraine • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Information Security Officer <br><sub>🏢 European Union • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Video Producer, London <br><sub>🏢 London, Greater London, United King • EMEA</sub> | $732k–$976k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Frontend Engineer <br><sub>🏢 Dubai, Dubai, United Arab Emirates • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | New Business Enterprise Account Execu... <br><sub>🌐 Remote - France • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Engineering Manager - Platform... <br><sub>🌐 Remote - UK • EMEA</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Data Engineer - Analytics <br><sub>🌐 Remote - Europe * • EMEA</sub> | $983k/year | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Third-Party Job Posts | Senior Software Engineer <br><sub>🌐 Remote - United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/29d81c08b931c922-senior-software-engineer-at-third-party-job-posts?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1186abab364d0b99" alt="" height="16"> Ivanti | C++ Staff Software Engineer <br><sub>🌐 Remote - Daresbury, United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/0f409c25be439269-c-staff-software-engineer-at-ivanti?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Third-Party Job Posts | Staff Backend Engineer <br><sub>🌐 Remote - United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/7f6d7201d2f2096c-staff-backend-engineer-at-third-party-job-posts?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=38b2e79cdb32fa73" alt="" height="16"> ClickHouse | Senior Full Stack Engineer <br><sub>🌐 Remote - Netherlands (remote) • EMEA</sub> | $208k/year | 2d | [Apply](https://wagey.gg/jobs/0eafdef9cc4a5c96-senior-full-stack-engineer-at-clickhouse?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=e0792e48541df65a" alt="" height="16"> Wellhub | Mid-Level Data Engineer <br><sub>🌐 Remote - Europe • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/ee880b9df409cceb-mid-level-data-engineer-at-wellhub?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=38b2e79cdb32fa73" alt="" height="16"> ClickHouse | Senior Full Stack Engineer <br><sub>🌐 Remote - United Kingdom (remote) • EMEA</sub> | $208k/year | 2d | [Apply](https://wagey.gg/jobs/5b7fc78432236a9d-senior-full-stack-engineer-at-clickhouse?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1186abab364d0b99" alt="" height="16"> Ivanti | Staff Software Engineer <br><sub>🌐 Remote - Daresbury, United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/fc5439b863774b02-staff-software-engineer-at-ivanti?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=34c0a23204718759" alt="" height="16"> Altium | Full-Stack Engineer <br><sub>🏢 Cambridge, England, United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/74c9f76b434cb76b-full-stack-engineer-at-altium?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=34c0a23204718759" alt="" height="16"> Altium | Full-Stack Engineer <br><sub>🏢 Cambridge, England, United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/146090be575b3837-full-stack-engineer-at-altium?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1186abab364d0b99" alt="" height="16"> Ivanti | MacOS Senior Software Engineer <br><sub>🌐 Remote - Daresbury, United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/572a10d24d5e2fc7-macos-senior-software-engineer-at-ivanti?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=1186abab364d0b99" alt="" height="16"> Ivanti | Senior Software Engineer <br><sub>🏢 Daresbury, United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/960feaf715470267-senior-software-engineer-at-ivanti?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=34c0a23204718759" alt="" height="16"> Altium | Full-Stack Engineer <br><sub>🏢 Cambridge, England, United Kingdom • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/2af66478248cbdea-full-stack-engineer-at-altium?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=38b2e79cdb32fa73" alt="" height="16"> ClickHouse | Senior Full Stack Engineer <br><sub>🌐 Remote - Germany (remote) • EMEA</sub> | $208k/year | 2d | [Apply](https://wagey.gg/jobs/a3f65d1ea14731d1-senior-full-stack-engineer-at-clickhouse?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Affinidi | Engineering Manager, Full Stack (m/f/d) <br><sub>🏢 London, England, United Kingdom - H • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/76241e288c42c081-engineering-manager-full-stack-m-f-d-at-affinidi?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=19c63d9a22470bce" alt="" height="16"> Mark43 | Data Migration Engineer <br><sub>🏢 Location: Manchester - Hybrid • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/51ecca0a5b728631-data-migration-engineer-at-mark43?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=8684bb6c6ea727ad" alt="" height="16"> Jobgether | Jobgether - Software Engineer, Android <br><sub>🌐 Remote - UK • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/a9d44f0be0301188-jobgether-software-engineer-android-at-jobgether?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Financial Times | Senior Software Engineer <br><sub>🌐 Remote - London • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/3401ecb6ad1cd082-senior-software-engineer-at-financial-times?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=10030feab1ef8471" alt="" height="16"> kissmyapps | AI Automation Specialist / Martech En... <br><sub>🌐 Remote - Ukraine • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/ca6b1a9de34b891c-ai-automation-specialist-martech-engineer-at-kissmyapps?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=030c76e4f0ed3120" alt="" height="16"> ona | Information Security Officer <br><sub>🏢 European Union • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/e5dc28889053127c-information-security-officer-at-ona?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=67c8a2dd2f9770be" alt="" height="16"> bjakcareer | Video Producer, London <br><sub>🏢 London, Greater London, United King • EMEA</sub> | $732k–$976k/year | 2d | [Apply](https://wagey.gg/jobs/5598cb58c5e503d8-video-producer-london-at-bjakcareer?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Multibank Group | Frontend Engineer <br><sub>🏢 Dubai, Dubai, United Arab Emirates • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/3b6575cd39ebe2cb-frontend-engineer-at-multibank-group?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=d0498fac9d755142" alt="" height="16"> GitLab | New Business Enterprise Account Execu... <br><sub>🌐 Remote - France • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/1806a46da9fcc5c1-new-business-enterprise-account-executive-paris-at-gitlab?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Grafana Labs | Senior Engineering Manager - Platform... <br><sub>🌐 Remote - UK • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/840b0d44e4057156-senior-engineering-manager-platform-metal-sweden-remote-at-grafana-labs?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=a8f30b1c61675709" alt="" height="16"> pennylane | Senior Data Engineer - Analytics <br><sub>🌐 Remote - Europe * • EMEA</sub> | $983k/year | 2d | [Apply](https://wagey.gg/jobs/f84c5943458e4b84-senior-data-engineer-analytics-at-pennylane?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> sully-ai | Senior Customer Success Manager - UAE <br><sub>🏢 Dubai, UAE, United Arab Emirates • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/6f149b0ec1eecc1f-senior-customer-success-manager-uae-at-sully-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> sully-ai | Head of Engineering, UAE <br><sub>🏢 Dubai, UAE, United Arab Emirates • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/58797834bb080033-head-of-engineering-uae-at-sully-ai?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_e592d54105bfc415" alt="" height="16"> OpenFX | Paralegal (UK) <br><sub>🏢 London (UK) • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/35dcfc2a3b161881-paralegal-uk-at-openfx?ref=github) |
@@ -514,11 +519,6 @@
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Property Finder | Associate, Marketing Analytics <br><sub>🏢 Dubai, United Arab Emirates • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/9256fb1f78630cf5-associate-marketing-analytics-at-property-finder?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=bcc0f53fbd0c273d" alt="" height="16"> NMI | Software Engineer I <br><sub>🌐 Remote - UK • EMEA</sub> | $41k–$47k/year | 2d | [Apply](https://wagey.gg/jobs/e5de442c88399a79-software-engineer-i-at-nmi?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=bcc0f53fbd0c273d" alt="" height="16"> NMI | Senior Software Engineer (C#) <br><sub>🌐 Remote - UK • EMEA</sub> | $68k–$88k/year | 2d | [Apply](https://wagey.gg/jobs/382e65f57b76f048-senior-software-engineer-c-at-nmi?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=3ebc5ca20720d058" alt="" height="16"> Nearform | Knowledge Graph Engineer (Perm, UK) <br><sub>🌐 Remote - UK • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/3d000bd993598632-knowledge-graph-engineer-perm-uk-at-nearform?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Lucid Software | EMEA Enterprise Expansion Account Exe... <br><sub>🏢 Remote, Germany - Hybrid • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/bc394a02ea9a0bc2-emea-enterprise-expansion-account-executive-german-speaking-at-lucid-software?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Lucid Software | EMEA Enterprise Expansion Account Exe... <br><sub>🏢 Amsterdam, NL - Hybrid • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/1f14daa8bb619d8b-emea-enterprise-expansion-account-executive-german-speaking-at-lucid-software?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Grafana Labs | Senior Product Counsel \| United King... <br><sub>🌐 Remote - United Kingdom (Remote) • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/21a96f3552668812-senior-product-counsel-united-kingdom-remote-at-grafana-labs?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Grafana Labs | Senior Product Counsel \| Ireland \| ... <br><sub>🌐 Remote - EMEA (Remote) • EMEA</sub> |  | 2d | [Apply](https://wagey.gg/jobs/9fdc2e87c4467633-senior-product-counsel-ireland-remote-at-grafana-labs?ref=github) |
 
 
 ---
@@ -529,6 +529,7 @@ Last 42 updates. Full history in each repo's [commit log](https://github.com/7-o
 
 | Time (UTC) | Main | EMEA | APAC |
 |---|---|---|---|
+| 1-Mar-2026 09:07 UTC | [`af2643b`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/af2643b80b8dacb92e84d39cfc4abead47e3e427) 22,733 | [`d0b5d2e`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/d0b5d2e94aeb89b1789a2836b342ca092f78b250) 7,367 | [`83d59bf`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/83d59bf085bbcb1801fd93ff31dd51ec3e41031b) 2,493 |
 | 1-Mar-2026 08:06 UTC | [`4346243`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/4346243074d4253b1e0e4e119d51881d1415a5a9) 22,735 | [`c97e8d9`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/c97e8d9f675e4e59315c874470456d2df8dc8486) 7,368 | [`65831cf`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/65831cfd394bdf81b9a25dbb16c06a9d2b5e4ae5) 2,493 |
 | 1-Mar-2026 07:14 UTC | [`8685676`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/86856766a90f05d2c44400793e4d36574db08b99) 22,738 | [`bda268a`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/bda268a00777c315b5b51a76042bb1e35c876bfc) 7,369 | [`6f7363f`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/6f7363f3db11529cb670f2d8c51e94362c3ca81f) 2,494 |
 | 1-Mar-2026 06:15 UTC | [`46d0de9`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/46d0de98ba00e5cf22c15920fb6f0f1f8c966184) 22,713 | [`05df17a`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/05df17ac6a5d638b450b481edd7da01cd383dae9) 7,362 | [`de68f45`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/de68f4555d06ad3be0cafd95dd02763c8c14bea2) 2,493 |
@@ -570,7 +571,6 @@ Last 42 updates. Full history in each repo's [commit log](https://github.com/7-o
 | 27-Feb-2026 17:11 UTC | [`7915209`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/791520924772b70d2ba11f3a3112d77fd703fc09) 22,452 | [`f250178`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/f2501789d1cd075760ef86a6cad6074667ba1e51) 7,358 | [`f78ceac`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/f78ceac64babc564f878eb68d494cf1b2e51730e) 2,477 |
 | 27-Feb-2026 16:11 UTC | [`59f4acd`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/59f4acd1a74c19580e325a4540c284e998c5fb90) 22,433 | [`9237474`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/923747479189ab498d37bd588885722131686f7a) 7,346 | [`a76612a`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/a76612a873ffd084c95c7f36e1fa8836557349f8) 2,473 |
 | 27-Feb-2026 15:14 UTC | [`934e621`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/934e621449806c24763a384535095ed324d751b8) 22,478 | [`2f40a97`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/2f40a97872143086fc98645cdceda1107a31ebfb) 7,360 | [`4458ba7`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/4458ba7bd0fde63c1b7b953a7041669f6aa3ef63) 2,475 |
-| 27-Feb-2026 14:15 UTC | [`e30f320`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/e30f3202ee71681a1652a5933d82fae4e16023b3) 22,449 | [`e03eb28`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/e03eb2882145e3ec55533cf0975e382f034b1f07) 7,363 | [`e7baddb`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/e7baddb22605abac06b119f87e4d17b0b1f2bb71) 2,472 |
 
 
 *Updated automatically every hour. Powered by [wagey.gg](https://wagey.gg?ref=github).*
