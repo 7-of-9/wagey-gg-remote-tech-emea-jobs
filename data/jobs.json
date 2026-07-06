@@ -9631,27 +9631,6 @@
     "visibility": "full"
   },
   {
-    "id": "318c16bf5ef5",
-    "title": "Payroll Expert | Netherlands",
-    "company": "Deel",
-    "region": "EMEA",
-    "salary": "$154k/year",
-    "salaryMin": 153920,
-    "salaryMax": 153920,
-    "skills": [
-      "Reporting",
-      "Deel",
-      "Google Sheets",
-      "Excel"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-06-04T07:20:34.274Z",
-    "scrapedAt": "2026-01-29T16:45:01.503Z",
-    "url": "https://wagey.gg/jobs/318c16bf5ef5-payroll-expert-netherlands-at-deel?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "c5ab938a39fa",
     "title": "Consumer Music Marketing Lead",
     "company": "ElevenLabs",
@@ -70140,28 +70119,6 @@
     "visibility": "full"
   },
   {
-    "id": "703fbf254c6fce56",
-    "title": "Technical Success Manager",
-    "company": "FastSpring",
-    "region": "EMEA",
-    "salary": "$59k–$70k/year",
-    "salaryMin": 59000,
-    "salaryMax": 70000,
-    "skills": [
-      "PHP",
-      ".NET",
-      "Slack",
-      "Front-end",
-      "JavaScript"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T02:55:48.343Z",
-    "scrapedAt": "2026-04-08T10:49:20.709Z",
-    "url": "https://wagey.gg/jobs/703fbf254c6fce56-technical-success-manager-at-fastspring?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "c87c3b37d7ec585a",
     "title": "Outbound Account Executive, Europe",
     "company": "Amplemarket",
@@ -71111,28 +71068,6 @@
     "visibility": "full"
   },
   {
-    "id": "4fe6f20168886c83",
-    "title": "Principal UX/UI Designer (Individual Contributor)",
-    "company": "SciLeads",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Figma",
-      "Cross-functional Collaboration",
-      "Team Leadership",
-      "Stakeholder Management",
-      "Close"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T05:01:59.527Z",
-    "scrapedAt": "2026-04-08T10:52:00.076Z",
-    "url": "https://wagey.gg/jobs/4fe6f20168886c83-principal-ux-ui-designer-individual-contributor-at-scileads?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "7db6e3744d9d6913",
     "title": "Principle Product Marketing Specialist",
     "company": "Tripadvisor",
@@ -71291,28 +71226,6 @@
     "verifiedAt": "2026-06-04T05:11:02.933Z",
     "scrapedAt": "2026-04-08T10:52:37.120Z",
     "url": "https://wagey.gg/jobs/7c20ad2229d84e17-senior-quality-engineer-automation-integration-testing-at-entersekt?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "2752e356261f0a46",
-    "title": "Machine Learning Manager, Borrowing",
-    "company": "Monzo",
-    "region": "EMEA",
-    "salary": "$132k–$212k/year",
-    "salaryMin": 132447,
-    "salaryMax": 211915,
-    "skills": [
-      "Records Management",
-      "SQL",
-      "Python",
-      "Coaching",
-      "Mentoring"
-    ],
-    "seniority": "staff",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T05:10:58.057Z",
-    "scrapedAt": "2026-04-08T10:52:47.256Z",
-    "url": "https://wagey.gg/jobs/2752e356261f0a46-machine-learning-manager-borrowing-at-monzo?ref=github",
     "visibility": "full"
   },
   {
@@ -77071,26 +76984,6 @@
     "visibility": "full"
   },
   {
-    "id": "ac8dc671f9e20d7c",
-    "title": "iOS Engineer, Mobile",
-    "company": "Mozilla",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Swift",
-      "Rust",
-      "JavaScript"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T03:04:53.755Z",
-    "scrapedAt": "2026-04-10T05:10:40.347Z",
-    "url": "https://wagey.gg/jobs/ac8dc671f9e20d7c-ios-engineer-mobile-at-mozilla?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "7e3fd3871297cfec",
     "title": "Enterprise Account Executive",
     "company": "Twilio",
@@ -77301,25 +77194,6 @@
     "verifiedAt": "2026-06-04T03:37:10.783Z",
     "scrapedAt": "2026-04-10T05:11:28.211Z",
     "url": "https://wagey.gg/jobs/0f85a7ee3d93a5a2-workforce-management-scheduler-at-opentable?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "190115b7d6d905e2",
-    "title": "Customer Support Specialist (+French Speaking)",
-    "company": "Diligent Corporation",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Governance",
-      "CRM Management"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T03:36:16.956Z",
-    "scrapedAt": "2026-04-10T05:11:30.938Z",
-    "url": "https://wagey.gg/jobs/190115b7d6d905e2-customer-support-specialist-french-speaking-at-diligent-corporation?ref=github",
     "visibility": "full"
   },
   {
@@ -78595,25 +78469,6 @@
     "verifiedAt": "2026-06-04T04:47:32.340Z",
     "scrapedAt": "2026-04-10T06:24:06.424Z",
     "url": "https://wagey.gg/jobs/806bd0a05e9885d7-senior-machine-learning-engineer-intellij-ai-at-jetbrains?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "5492fe0dc71c586a",
-    "title": "Software Engineer",
-    "company": "Speechmatics",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Python",
-      "JavaScript"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T04:47:53.393Z",
-    "scrapedAt": "2026-04-10T06:25:32.728Z",
-    "url": "https://wagey.gg/jobs/5492fe0dc71c586a-software-engineer-at-speechmatics?ref=github",
     "visibility": "full"
   },
   {
@@ -105066,28 +104921,6 @@
     "visibility": "full"
   },
   {
-    "id": "07146149f910eebd",
-    "title": "3Pillar - Senior Software Engineer with React",
-    "company": "3Pillar",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "React",
-      "TypeScript",
-      "JavaScript",
-      "GraphQL",
-      "Apollo"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": "2026-06-10T11:15:07.077Z",
-    "scrapedAt": "2026-04-23T09:20:48.524Z",
-    "url": "https://wagey.gg/jobs/07146149f910eebd-3pillar-senior-software-engineer-with-react-at-3pillar?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "4854ac275e58cfee",
     "title": "Software Engineer, Search Applications",
     "company": "Cohere",
@@ -106728,28 +106561,6 @@
     "verifiedAt": "2026-06-04T07:39:00.766Z",
     "scrapedAt": "2026-04-23T18:28:46.009Z",
     "url": "https://wagey.gg/jobs/db8e14419f9d6fd0-motion-graphic-designer-at-wordsmith?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "9df7151b5faad4e0",
-    "title": "Solutions Engineer",
-    "company": "moonpay",
-    "region": "EMEA",
-    "salary": "$250k/year",
-    "salaryMin": 250000,
-    "salaryMax": 250000,
-    "skills": [
-      "Python",
-      "JavaScript",
-      "Claude",
-      "Cursor",
-      "Account Management"
-    ],
-    "seniority": "mid",
-    "ats": "lever",
-    "verifiedAt": "2026-06-10T11:11:44.422Z",
-    "scrapedAt": "2026-04-23T21:45:41.622Z",
-    "url": "https://wagey.gg/jobs/9df7151b5faad4e0-solutions-engineer-at-moonpay?ref=github",
     "visibility": "full"
   },
   {
@@ -123065,25 +122876,6 @@
     "visibility": "full"
   },
   {
-    "id": "0c9af37badfa6b45",
-    "title": "Business Analyst",
-    "company": "Flagstone Group LTD",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Six Sigma",
-      "Stakeholder Management"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T04:08:27.804Z",
-    "scrapedAt": "2026-05-02T12:06:21.121Z",
-    "url": "https://wagey.gg/jobs/0c9af37badfa6b45-business-analyst-at-flagstone-group-ltd?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "46466439010b4eed",
     "title": "Principal Data Engineer (m/f/d)",
     "company": "Thoughtworks",
@@ -138823,28 +138615,6 @@
     "visibility": "full"
   },
   {
-    "id": "1f2a60465d4bd7f8",
-    "title": "Associate Software Engineer - Engage",
-    "company": "olo",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Unit",
-      "Jest",
-      "NUnit",
-      "Node.js",
-      "JavaScript"
-    ],
-    "seniority": "junior",
-    "ats": "lever",
-    "verifiedAt": "2026-06-10T10:57:50.306Z",
-    "scrapedAt": "2026-05-12T15:18:55.129Z",
-    "url": "https://wagey.gg/jobs/1f2a60465d4bd7f8-associate-software-engineer-engage-at-olo?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "67433a8f3a6b618c",
     "title": "Kyivstar - Senior Product Analyst",
     "company": "kyivstar",
@@ -141004,28 +140774,6 @@
     "visibility": "full"
   },
   {
-    "id": "dbb37e6d67515bec",
-    "title": "Delivery Manager",
-    "company": "cytora.com",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Coaching",
-      "Records Management",
-      "CSM",
-      "Team Management",
-      "Customer Success"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": "2026-06-04T07:24:08.417Z",
-    "scrapedAt": "2026-05-13T10:50:30.098Z",
-    "url": "https://wagey.gg/jobs/dbb37e6d67515bec-delivery-manager-at-cytora-com?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "5bedda9e99c5a629",
     "title": "R&D Intern",
     "company": "tldraw",
@@ -142746,28 +142494,6 @@
     "verifiedAt": "2026-06-04T07:21:27.178Z",
     "scrapedAt": "2026-05-13T23:55:30.840Z",
     "url": "https://wagey.gg/jobs/ab364255c38e0aeb-director-gtm-emea-at-fieldguide?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "ceb633b81b6cb4b6",
-    "title": "Technical Product Manager, Reporting",
-    "company": "creatoriq",
-    "region": "EMEA",
-    "salary": "$99k–$114k/year",
-    "salaryMin": 99463,
-    "salaryMax": 114426,
-    "skills": [
-      "Reporting",
-      "Product Marketing",
-      "Tableau",
-      "Looker",
-      "SQL"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-06-04T07:22:36.546Z",
-    "scrapedAt": "2026-05-13T23:55:34.307Z",
-    "url": "https://wagey.gg/jobs/ceb633b81b6cb4b6-technical-product-manager-reporting-at-creatoriq?ref=github",
     "visibility": "full"
   },
   {
@@ -153383,28 +153109,6 @@
     "visibility": "full"
   },
   {
-    "id": "4ce68b1f166f90a1",
-    "title": "Performance Marketing Manager (6m FTC/Freelance)",
-    "company": "DEPT®",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Performance Management",
-      "Campaign Management",
-      "Excel",
-      "Tableau",
-      "Firebase"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T02:47:07.078Z",
-    "scrapedAt": "2026-05-19T13:34:02.808Z",
-    "url": "https://wagey.gg/jobs/4ce68b1f166f90a1-performance-marketing-manager-6m-ftc-freelance-at-dept?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "11edd7dbb6d51cb9",
     "title": "Senior Director, Operations - EU / UK",
     "company": "MQ Referrals Only",
@@ -161828,28 +161532,6 @@
     "verifiedAt": "2026-06-10T02:02:40.973Z",
     "scrapedAt": "2026-05-22T08:40:15.127Z",
     "url": "https://wagey.gg/jobs/6e930656ce2c93ad-specialist-order-management-at-pergolux?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "60b84fea821e63d8",
-    "title": "Qualysoft - Technical Business Analyst",
-    "company": "Qualysoft",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Excel",
-      "Board Support",
-      "Plane",
-      "Data Analysis",
-      "Reporting"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": "2026-06-10T11:10:12.130Z",
-    "scrapedAt": "2026-05-22T11:14:41.690Z",
-    "url": "https://wagey.gg/jobs/60b84fea821e63d8-qualysoft-technical-business-analyst-at-qualysoft?ref=github",
     "visibility": "full"
   },
   {
@@ -173977,44 +173659,6 @@
     "verifiedAt": "2026-06-04T05:08:48.568Z",
     "scrapedAt": "2026-05-27T21:56:45.796Z",
     "url": "https://wagey.gg/jobs/e550107dfac63d21-inside-sales-representative-smb-msp-emea-at-keeper-security?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "677f59326a070f82",
-    "title": "Level Designer",
-    "company": "Tripledot Studios",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Russian",
-      "Documentation"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T05:09:05.881Z",
-    "scrapedAt": "2026-05-27T21:56:47.214Z",
-    "url": "https://wagey.gg/jobs/677f59326a070f82-level-designer-at-tripledot-studios?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "09167a029a1de9fd",
-    "title": "Senior Ad Monetization Manager",
-    "company": "Tripledot Studios",
-    "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "SQL",
-      "DAU"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-06-04T05:09:10.497Z",
-    "scrapedAt": "2026-05-27T21:56:47.463Z",
-    "url": "https://wagey.gg/jobs/09167a029a1de9fd-senior-ad-monetization-manager-at-tripledot-studios?ref=github",
     "visibility": "full"
   },
   {
@@ -257040,9 +256684,9 @@
   {
     "id": "88ba651eb6b1992d",
     "title": "Creatio Practice Leader",
-    "company": null,
+    "company": "kyivstar",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257054,15 +256698,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:07.260Z",
     "scrapedAt": "2026-06-29T01:21:06.267Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/88ba651eb6b1992d-creatio-practice-leader-at-kyivstar?ref=github",
+    "visibility": "full"
   },
   {
     "id": "72a78289e158845d",
     "title": "Binance Accelerator Program - Enterprise Wide Risk Assessment (EWRA)",
-    "company": null,
+    "company": "binance",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257080,15 +256724,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:10.680Z",
     "scrapedAt": "2026-06-29T01:21:09.128Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/72a78289e158845d-binance-accelerator-program-enterprise-wide-risk-assessment-ewra-at-binance?ref=github",
+    "visibility": "full"
   },
   {
     "id": "42a143d9c81d7644",
     "title": "Senior Backend Engineer - Subscriptions",
-    "company": null,
+    "company": "spotify",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257100,15 +256744,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:12.777Z",
     "scrapedAt": "2026-06-29T01:21:11.096Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/42a143d9c81d7644-senior-backend-engineer-subscriptions-at-spotify?ref=github",
+    "visibility": "full"
   },
   {
     "id": "52ee649a6a7dd884",
     "title": "Mid Market Account Executive - EMEA",
-    "company": null,
+    "company": "bluecatnetworks",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257122,15 +256766,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:12.891Z",
     "scrapedAt": "2026-06-29T01:21:11.905Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/52ee649a6a7dd884-mid-market-account-executive-emea-at-bluecatnetworks?ref=github",
+    "visibility": "full"
   },
   {
     "id": "144a64deddf615ca",
     "title": "Enterprise Account Executive DACH",
-    "company": null,
+    "company": "bluecatnetworks",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257147,15 +256791,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:12.982Z",
     "scrapedAt": "2026-06-29T01:21:11.906Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/144a64deddf615ca-enterprise-account-executive-dach-at-bluecatnetworks?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9ec3ef24655e0643",
     "title": "Account Executive – Strategic Retail, Northern Europe",
-    "company": null,
+    "company": "bazaarvoice",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257173,15 +256817,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:14.035Z",
     "scrapedAt": "2026-06-29T01:21:12.441Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9ec3ef24655e0643-account-executive-strategic-retail-northern-europe-at-bazaarvoice?ref=github",
+    "visibility": "full"
   },
   {
     "id": "dd47bfdab8911116",
     "title": "Data Scientist, Marketing Analytics",
-    "company": null,
+    "company": "sonarsource",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257196,15 +256840,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:14.613Z",
     "scrapedAt": "2026-06-29T01:21:13.235Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/dd47bfdab8911116-data-scientist-marketing-analytics-at-sonarsource?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ccccb090568792fb",
     "title": "Tech Lead, Backend",
-    "company": null,
+    "company": "1inch",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257222,15 +256866,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:14.664Z",
     "scrapedAt": "2026-06-29T01:21:13.349Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ccccb090568792fb-tech-lead-backend-at-1inch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8295fc5a2956418f",
     "title": "Senior PHP Developer, Core Networks",
-    "company": null,
+    "company": "airalo",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257249,15 +256893,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:17.578Z",
     "scrapedAt": "2026-06-29T01:21:15.798Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8295fc5a2956418f-senior-php-developer-core-networks-at-airalo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "94b9b2fc64f88182",
     "title": "AGENTE DE VIAJES PAQUETES TURISTICOS |  IQUIQUE",
-    "company": null,
+    "company": "despegar",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257267,17 +256911,17 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:16.655Z",
     "scrapedAt": "2026-06-29T01:21:16.166Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/94b9b2fc64f88182-agente-de-viajes-paquetes-turisticos-iquique-at-despegar?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b34d5f798c71cc45",
     "title": "Sr. AI Threat Researcher",
-    "company": null,
+    "company": "sophos",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$129k–$215k/year",
+    "salaryMin": 129000,
+    "salaryMax": 215000,
     "skills": [
       "Reporting",
       "Python",
@@ -257287,15 +256931,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:19.217Z",
     "scrapedAt": "2026-06-29T01:21:18.441Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b34d5f798c71cc45-sr-ai-threat-researcher-at-sophos?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a7c574be61bbe695",
     "title": "Business Development & Sales Lead - UK",
-    "company": null,
+    "company": "shieldai",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257313,15 +256957,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:20.955Z",
     "scrapedAt": "2026-06-29T01:21:18.898Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a7c574be61bbe695-business-development-sales-lead-uk-at-shieldai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7cb75862b3fdc1b3",
     "title": "Sales Manager",
-    "company": null,
+    "company": "bisnow",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257334,17 +256978,17 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:21.195Z",
     "scrapedAt": "2026-06-29T01:21:19.668Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7cb75862b3fdc1b3-sales-manager-at-bisnow?ref=github",
+    "visibility": "full"
   },
   {
     "id": "36abfd8f0855851b",
     "title": "Marketing & Commercial Intern, 6 months",
-    "company": null,
+    "company": "ekimetrics",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$33k/year",
+    "salaryMin": 33045,
+    "salaryMax": 33045,
     "skills": [
       "Digital Marketing",
       "Email Marketing",
@@ -257362,17 +257006,17 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:21.977Z",
     "scrapedAt": "2026-06-29T01:21:20.653Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/36abfd8f0855851b-marketing-commercial-intern-6-months-at-ekimetrics?ref=github",
+    "visibility": "full"
   },
   {
     "id": "af9f9418c3b2d0d6",
     "title": "eCommerce EMEA Intern",
-    "company": null,
+    "company": "brooksrunning",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$1067k/year",
+    "salaryMin": 1067129,
+    "salaryMax": 1067129,
     "skills": [
       "Digital Marketing",
       "React",
@@ -257383,15 +257027,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:22.653Z",
     "scrapedAt": "2026-06-29T01:21:21.485Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/af9f9418c3b2d0d6-ecommerce-emea-intern-at-brooksrunning?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ccd2e987b403079b",
     "title": "Jr. Financial Accountant, EMEA",
-    "company": null,
+    "company": "brooksrunning",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257404,15 +257048,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:22.653Z",
     "scrapedAt": "2026-06-29T01:21:21.529Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ccd2e987b403079b-jr-financial-accountant-emea-at-brooksrunning?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b9e74b3d15d32ee4",
     "title": "Junior Personal Shopper",
-    "company": null,
+    "company": "farfetch",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257425,15 +257069,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:24.143Z",
     "scrapedAt": "2026-06-29T01:21:22.260Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b9e74b3d15d32ee4-junior-personal-shopper-at-farfetch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4640b2bb98a25ef5",
     "title": "UK Corporate Tax Associate",
-    "company": null,
+    "company": "farfetch",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257446,15 +257090,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:23.663Z",
     "scrapedAt": "2026-06-29T01:21:22.352Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4640b2bb98a25ef5-uk-corporate-tax-associate-at-farfetch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "23b331286d86b348",
     "title": "CRM Lifecycle Specialist - 12-Month-FTC",
-    "company": null,
+    "company": "Legend",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257466,17 +257110,17 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:24.163Z",
     "scrapedAt": "2026-06-29T01:21:23.400Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/23b331286d86b348-crm-lifecycle-specialist-12-month-ftc-at-legend?ref=github",
+    "visibility": "full"
   },
   {
     "id": "dfea1d7db81d16b4",
     "title": "Sales Development Representative",
-    "company": null,
+    "company": "zeneducate",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$40k/year",
+    "salaryMin": 39654,
+    "salaryMax": 39654,
     "skills": [
       "Account Management",
       "Outreach"
@@ -257485,15 +257129,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:24.514Z",
     "scrapedAt": "2026-06-29T01:21:23.600Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/dfea1d7db81d16b4-sales-development-representative-at-zeneducate?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f9b433aa15371457",
     "title": "Senior Software Engineer — Data Modeling (Europe)",
-    "company": null,
+    "company": "people-ai",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257509,15 +257153,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:25.357Z",
     "scrapedAt": "2026-06-29T01:21:23.656Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f9b433aa15371457-senior-software-engineer-data-modeling-europe-at-people-ai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5f590578338085df",
     "title": "Scrum Master / QA Engineer | Contract (Lithuania Only)",
-    "company": null,
+    "company": "wise-integration",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -257525,15 +257169,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:24.515Z",
     "scrapedAt": "2026-06-29T01:21:23.908Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5f590578338085df-scrum-master-qa-engineer-contract-lithuania-only-at-wise-integration?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a6c3de185e959e2a",
     "title": "Infrastructure & Capital Projects –Cost Manager, ANS",
-    "company": null,
+    "company": "InfrastructureandCapitalProjects",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -257541,15 +257185,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:24.565Z",
     "scrapedAt": "2026-06-29T01:21:23.962Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a6c3de185e959e2a-infrastructure-capital-projects-cost-manager-ans-at-infrastructureandcapitalproj?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fce51fd8b09a64ae",
     "title": "AI/Data Technical Consultant",
-    "company": null,
+    "company": "ShipMonk",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257562,15 +257206,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:24.794Z",
     "scrapedAt": "2026-06-29T01:21:24.020Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fce51fd8b09a64ae-ai-data-technical-consultant-at-shipmonk?ref=github",
+    "visibility": "full"
   },
   {
     "id": "d7b7e1a9aea9a078",
     "title": "Product Marketing Manager (B2B)",
-    "company": null,
+    "company": "viseven",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257583,15 +257227,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:28.355Z",
     "scrapedAt": "2026-06-29T01:21:26.949Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/d7b7e1a9aea9a078-product-marketing-manager-b2b-at-viseven?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f474f57dc368c363",
     "title": "Director of Business Development - Southern Europe",
-    "company": null,
+    "company": "make-rain",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257602,15 +257246,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:27.704Z",
     "scrapedAt": "2026-06-29T01:21:26.949Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f474f57dc368c363-director-of-business-development-southern-europe-at-make-rain?ref=github",
+    "visibility": "full"
   },
   {
     "id": "05dc679eedf2a2e4",
     "title": "Delivery Project Manager ",
-    "company": null,
+    "company": "Blank Street",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257621,15 +257265,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:31.656Z",
     "scrapedAt": "2026-06-29T01:21:31.086Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/05dc679eedf2a2e4-delivery-project-manager-at-blank-street?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2fb82783165765af",
     "title": "Director, Data Science",
-    "company": null,
+    "company": "Brainlabs",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257643,15 +257287,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:34.165Z",
     "scrapedAt": "2026-06-29T01:21:33.218Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2fb82783165765af-director-data-science-at-brainlabs?ref=github",
+    "visibility": "full"
   },
   {
     "id": "58eee6db33916196",
     "title": "Head of Data Services ",
-    "company": null,
+    "company": "Brainlabs",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257662,15 +257306,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:35.222Z",
     "scrapedAt": "2026-06-29T01:21:33.907Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/58eee6db33916196-head-of-data-services-at-brainlabs?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7dfef5f9b8e50146",
     "title": "Manager, Business Intelligence",
-    "company": null,
+    "company": "Brainlabs",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257681,16 +257325,16 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:35.216Z",
     "scrapedAt": "2026-06-29T01:21:34.177Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7dfef5f9b8e50146-manager-business-intelligence-at-brainlabs?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f87387e03a5fa79e",
     "title": "Workplace Operations Coordinator - London",
-    "company": null,
+    "company": "Brave",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
+    "salary": "$137k+/year",
+    "salaryMin": 137468,
     "salaryMax": null,
     "skills": [
       "Slack",
@@ -257702,15 +257346,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:36.230Z",
     "scrapedAt": "2026-06-29T01:21:34.356Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f87387e03a5fa79e-workplace-operations-coordinator-london-at-brave?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5f5686097b25f084",
     "title": "Associate Product Manager",
-    "company": null,
+    "company": "Capital on Tap",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257720,15 +257364,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:36.881Z",
     "scrapedAt": "2026-06-29T01:21:36.035Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5f5686097b25f084-associate-product-manager-at-capital-on-tap?ref=github",
+    "visibility": "full"
   },
   {
     "id": "849673c43ba69f27",
     "title": "Product Support Technician",
-    "company": null,
+    "company": "Catapult Sports",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257741,15 +257385,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:37.777Z",
     "scrapedAt": "2026-06-29T01:21:36.333Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/849673c43ba69f27-product-support-technician-at-catapult-sports?ref=github",
+    "visibility": "full"
   },
   {
     "id": "0c501d48322b95fa",
     "title": "Customer Success Manager - UK",
-    "company": null,
+    "company": "DataCamp",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257766,15 +257410,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:44.325Z",
     "scrapedAt": "2026-06-29T01:21:42.785Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/0c501d48322b95fa-customer-success-manager-uk-at-datacamp?ref=github",
+    "visibility": "full"
   },
   {
     "id": "0eb5a703d0ac501e",
     "title": "Sales Assistant to Senior Director",
-    "company": null,
+    "company": "David Zwirner",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257786,15 +257430,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:44.324Z",
     "scrapedAt": "2026-06-29T01:21:43.108Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/0eb5a703d0ac501e-sales-assistant-to-senior-director-at-david-zwirner?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c80e946f8394c8d4",
     "title": "Senior Customer Success Manager, EMEA",
-    "company": null,
+    "company": "Duetto Research",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257819,15 +257463,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:46.965Z",
     "scrapedAt": "2026-06-29T01:21:45.156Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c80e946f8394c8d4-senior-customer-success-manager-emea-at-duetto-research?ref=github",
+    "visibility": "full"
   },
   {
     "id": "150eef3289807c95",
     "title": "International Senior Sourcer",
-    "company": null,
+    "company": "Fanatics Collectibles",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -257835,15 +257479,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:46.588Z",
     "scrapedAt": "2026-06-29T01:21:45.926Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/150eef3289807c95-international-senior-sourcer-at-fanatics-collectibles?ref=github",
+    "visibility": "full"
   },
   {
     "id": "82def63a18b5dac6",
     "title": "Employment Counsel (London, United Kingdom) ",
-    "company": null,
+    "company": "Figma",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257857,17 +257501,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:51.585Z",
     "scrapedAt": "2026-06-29T01:21:50.305Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/82def63a18b5dac6-employment-counsel-london-united-kingdom-at-figma?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4f3d64a153a972d1",
     "title": "Mid Market Account Executive",
-    "company": null,
+    "company": "PagerDuty",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$104k/year",
+    "salaryMin": 104000,
+    "salaryMax": 104000,
     "skills": [
       "B2B",
       "Outreach",
@@ -257885,15 +257529,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:57.209Z",
     "scrapedAt": "2026-06-29T01:21:55.152Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4f3d64a153a972d1-mid-market-account-executive-at-pagerduty?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5b85819cb8302770",
     "title": "Performance Marketing Manager (Paid Social)",
-    "company": null,
+    "company": "JustWatch",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257906,15 +257550,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:21:56.616Z",
     "scrapedAt": "2026-06-29T01:21:55.888Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5b85819cb8302770-performance-marketing-manager-paid-social-at-justwatch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "890de2907c80551e",
     "title": "Senior Software Engineer, Firefox Security",
-    "company": null,
+    "company": "Mozilla",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257926,16 +257570,16 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:21:57.762Z",
     "scrapedAt": "2026-06-29T01:21:56.777Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/890de2907c80551e-senior-software-engineer-firefox-security-at-mozilla?ref=github",
+    "visibility": "full"
   },
   {
     "id": "deaed14697388688",
     "title": "Deputy Money Laundering Reporting Officer UK",
-    "company": null,
+    "company": "Raisin",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
+    "salary": "$27k+/year",
+    "salaryMin": 26965,
     "salaryMax": null,
     "skills": [
       "ACCA",
@@ -257947,15 +257591,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:27.755Z",
     "scrapedAt": "2026-06-29T01:22:26.479Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/deaed14697388688-deputy-money-laundering-reporting-officer-uk-at-raisin?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2ca6eae837f86c0d",
     "title": "Senior Manager, Business Development ",
-    "company": null,
+    "company": "GitLab",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257974,15 +257618,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:31.020Z",
     "scrapedAt": "2026-06-29T01:22:29.172Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2ca6eae837f86c0d-senior-manager-business-development-at-gitlab?ref=github",
+    "visibility": "full"
   },
   {
     "id": "05aaac536473369a",
     "title": "Associate Sales Engineer - Solutions Center",
-    "company": null,
+    "company": "Zscaler",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -257992,17 +257636,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:31.070Z",
     "scrapedAt": "2026-06-29T01:22:30.058Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/05aaac536473369a-associate-sales-engineer-solutions-center-at-zscaler?ref=github",
+    "visibility": "full"
   },
   {
     "id": "d69857eef8c38dc0",
     "title": "Principal Specialist Sales Engineer - Zero Trust Branch, DACH",
-    "company": null,
+    "company": "Zscaler",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$268k/year",
+    "salaryMin": 267671,
+    "salaryMax": 267671,
     "skills": [
       "Prospecting",
       "Storytelling"
@@ -258011,17 +257655,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:32.546Z",
     "scrapedAt": "2026-06-29T01:22:31.537Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/d69857eef8c38dc0-principal-specialist-sales-engineer-zero-trust-branch-dach-at-zscaler?ref=github",
+    "visibility": "full"
   },
   {
     "id": "792f37d81ab2fe4d",
     "title": "Talent Acquisition Operations Program Manager (6 Month Contract)",
-    "company": null,
+    "company": "PlayStation Global",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$825k–$921k/year",
+    "salaryMin": 824808,
+    "salaryMax": 921035,
     "skills": [
       "Stakeholder Management",
       "Program Management",
@@ -258041,17 +257685,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:33.889Z",
     "scrapedAt": "2026-06-29T01:22:32.548Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/792f37d81ab2fe4d-talent-acquisition-operations-program-manager-6-month-contract-at-playstation-gl?ref=github",
+    "visibility": "full"
   },
   {
     "id": "259ec4d9f573f932",
     "title": "Senior Engineering Manager - Security Engineering",
-    "company": null,
+    "company": "ClickHouse",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$208k/year",
+    "salaryMin": 208000,
+    "salaryMax": 208000,
     "skills": [
       "Performance Management",
       "Team Management",
@@ -258067,15 +257711,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:34.520Z",
     "scrapedAt": "2026-06-29T01:22:33.107Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/259ec4d9f573f932-senior-engineering-manager-security-engineering-at-clickhouse?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5d60530b2645984e",
     "title": "Account Executive, Financial Services",
-    "company": null,
+    "company": "AlphaSense",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258089,15 +257733,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:35.516Z",
     "scrapedAt": "2026-06-29T01:22:34.476Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5d60530b2645984e-account-executive-financial-services-at-alphasense?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e33140bc1e069ef0",
     "title": "Channel and Customer Research Analyst - German Speaker",
-    "company": null,
+    "company": "AlphaSense",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258108,15 +257752,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:36.689Z",
     "scrapedAt": "2026-06-29T01:22:35.463Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e33140bc1e069ef0-channel-and-customer-research-analyst-german-speaker-at-alphasense?ref=github",
+    "visibility": "full"
   },
   {
     "id": "aeed207ab443939b",
     "title": "Mid-Market Account Executive, Corporate",
-    "company": null,
+    "company": "AlphaSense",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258133,15 +257777,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:38.854Z",
     "scrapedAt": "2026-06-29T01:22:36.441Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/aeed207ab443939b-mid-market-account-executive-corporate-at-alphasense?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e8a017d947f8696c",
     "title": "Director, Group Corporate Finance & Strategic Planning",
-    "company": null,
+    "company": "SUBMER",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258160,15 +257804,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:39.447Z",
     "scrapedAt": "2026-06-29T01:22:38.254Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e8a017d947f8696c-director-group-corporate-finance-strategic-planning-at-submer?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7917637c55011fa7",
     "title": "Industry Strategy Manager ",
-    "company": null,
+    "company": "CoLab Software",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258179,15 +257823,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:39.740Z",
     "scrapedAt": "2026-06-29T01:22:39.147Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7917637c55011fa7-industry-strategy-manager-at-colab-software?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ae5a1e055e6f5ee7",
     "title": "Principal Clinical Business Analyst",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258200,17 +257844,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:41.350Z",
     "scrapedAt": "2026-06-29T01:22:40.321Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ae5a1e055e6f5ee7-principal-clinical-business-analyst-at-precision-medicine-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "78ba77f5e1a20765",
     "title": "Principal Clinical Business Analyst",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$46k/year",
+    "salaryMin": 46011,
+    "salaryMax": 46011,
     "skills": [
       "Documentation",
       "Training Development",
@@ -258221,15 +257865,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:41.347Z",
     "scrapedAt": "2026-06-29T01:22:40.322Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/78ba77f5e1a20765-principal-clinical-business-analyst-at-precision-medicine-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5e4dfe64f8bbc1de",
     "title": "Principal Clinical Business Analyst",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258242,15 +257886,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:41.352Z",
     "scrapedAt": "2026-06-29T01:22:40.470Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5e4dfe64f8bbc1de-principal-clinical-business-analyst-at-precision-medicine-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a56091a422f95af3",
     "title": "Director of Strategic Accounts - Central Government ",
-    "company": null,
+    "company": "Tanium",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258261,15 +257905,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:43.706Z",
     "scrapedAt": "2026-06-29T01:22:42.510Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a56091a422f95af3-director-of-strategic-accounts-central-government-at-tanium?ref=github",
+    "visibility": "full"
   },
   {
     "id": "326ae5411671c152",
     "title": "Senior Hardware Design Engineer",
-    "company": null,
+    "company": "BrightSign",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258280,15 +257924,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:47.791Z",
     "scrapedAt": "2026-06-29T01:22:46.100Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/326ae5411671c152-senior-hardware-design-engineer-at-brightsign?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ebd86123162e85ce",
     "title": "Chief Executive Officer",
-    "company": null,
+    "company": "saas.group",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258304,15 +257948,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:53.102Z",
     "scrapedAt": "2026-06-29T01:22:51.806Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ebd86123162e85ce-chief-executive-officer-at-saas-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3e4f863d5515cc2f",
     "title": "Principal ML Engineer",
-    "company": null,
+    "company": "Cloudbeds",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258331,15 +257975,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:22:54.378Z",
     "scrapedAt": "2026-06-29T01:22:52.430Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3e4f863d5515cc2f-principal-ml-engineer-at-cloudbeds?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1f85f2e44e55911f",
     "title": "(Senior) Data Engineer (gn)",
-    "company": null,
+    "company": "The Quality Group",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258358,15 +258002,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:01.587Z",
     "scrapedAt": "2026-06-29T01:22:59.775Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1f85f2e44e55911f-senior-data-engineer-gn-at-the-quality-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3b701601767cf6fe",
     "title": "Senior IT Admin (gn) - International",
-    "company": null,
+    "company": "The Quality Group",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258378,15 +258022,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:01.190Z",
     "scrapedAt": "2026-06-29T01:23:00.084Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3b701601767cf6fe-senior-it-admin-gn-international-at-the-quality-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b890527537c1b846",
     "title": "Associate Director, Performance",
-    "company": null,
+    "company": "DEPT®",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258398,15 +258042,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:02.449Z",
     "scrapedAt": "2026-06-29T01:23:01.128Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b890527537c1b846-associate-director-performance-at-dept?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1fd60bd369fd670f",
     "title": "Product Marketing Manager",
-    "company": null,
+    "company": "Genius Sports",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258420,15 +258064,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:03.800Z",
     "scrapedAt": "2026-06-29T01:23:02.023Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1fd60bd369fd670f-product-marketing-manager-at-genius-sports?ref=github",
+    "visibility": "full"
   },
   {
     "id": "53f40ceeb82f043f",
     "title": "Senior Customer Success Manager - EMEA",
-    "company": null,
+    "company": "Chainguard",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258445,15 +258089,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:09.947Z",
     "scrapedAt": "2026-06-29T01:23:08.114Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/53f40ceeb82f043f-senior-customer-success-manager-emea-at-chainguard?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b2b0cc4ea3001099",
     "title": "Global PMO Director",
-    "company": null,
+    "company": "WPP",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258471,15 +258115,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:11.148Z",
     "scrapedAt": "2026-06-29T01:23:09.262Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b2b0cc4ea3001099-global-pmo-director-at-wpp?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e152b14963a0812b",
     "title": "Senior Cyber Secruity Analyst - GRC",
-    "company": null,
+    "company": "Baringa",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258497,15 +258141,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:15.904Z",
     "scrapedAt": "2026-06-29T01:23:14.233Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e152b14963a0812b-senior-cyber-secruity-analyst-grc-at-baringa?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b704812a0b283d8a",
     "title": "Account Executive, Enterprise Germany ",
-    "company": null,
+    "company": "Everpure",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258518,15 +258162,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:15.536Z",
     "scrapedAt": "2026-06-29T01:23:14.335Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b704812a0b283d8a-account-executive-enterprise-germany-at-everpure?ref=github",
+    "visibility": "full"
   },
   {
     "id": "172fb0d5b0290454",
     "title": "Consulting Systems Engineer, Data Management  (EMEA)",
-    "company": null,
+    "company": "Everpure",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258559,15 +258203,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:18.219Z",
     "scrapedAt": "2026-06-29T01:23:15.008Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/172fb0d5b0290454-consulting-systems-engineer-data-management-emea-at-everpure?ref=github",
+    "visibility": "full"
   },
   {
     "id": "13aa17168f067377",
     "title": "EMEA Enterprise Field Marketing Specialist, 12 month fixed term contract",
-    "company": null,
+    "company": "Everpure",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258583,15 +258227,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:16.804Z",
     "scrapedAt": "2026-06-29T01:23:15.258Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/13aa17168f067377-emea-enterprise-field-marketing-specialist-12-month-fixed-term-contract-at-everp?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4bb183eeac01934a",
     "title": "Creative AI Content Operations Lead (12-Month Fixed-Term Contract)",
-    "company": null,
+    "company": "WongDoody",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258602,15 +258246,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:17.296Z",
     "scrapedAt": "2026-06-29T01:23:16.577Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4bb183eeac01934a-creative-ai-content-operations-lead-12-month-fixed-term-contract-at-wongdoody?ref=github",
+    "visibility": "full"
   },
   {
     "id": "365aa0658664927c",
     "title": "In-App Video Producer",
-    "company": null,
+    "company": "Flo Health",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258624,15 +258268,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:19.412Z",
     "scrapedAt": "2026-06-29T01:23:18.044Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/365aa0658664927c-in-app-video-producer-at-flo-health?ref=github",
+    "visibility": "full"
   },
   {
     "id": "76664577cd2b20b4",
     "title": "Senior Growth Manager,  UK",
-    "company": null,
+    "company": "Reddit",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258647,15 +258291,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:20.797Z",
     "scrapedAt": "2026-06-29T01:23:18.889Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/76664577cd2b20b4-senior-growth-manager-uk-at-reddit?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1463e15127cbc816",
     "title": "Credit and Collections Analyst",
-    "company": null,
+    "company": "Vonage",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258674,15 +258318,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:24.942Z",
     "scrapedAt": "2026-06-29T01:23:23.065Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1463e15127cbc816-credit-and-collections-analyst-at-vonage?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a19bd5744c4f906d",
     "title": "Senior Product Manager",
-    "company": null,
+    "company": "Diligent Corporation",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258698,15 +258342,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:27.592Z",
     "scrapedAt": "2026-06-29T01:23:26.483Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a19bd5744c4f906d-senior-product-manager-at-diligent-corporation?ref=github",
+    "visibility": "full"
   },
   {
     "id": "db6834b02bd55683",
     "title": "CRM Lead - Membership Engagement Marketing",
-    "company": null,
+    "company": "Tide",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258720,15 +258364,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:27.592Z",
     "scrapedAt": "2026-06-29T01:23:26.554Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/db6834b02bd55683-crm-lead-membership-engagement-marketing-at-tide?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4811fa23ea74c95f",
     "title": "EMEA Assurance Lead",
-    "company": null,
+    "company": "Scale AI",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258746,15 +258390,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:33.193Z",
     "scrapedAt": "2026-06-29T01:23:30.852Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4811fa23ea74c95f-emea-assurance-lead-at-scale-ai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "79d4f0c3b4e4649a",
     "title": "Engineering Manager, UAE",
-    "company": null,
+    "company": "Scale AI",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258768,15 +258412,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:32.570Z",
     "scrapedAt": "2026-06-29T01:23:30.962Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/79d4f0c3b4e4649a-engineering-manager-uae-at-scale-ai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bc59a1faaab133c2",
     "title": "Senior Onboarding Manager (Mid-Market)",
-    "company": null,
+    "company": "Nory",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258795,17 +258439,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:23:37.273Z",
     "scrapedAt": "2026-06-29T01:23:36.131Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bc59a1faaab133c2-senior-onboarding-manager-mid-market-at-nory?ref=github",
+    "visibility": "full"
   },
   {
     "id": "45afc6b1c4f18240",
     "title": "Inside Sales Representative MM, Bilingual (German) - DACH",
-    "company": null,
+    "company": "Keeper Security",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$48k/year",
+    "salaryMin": 47840,
+    "salaryMax": 47840,
     "skills": [
       "Prospecting",
       "Cold Calling",
@@ -258820,15 +258464,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:39.770Z",
     "scrapedAt": "2026-06-29T01:23:38.237Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/45afc6b1c4f18240-inside-sales-representative-mm-bilingual-german-dach-at-keeper-security?ref=github",
+    "visibility": "full"
   },
   {
     "id": "efb60f4e3b87cef9",
     "title": "Tax Director",
-    "company": null,
+    "company": "Tripledot Studios",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258841,15 +258485,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:43.586Z",
     "scrapedAt": "2026-06-29T01:23:42.374Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/efb60f4e3b87cef9-tax-director-at-tripledot-studios?ref=github",
+    "visibility": "full"
   },
   {
     "id": "aef5bf9c628ff9b3",
     "title": "Java QA Automation Engineer",
-    "company": null,
+    "company": "Qualysoft",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258870,15 +258514,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:23:43.926Z",
     "scrapedAt": "2026-06-29T01:23:42.832Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/aef5bf9c628ff9b3-java-qa-automation-engineer-at-qualysoft?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7a4feb1d238ea8ab",
     "title": "(Senior) Data Engineer (gn)",
-    "company": null,
+    "company": "The Quality Group GmbH",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258895,15 +258539,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:49.900Z",
     "scrapedAt": "2026-06-29T01:23:48.587Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7a4feb1d238ea8ab-senior-data-engineer-gn-at-the-quality-group-gmbh?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e6feff21e2cfe5bc",
     "title": "Copywriting Lead",
-    "company": null,
+    "company": "Bybit",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258917,15 +258561,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:51.776Z",
     "scrapedAt": "2026-06-29T01:23:50.394Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e6feff21e2cfe5bc-copywriting-lead-at-bybit?ref=github",
+    "visibility": "full"
   },
   {
     "id": "df6fc89ccac7ea7b",
     "title": "Principal Clinical Business Analyst",
-    "company": null,
+    "company": "Precision for Medicine",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258938,15 +258582,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:53.926Z",
     "scrapedAt": "2026-06-29T01:23:52.724Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/df6fc89ccac7ea7b-principal-clinical-business-analyst-at-precision-for-medicine?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4349f832ad0631b0",
     "title": "Principal Clinical Business Analyst",
-    "company": null,
+    "company": "Precision for Medicine",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -258959,17 +258603,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:53.500Z",
     "scrapedAt": "2026-06-29T01:23:52.726Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4349f832ad0631b0-principal-clinical-business-analyst-at-precision-for-medicine?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9f2fba691bf7aa67",
     "title": "Director, Delivery (EMEA)",
-    "company": null,
+    "company": "Testlio",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$624k/year",
+    "salaryMin": 624000,
+    "salaryMax": 624000,
     "skills": [
       "Coaching",
       "Reporting",
@@ -258980,15 +258624,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:54.849Z",
     "scrapedAt": "2026-06-29T01:23:53.284Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9f2fba691bf7aa67-director-delivery-emea-at-testlio?ref=github",
+    "visibility": "full"
   },
   {
     "id": "12c0b03b883c90e6",
     "title": "Business Development Representative I (m/f/d)",
-    "company": null,
+    "company": "Wellhub",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259002,17 +258646,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:55.370Z",
     "scrapedAt": "2026-06-29T01:23:53.974Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/12c0b03b883c90e6-business-development-representative-i-m-f-d-at-wellhub?ref=github",
+    "visibility": "full"
   },
   {
     "id": "23dca33635c9fa15",
     "title": "Client Sales Account Manager (m/f/d)",
-    "company": null,
+    "company": "Wellhub",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$132k–$661k/year",
+    "salaryMin": 132181,
+    "salaryMax": 660904,
     "skills": [
       "Account Management",
       "Prospecting",
@@ -259024,15 +258668,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:23:55.911Z",
     "scrapedAt": "2026-06-29T01:23:54.463Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/23dca33635c9fa15-client-sales-account-manager-m-f-d-at-wellhub?ref=github",
+    "visibility": "full"
   },
   {
     "id": "01a124bd4c48434a",
     "title": "Account Executive, Mid-Market",
-    "company": null,
+    "company": "flowengineering",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259045,15 +258689,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:23:57.979Z",
     "scrapedAt": "2026-06-29T01:23:56.390Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/01a124bd4c48434a-account-executive-mid-market-at-flowengineering?ref=github",
+    "visibility": "full"
   },
   {
     "id": "36672a66957de651",
     "title": "Social Media Manager",
-    "company": null,
+    "company": "ruby-labs",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259070,15 +258714,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:23:59.808Z",
     "scrapedAt": "2026-06-29T01:23:58.366Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/36672a66957de651-social-media-manager-at-ruby-labs?ref=github",
+    "visibility": "full"
   },
   {
     "id": "220b8f0eda239039",
     "title": "CRM Manager (ManyChat)",
-    "company": null,
+    "company": "ruby-labs",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259091,15 +258735,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:23:59.538Z",
     "scrapedAt": "2026-06-29T01:23:58.594Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/220b8f0eda239039-crm-manager-manychat-at-ruby-labs?ref=github",
+    "visibility": "full"
   },
   {
     "id": "83f725cf748fe982",
     "title": "B2B Sales Lead, UK",
-    "company": null,
+    "company": "neko-health",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259114,17 +258758,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:07.738Z",
     "scrapedAt": "2026-06-29T01:24:06.188Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/83f725cf748fe982-b2b-sales-lead-uk-at-neko-health?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b39068c4db6c7a85",
     "title": "Director of Sales Development (SDR's) EMEA",
-    "company": null,
+    "company": "sosafe",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$21k/year",
+    "salaryMin": 20800,
+    "salaryMax": 20800,
     "skills": [
       "Coaching",
       "Goal Setting",
@@ -259135,15 +258779,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:08.607Z",
     "scrapedAt": "2026-06-29T01:24:06.779Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b39068c4db6c7a85-director-of-sales-development-sdr-s-emea-at-sosafe?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c151e3612fcae4bd",
     "title": "AI Enablement Lead",
-    "company": null,
+    "company": "multiverse",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259156,15 +258800,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:09.349Z",
     "scrapedAt": "2026-06-29T01:24:07.686Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c151e3612fcae4bd-ai-enablement-lead-at-multiverse?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1a0f040984bcac6f",
     "title": "Degree Senior Operations Specialist",
-    "company": null,
+    "company": "multiverse",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259180,17 +258824,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:09.273Z",
     "scrapedAt": "2026-06-29T01:24:07.690Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1a0f040984bcac6f-degree-senior-operations-specialist-at-multiverse?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5d9bb1c9617fd244",
     "title": "Creative Manager, Film",
-    "company": null,
+    "company": "runna",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$64k–$68k/year",
+    "salaryMin": 64108,
+    "salaryMax": 68073,
     "skills": [
       "Content Creation",
       "Coaching",
@@ -259201,15 +258845,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:08.692Z",
     "scrapedAt": "2026-06-29T01:24:07.740Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5d9bb1c9617fd244-creative-manager-film-at-runna?ref=github",
+    "visibility": "full"
   },
   {
     "id": "816a02aea190ee1a",
     "title": "Junior Analytics Engineer ",
-    "company": null,
+    "company": "lendable",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259226,15 +258870,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:09.948Z",
     "scrapedAt": "2026-06-29T01:24:08.116Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/816a02aea190ee1a-junior-analytics-engineer-at-lendable?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b43a3f3f56aa0d5f",
     "title": "Pricing Strategy & Operations",
-    "company": null,
+    "company": "Sierra",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259246,17 +258890,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:09.718Z",
     "scrapedAt": "2026-06-29T01:24:08.117Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b43a3f3f56aa0d5f-pricing-strategy-operations-at-sierra?ref=github",
+    "visibility": "full"
   },
   {
     "id": "63e0da5e9eb2d260",
     "title": "Support Engineer",
-    "company": null,
+    "company": "assembledhq",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$66k–$79k/year",
+    "salaryMin": 66090,
+    "salaryMax": 79308,
     "skills": [
       "Reporting",
       "SQL",
@@ -259270,15 +258914,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:10.365Z",
     "scrapedAt": "2026-06-29T01:24:08.566Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/63e0da5e9eb2d260-support-engineer-at-assembledhq?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cabc36dad2c295c6",
     "title": "GTM Operations",
-    "company": null,
+    "company": "Sierra",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259300,15 +258944,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:11.788Z",
     "scrapedAt": "2026-06-29T01:24:09.318Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cabc36dad2c295c6-gtm-operations-at-sierra?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7fced6d9735497ca",
     "title": "Technical Account Manager, Europe",
-    "company": null,
+    "company": "socket",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259329,33 +258973,33 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:11.886Z",
     "scrapedAt": "2026-06-29T01:24:09.674Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7fced6d9735497ca-technical-account-manager-europe-at-socket?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e217df2a202b3a32",
     "title": "Product Builder ",
-    "company": null,
+    "company": "camunda",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$120k–$193k/year",
+    "salaryMin": 119900,
+    "salaryMax": 193200,
     "skills": [],
     "seniority": null,
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:13.838Z",
     "scrapedAt": "2026-06-29T01:24:13.031Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e217df2a202b3a32-product-builder-at-camunda?ref=github",
+    "visibility": "full"
   },
   {
     "id": "18d257f354fe62bd",
     "title": "Senior Delivery Lead",
-    "company": null,
+    "company": "camunda",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$146k–$236k/year",
+    "salaryMin": 146400,
+    "salaryMax": 236000,
     "skills": [
       "ARR",
       "Customer Success"
@@ -259364,15 +259008,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:14.924Z",
     "scrapedAt": "2026-06-29T01:24:13.554Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/18d257f354fe62bd-senior-delivery-lead-at-camunda?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4016c85bfc90abc3",
     "title": "Member of Technical Staff, Physical AI",
-    "company": null,
+    "company": "substrate-bio",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259383,15 +259027,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:17.879Z",
     "scrapedAt": "2026-06-29T01:24:16.849Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4016c85bfc90abc3-member-of-technical-staff-physical-ai-at-substrate-bio?ref=github",
+    "visibility": "full"
   },
   {
     "id": "dd43eef2f24d9163",
     "title": "Senior Platform Engineer",
-    "company": null,
+    "company": "zilch",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259412,17 +259056,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:18.745Z",
     "scrapedAt": "2026-06-29T01:24:16.940Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/dd43eef2f24d9163-senior-platform-engineer-at-zilch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2c1b694dd959ce47",
     "title": "Senior Product Designer ",
-    "company": null,
+    "company": "zilch",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$550k/year",
+    "salaryMin": 549872,
+    "salaryMax": 549872,
     "skills": [
       "Coaching"
     ],
@@ -259430,17 +259074,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:17.880Z",
     "scrapedAt": "2026-06-29T01:24:17.230Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2c1b694dd959ce47-senior-product-designer-at-zilch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e7e871b2a080e38a",
     "title": "Senior Finance Data Analyst",
-    "company": null,
+    "company": "zilch",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$550k/year",
+    "salaryMin": 549872,
+    "salaryMax": 549872,
     "skills": [
       "SQL",
       "Data Quality",
@@ -259461,15 +259105,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:19.868Z",
     "scrapedAt": "2026-06-29T01:24:17.915Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e7e871b2a080e38a-senior-finance-data-analyst-at-zilch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "799df56d670fd5b7",
     "title": "Lead Software Engineer  (Java)",
-    "company": null,
+    "company": "arq",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259481,15 +259125,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:19.309Z",
     "scrapedAt": "2026-06-29T01:24:18.520Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/799df56d670fd5b7-lead-software-engineer-java-at-arq?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2848ab9feac3cafc",
     "title": "Manager, Solution Architecture",
-    "company": null,
+    "company": "monday.com",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259508,15 +259152,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:21.333Z",
     "scrapedAt": "2026-06-29T01:24:19.867Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2848ab9feac3cafc-manager-solution-architecture-at-monday-com?ref=github",
+    "visibility": "full"
   },
   {
     "id": "12403d91aa711cfe",
     "title": "Product Engineer (Transcription)",
-    "company": null,
+    "company": "granola",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259529,17 +259173,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:21.334Z",
     "scrapedAt": "2026-06-29T01:24:20.366Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/12403d91aa711cfe-product-engineer-transcription-at-granola?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fec53e49b2853bed",
     "title": "Senior Software Engineer II - Product Growth",
-    "company": null,
+    "company": "kit",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$186k/year",
+    "salaryMin": 186000,
+    "salaryMax": 186000,
     "skills": [
       "Ruby",
       "React",
@@ -259557,15 +259201,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:26.053Z",
     "scrapedAt": "2026-06-29T01:24:24.264Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fec53e49b2853bed-senior-software-engineer-ii-product-growth-at-kit?ref=github",
+    "visibility": "full"
   },
   {
     "id": "500db1995657234a",
     "title": "Finance & Reconciliation Analyst / Safeguarding",
-    "company": null,
+    "company": "pleo",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259582,15 +259226,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:26.257Z",
     "scrapedAt": "2026-06-29T01:24:24.825Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/500db1995657234a-finance-reconciliation-analyst-safeguarding-at-pleo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f76de7437c1cb84f",
     "title": "Director, Customer Success (Large & High Growth) ",
-    "company": null,
+    "company": "pleo",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259608,15 +259252,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:26.550Z",
     "scrapedAt": "2026-06-29T01:24:24.935Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f76de7437c1cb84f-director-customer-success-large-high-growth-at-pleo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a3c25ad07f421552",
     "title": "Developer Success Engineer",
-    "company": null,
+    "company": "LiveKit",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259626,15 +259270,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:26.957Z",
     "scrapedAt": "2026-06-29T01:24:25.997Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a3c25ad07f421552-developer-success-engineer-at-livekit?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e9bc7bfff4558c0a",
     "title": "Clinical Support Expert - Removables (UK)",
-    "company": null,
+    "company": "dandy",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259651,15 +259295,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:28.563Z",
     "scrapedAt": "2026-06-29T01:24:27.168Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e9bc7bfff4558c0a-clinical-support-expert-removables-uk-at-dandy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e04051b6707e965e",
     "title": "Account Executive - Mid-Market - France",
-    "company": null,
+    "company": "primer.io",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259669,15 +259313,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:28.210Z",
     "scrapedAt": "2026-06-29T01:24:27.290Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e04051b6707e965e-account-executive-mid-market-france-at-primer-io?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fbe727983e643c6d",
     "title": "Account Executive - SMB - France",
-    "company": null,
+    "company": "primer.io",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259687,15 +259331,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:28.239Z",
     "scrapedAt": "2026-06-29T01:24:27.338Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fbe727983e643c6d-account-executive-smb-france-at-primer-io?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4eb718fca69c9209",
     "title": "Revenue Operations Specialist - Solutions & Services",
-    "company": null,
+    "company": "synthesia",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259715,15 +259359,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:31.633Z",
     "scrapedAt": "2026-06-29T01:24:29.243Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4eb718fca69c9209-revenue-operations-specialist-solutions-services-at-synthesia?ref=github",
+    "visibility": "full"
   },
   {
     "id": "526712fdc43f01ad",
     "title": "Customer Success Manager - Belgium 🇧🇪 (Dutch Speaker)",
-    "company": null,
+    "company": "Alan",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259735,15 +259379,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:30.594Z",
     "scrapedAt": "2026-06-29T01:24:29.929Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/526712fdc43f01ad-customer-success-manager-belgium-dutch-speaker-at-alan?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c8478224b813ffa8",
     "title": "Finance Reconciliation Analyst",
-    "company": null,
+    "company": "taptapsend",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259756,15 +259400,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:30.575Z",
     "scrapedAt": "2026-06-29T01:24:29.980Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c8478224b813ffa8-finance-reconciliation-analyst-at-taptapsend?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f0ceb89572cae2e3",
     "title": "Pre-Sales",
-    "company": null,
+    "company": "Alan",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259775,15 +259419,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:31.633Z",
     "scrapedAt": "2026-06-29T01:24:30.136Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f0ceb89572cae2e3-pre-sales-at-alan?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ede12890fb4bcf27",
     "title": "Product Manager",
-    "company": null,
+    "company": "taptapsend",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259793,15 +259437,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:31.636Z",
     "scrapedAt": "2026-06-29T01:24:30.223Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ede12890fb4bcf27-product-manager-at-taptapsend?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5f4d16022411bc53",
     "title": "Account Executive - FlexiPay",
-    "company": null,
+    "company": "fundingcircle",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -259809,15 +259453,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:31.635Z",
     "scrapedAt": "2026-06-29T01:24:30.465Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5f4d16022411bc53-account-executive-flexipay-at-fundingcircle?ref=github",
+    "visibility": "full"
   },
   {
     "id": "92d62a0a2c525aee",
     "title": "Podcast Production Associate",
-    "company": null,
+    "company": "zoe",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259832,15 +259476,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:33.932Z",
     "scrapedAt": "2026-06-29T01:24:32.329Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/92d62a0a2c525aee-podcast-production-associate-at-zoe?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a41358a95f7c4636",
     "title": "Campaign Marketing Manager",
-    "company": null,
+    "company": "zoe",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259853,15 +259497,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:33.149Z",
     "scrapedAt": "2026-06-29T01:24:32.330Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a41358a95f7c4636-campaign-marketing-manager-at-zoe?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9fcb22a7466eed25",
     "title": "Senior Internal Communications Lead",
-    "company": null,
+    "company": "checkatrade",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259871,15 +259515,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:33.024Z",
     "scrapedAt": "2026-06-29T01:24:32.339Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9fcb22a7466eed25-senior-internal-communications-lead-at-checkatrade?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f76b9be92826414d",
     "title": "Commercial Associate",
-    "company": null,
+    "company": "omnea",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259890,15 +259534,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:33.196Z",
     "scrapedAt": "2026-06-29T01:24:32.384Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f76b9be92826414d-commercial-associate-at-omnea?ref=github",
+    "visibility": "full"
   },
   {
     "id": "59b620937f06a230",
     "title": "Director of Engineering, AI",
-    "company": null,
+    "company": "dash0",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259910,15 +259554,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:32.936Z",
     "scrapedAt": "2026-06-29T01:24:32.385Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/59b620937f06a230-director-of-engineering-ai-at-dash0?ref=github",
+    "visibility": "full"
   },
   {
     "id": "aa1af47012dd8be9",
     "title": "Senior Recruiter, Engineering",
-    "company": null,
+    "company": "omnea",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259928,17 +259572,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:34.278Z",
     "scrapedAt": "2026-06-29T01:24:32.941Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/aa1af47012dd8be9-senior-recruiter-engineering-at-omnea?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1bddeaf4314b5701",
     "title": "Customer Trust Specialist",
-    "company": null,
+    "company": "legora",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$27k/year",
+    "salaryMin": 27001,
+    "salaryMax": 27001,
     "skills": [
       "B2B",
       "Customer Relations",
@@ -259952,15 +259596,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:36.361Z",
     "scrapedAt": "2026-06-29T01:24:35.173Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1bddeaf4314b5701-customer-trust-specialist-at-legora?ref=github",
+    "visibility": "full"
   },
   {
     "id": "17596eb2af9bb8ea",
     "title": "Workplace Coordinator",
-    "company": null,
+    "company": "legora",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -259974,15 +259618,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:36.362Z",
     "scrapedAt": "2026-06-29T01:24:35.547Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/17596eb2af9bb8ea-workplace-coordinator-at-legora?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c2fc4f739e924d82",
     "title": "Analytics Service Transition Manager | Asahi",
-    "company": null,
+    "company": "gt-hq",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260000,15 +259644,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:39.369Z",
     "scrapedAt": "2026-06-29T01:24:37.562Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c2fc4f739e924d82-analytics-service-transition-manager-asahi-at-gt-hq?ref=github",
+    "visibility": "full"
   },
   {
     "id": "83dfa10fce2db8d5",
     "title": "Product Lead - Experience",
-    "company": null,
+    "company": "enode",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260021,15 +259665,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:39.086Z",
     "scrapedAt": "2026-06-29T01:24:37.733Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/83dfa10fce2db8d5-product-lead-experience-at-enode?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a1bc09a34c858b4a",
     "title": "Director of Platform Engineering",
-    "company": null,
+    "company": "hawkeyeinnovations",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260042,15 +259686,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:38.840Z",
     "scrapedAt": "2026-06-29T01:24:37.969Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a1bc09a34c858b4a-director-of-platform-engineering-at-hawkeyeinnovations?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b16ca820cc0d8d6c",
     "title": "GTM Strategy and Operations - EMEA",
-    "company": null,
+    "company": "harvey",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260061,15 +259705,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:42.221Z",
     "scrapedAt": "2026-06-29T01:24:41.134Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b16ca820cc0d8d6c-gtm-strategy-and-operations-emea-at-harvey?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2d7d36fd812ba698",
     "title": "Security Engineer (Internal)",
-    "company": null,
+    "company": "mazehq",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260086,15 +259730,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:44.300Z",
     "scrapedAt": "2026-06-29T01:24:42.581Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2d7d36fd812ba698-security-engineer-internal-at-mazehq?ref=github",
+    "visibility": "full"
   },
   {
     "id": "847b0c6eec774461",
     "title": "Europe Communications Lead",
-    "company": null,
+    "company": "runway-ml",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260109,15 +259753,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:45.120Z",
     "scrapedAt": "2026-06-29T01:24:44.136Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/847b0c6eec774461-europe-communications-lead-at-runway-ml?ref=github",
+    "visibility": "full"
   },
   {
     "id": "fac5bc88a6b11055",
     "title": "Senior Engineer - Platform",
-    "company": null,
+    "company": "trainline",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260132,15 +259776,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:45.995Z",
     "scrapedAt": "2026-06-29T01:24:44.600Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fac5bc88a6b11055-senior-engineer-platform-at-trainline?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ebd4c9841a5a417e",
     "title": "Engineer - Platform",
-    "company": null,
+    "company": "trainline",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260155,15 +259799,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:46.030Z",
     "scrapedAt": "2026-06-29T01:24:44.689Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ebd4c9841a5a417e-engineer-platform-at-trainline?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ea3f6c4c04790d5b",
     "title": "Senior Backend Engineer - .Net",
-    "company": null,
+    "company": "trainline",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260177,17 +259821,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:47.229Z",
     "scrapedAt": "2026-06-29T01:24:44.913Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ea3f6c4c04790d5b-senior-backend-engineer-net-at-trainline?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bdfaa810be996a27",
     "title": "Hebrew LQA Reviewer",
-    "company": null,
+    "company": "Welo Global",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$520k/year",
+    "salaryMin": 520000,
+    "salaryMax": 520000,
     "skills": [
       "Hebrew",
       "Jira",
@@ -260197,15 +259841,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:24:45.651Z",
     "scrapedAt": "2026-06-29T01:24:45.186Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bdfaa810be996a27-hebrew-lqa-reviewer-at-welo-global?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e72d8214e65f2008",
     "title": "Product Manager, AI",
-    "company": null,
+    "company": "kestra",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260215,15 +259859,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:45.990Z",
     "scrapedAt": "2026-06-29T01:24:45.449Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e72d8214e65f2008-product-manager-ai-at-kestra?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f6612a0f81fe83d3",
     "title": "Senior Backend Engineer, AI Orchestration",
-    "company": null,
+    "company": "kestra",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260247,15 +259891,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:48.316Z",
     "scrapedAt": "2026-06-29T01:24:45.493Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f6612a0f81fe83d3-senior-backend-engineer-ai-orchestration-at-kestra?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1b5f41ad15325d2a",
     "title": "Product Engineer, AI",
-    "company": null,
+    "company": "kestra",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260279,17 +259923,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:48.523Z",
     "scrapedAt": "2026-06-29T01:24:45.538Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1b5f41ad15325d2a-product-engineer-ai-at-kestra?ref=github",
+    "visibility": "full"
   },
   {
     "id": "23f565a9d1632633",
     "title": "Senior Growth Engineer - Remote",
-    "company": null,
+    "company": "lottie",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$99k–$126k/year",
+    "salaryMin": 99136,
+    "salaryMax": 125572,
     "skills": [
       "Front-end",
       "Campaign Management",
@@ -260305,17 +259949,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:48.768Z",
     "scrapedAt": "2026-06-29T01:24:47.229Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/23f565a9d1632633-senior-growth-engineer-remote-at-lottie?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7003416285e17f67",
     "title": "Customer Service Representative ",
-    "company": null,
+    "company": "lottie",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$40k–$46k/year",
+    "salaryMin": 39654,
+    "salaryMax": 46263,
     "skills": [
       "Lottie",
       "Catalyst",
@@ -260327,17 +259971,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:48.577Z",
     "scrapedAt": "2026-06-29T01:24:47.232Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7003416285e17f67-customer-service-representative-at-lottie?ref=github",
+    "visibility": "full"
   },
   {
     "id": "72663d877326b0eb",
     "title": "People Operations Partner",
-    "company": null,
+    "company": "masabi",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$520k/year",
+    "salaryMin": 520000,
+    "salaryMax": 520000,
     "skills": [
       "Team Management",
       "Reporting",
@@ -260349,17 +259993,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:48.785Z",
     "scrapedAt": "2026-06-29T01:24:47.315Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/72663d877326b0eb-people-operations-partner-at-masabi?ref=github",
+    "visibility": "full"
   },
   {
     "id": "d128339b21e8eaca",
     "title": "Senior Growth Engineer ",
-    "company": null,
+    "company": "lottie",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$99k–$126k/year",
+    "salaryMin": 99136,
+    "salaryMax": 125572,
     "skills": [
       "Front-end",
       "Campaign Management",
@@ -260375,15 +260019,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:49.418Z",
     "scrapedAt": "2026-06-29T01:24:48.022Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/d128339b21e8eaca-senior-growth-engineer-at-lottie?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5659129f94f10cbc",
     "title": "Technical Lead",
-    "company": null,
+    "company": "getscope",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260395,15 +260039,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:49.415Z",
     "scrapedAt": "2026-06-29T01:24:48.527Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/5659129f94f10cbc-technical-lead-at-getscope?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4ef85ab3868686da",
     "title": "Mid Market Account Executive - South Europe",
-    "company": null,
+    "company": "prelude",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260417,15 +260061,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:51.858Z",
     "scrapedAt": "2026-06-29T01:24:50.632Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4ef85ab3868686da-mid-market-account-executive-south-europe-at-prelude?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7988c8df08aa0db6",
     "title": "Design Engineer",
-    "company": null,
+    "company": "crackenagi",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260438,15 +260082,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:52.585Z",
     "scrapedAt": "2026-06-29T01:24:50.996Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7988c8df08aa0db6-design-engineer-at-crackenagi?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ed221c2850fa20ba",
     "title": "People Operations Partner",
-    "company": null,
+    "company": "cuspai",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260465,15 +260109,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:53.462Z",
     "scrapedAt": "2026-06-29T01:24:51.807Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ed221c2850fa20ba-people-operations-partner-at-cuspai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4eb57a5879e9bd3b",
     "title": "Senior SRE Engineer",
-    "company": null,
+    "company": "encord",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260493,15 +260137,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:53.459Z",
     "scrapedAt": "2026-06-29T01:24:51.808Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4eb57a5879e9bd3b-senior-sre-engineer-at-encord?ref=github",
+    "visibility": "full"
   },
   {
     "id": "28a05fc376a88aad",
     "title": "Test (Please Ignore)",
-    "company": null,
+    "company": "percona",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -260509,15 +260153,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:52.857Z",
     "scrapedAt": "2026-06-29T01:24:52.325Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/28a05fc376a88aad-test-please-ignore-at-percona?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9c4b4ae33caba923",
     "title": "Senior Virtual Cloud Platform Engineer (m/f/d)",
-    "company": null,
+    "company": "codesphere",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260533,15 +260177,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:55.079Z",
     "scrapedAt": "2026-06-29T01:24:53.862Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9c4b4ae33caba923-senior-virtual-cloud-platform-engineer-m-f-d-at-codesphere?ref=github",
+    "visibility": "full"
   },
   {
     "id": "126cb179bedc725d",
     "title": "Senior Mechanical Engineer",
-    "company": null,
+    "company": "arthur",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260551,15 +260195,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:56.196Z",
     "scrapedAt": "2026-06-29T01:24:55.371Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/126cb179bedc725d-senior-mechanical-engineer-at-arthur?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bebaa5649a16d5de",
     "title": "International Accountant",
-    "company": null,
+    "company": "ideals",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260574,15 +260218,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:58.600Z",
     "scrapedAt": "2026-06-29T01:24:57.249Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bebaa5649a16d5de-international-accountant-at-ideals?ref=github",
+    "visibility": "full"
   },
   {
     "id": "834f4ba49b8c0051",
     "title": "Operations Generalist",
-    "company": null,
+    "company": "gradient-labs",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260595,15 +260239,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:24:58.504Z",
     "scrapedAt": "2026-06-29T01:24:57.733Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/834f4ba49b8c0051-operations-generalist-at-gradient-labs?ref=github",
+    "visibility": "full"
   },
   {
     "id": "0a949a55587ccfdb",
     "title": "Consumer and Product Communications Consultant, EMEA (Contract)",
-    "company": null,
+    "company": "greenlight-workforce-solutions",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260615,15 +260259,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:00.807Z",
     "scrapedAt": "2026-06-29T01:24:59.665Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/0a949a55587ccfdb-consumer-and-product-communications-consultant-emea-contract-at-greenlight-workf?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ad0b1c251343bae6",
     "title": "Senior Platform Architect",
-    "company": null,
+    "company": "axelera",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -260631,17 +260275,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:02.362Z",
     "scrapedAt": "2026-06-29T01:24:59.753Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ad0b1c251343bae6-senior-platform-architect-at-axelera?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8e720a2620d6c4bd",
     "title": "GTM Engineer",
-    "company": null,
+    "company": "ben",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$275k/year",
+    "salaryMin": 274936,
+    "salaryMax": 274936,
     "skills": [
       "Prospecting",
       "Claude",
@@ -260651,17 +260295,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:05.524Z",
     "scrapedAt": "2026-06-29T01:25:03.646Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8e720a2620d6c4bd-gtm-engineer-at-ben?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ca989b2cc90ebe68",
     "title": "Sales Development Associate",
-    "company": null,
+    "company": "artsy",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$37k–$44k/year",
+    "salaryMin": 37011,
+    "salaryMax": 43620,
     "skills": [
       "Portuguese",
       "Cold Calling",
@@ -260675,17 +260319,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:05.825Z",
     "scrapedAt": "2026-06-29T01:25:03.649Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ca989b2cc90ebe68-sales-development-associate-at-artsy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "55097da5fb59df06",
     "title": "Sales Lead, New Business (London)",
-    "company": null,
+    "company": "artsy",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$69k–$95k/year",
+    "salaryMin": 68734,
+    "salaryMax": 95170,
     "skills": [
       "Team Management",
       "Performance Management",
@@ -260700,15 +260344,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:06.245Z",
     "scrapedAt": "2026-06-29T01:25:03.649Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/55097da5fb59df06-sales-lead-new-business-london-at-artsy?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f1932f0e5bc41afb",
     "title": "Executive Assistant ",
-    "company": null,
+    "company": "pencil",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260719,15 +260363,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:06.101Z",
     "scrapedAt": "2026-06-29T01:25:04.479Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f1932f0e5bc41afb-executive-assistant-at-pencil?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f368574002028424",
     "title": "Employment Counsel",
-    "company": null,
+    "company": "oyster",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260744,15 +260388,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:07.379Z",
     "scrapedAt": "2026-06-29T01:25:05.385Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f368574002028424-employment-counsel-at-oyster?ref=github",
+    "visibility": "full"
   },
   {
     "id": "48651c673b6fe34b",
     "title": "Principal Recruiter, Research Talent",
-    "company": null,
+    "company": "odysseyml",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260764,15 +260408,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:07.815Z",
     "scrapedAt": "2026-06-29T01:25:06.149Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/48651c673b6fe34b-principal-recruiter-research-talent-at-odysseyml?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f1aaac9147bc1800",
     "title": "Research Engineer (Evals)",
-    "company": null,
+    "company": "whitecircle",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260782,17 +260426,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:07.345Z",
     "scrapedAt": "2026-06-29T01:25:06.508Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f1aaac9147bc1800-research-engineer-evals-at-whitecircle?ref=github",
+    "visibility": "full"
   },
   {
     "id": "6250698a8bbc0e93",
     "title": "Customer Success Manager",
-    "company": null,
+    "company": "jigsaw",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$1000k/year",
+    "salaryMin": 1000000,
+    "salaryMax": 1000000,
     "skills": [
       "Product Marketing",
       "Customer Engagement",
@@ -260809,15 +260453,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:08.534Z",
     "scrapedAt": "2026-06-29T01:25:06.806Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/6250698a8bbc0e93-customer-success-manager-at-jigsaw?ref=github",
+    "visibility": "full"
   },
   {
     "id": "123bafd7c22c6db5",
     "title": "Product Success Associate",
-    "company": null,
+    "company": "jigsaw",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -260825,15 +260469,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:08.587Z",
     "scrapedAt": "2026-06-29T01:25:07.596Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/123bafd7c22c6db5-product-success-associate-at-jigsaw?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f9a672c176567224",
     "title": "Dex - Founding Data Scientist",
-    "company": null,
+    "company": "dex",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260843,15 +260487,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:08.867Z",
     "scrapedAt": "2026-06-29T01:25:07.813Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f9a672c176567224-dex-founding-data-scientist-at-dex?ref=github",
+    "visibility": "full"
   },
   {
     "id": "539bd8ff18f8511d",
     "title": "Performance Marketing Manager",
-    "company": null,
+    "company": "binance.us",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260869,15 +260513,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:09.546Z",
     "scrapedAt": "2026-06-29T01:25:07.815Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/539bd8ff18f8511d-performance-marketing-manager-at-binance-us?ref=github",
+    "visibility": "full"
   },
   {
     "id": "db3af6e2d862677e",
     "title": "Implementation Manager",
-    "company": null,
+    "company": "lyrebird-health",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260891,15 +260535,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:10.071Z",
     "scrapedAt": "2026-06-29T01:25:08.355Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/db3af6e2d862677e-implementation-manager-at-lyrebird-health?ref=github",
+    "visibility": "full"
   },
   {
     "id": "266193b9f643a69a",
     "title": "Principal Product Designer",
-    "company": null,
+    "company": "smarkets",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260912,15 +260556,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:10.257Z",
     "scrapedAt": "2026-06-29T01:25:09.319Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/266193b9f643a69a-principal-product-designer-at-smarkets?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9e5b6f9646196644",
     "title": "Product Engineer ",
-    "company": null,
+    "company": "algo1",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260930,15 +260574,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:25:10.576Z",
     "scrapedAt": "2026-06-29T01:25:09.979Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9e5b6f9646196644-product-engineer-at-algo1?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b363b2857599ccdf",
     "title": "Senior Campaign Analyst",
-    "company": null,
+    "company": "JustWatch",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260953,17 +260597,17 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:26:01.731Z",
     "scrapedAt": "2026-06-29T01:26:01.138Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b363b2857599ccdf-senior-campaign-analyst-at-justwatch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "8fb2a794445599f0",
     "title": "Hebrew Automotive Terminologist",
-    "company": null,
+    "company": "Welo Global",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$520k/year",
+    "salaryMin": 520000,
+    "salaryMax": 520000,
     "skills": [
       "Hebrew"
     ],
@@ -260971,15 +260615,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T01:26:21.969Z",
     "scrapedAt": "2026-06-29T01:26:21.612Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8fb2a794445599f0-hebrew-automotive-terminologist-at-welo-global?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f47919e3eddc1aef",
     "title": "AI Backend Engineer (AI Workflow Systems)",
-    "company": null,
+    "company": "Bjak",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -260991,15 +260635,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:26:58.160Z",
     "scrapedAt": "2026-06-29T01:26:57.471Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f47919e3eddc1aef-ai-backend-engineer-ai-workflow-systems-at-bjak?ref=github",
+    "visibility": "full"
   },
   {
     "id": "93fd5f902ac34e60",
     "title": "Faculty Fellowship Programme",
-    "company": null,
+    "company": "Faculty Fellowship",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -261011,15 +260655,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:27:26.246Z",
     "scrapedAt": "2026-06-29T01:27:25.573Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/93fd5f902ac34e60-faculty-fellowship-programme-at-faculty-fellowship?ref=github",
+    "visibility": "full"
   },
   {
     "id": "247eeef197a2dbb3",
     "title": "Android Software Engineer",
-    "company": null,
+    "company": "Bjak",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -261031,15 +260675,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:31:53.743Z",
     "scrapedAt": "2026-06-29T01:31:53.089Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/247eeef197a2dbb3-android-software-engineer-at-bjak?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c35579763aabe71f",
     "title": "Applied ML Researcher (Force Fields and Simulation)",
-    "company": null,
+    "company": "CuspAI",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -261052,33 +260696,33 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T01:32:21.129Z",
     "scrapedAt": "2026-06-29T01:32:20.403Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c35579763aabe71f-applied-ml-researcher-force-fields-and-simulation-at-cuspai?ref=github",
+    "visibility": "full"
   },
   {
     "id": "443be5df2de84684",
     "title": "Spécialiste de l'Expérience Réclamations (Francophone)",
-    "company": null,
+    "company": "Airbnb",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$63k/year",
+    "salaryMin": 63000,
+    "salaryMax": 63000,
     "skills": [],
     "seniority": null,
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T01:41:01.181Z",
     "scrapedAt": "2026-06-29T01:41:00.602Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/443be5df2de84684-sp-cialiste-de-l-exp-rience-r-clamations-francophone-at-airbnb?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4abfa6311eb3c8d8",
     "title": "Inside Sales Representative",
-    "company": null,
+    "company": "New Era Technology",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$55k–$65k/year",
+    "salaryMin": 55000,
+    "salaryMax": 65000,
     "skills": [
       "Documentation"
     ],
@@ -261086,15 +260730,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T02:04:03.600Z",
     "scrapedAt": "2026-06-29T02:04:03.000Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4abfa6311eb3c8d8-inside-sales-representative-at-new-era-technology?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c6cb8e4303bd97e1",
     "title": "Android Developer at Airalo",
-    "company": null,
+    "company": "Airalo",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -261108,15 +260752,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T02:09:26.242Z",
     "scrapedAt": "2026-06-29T02:09:18.685Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c6cb8e4303bd97e1-android-developer-at-airalo-at-airalo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4d30b27469d14046",
     "title": "Senior Site Reliability Engineer at Airalo",
-    "company": null,
+    "company": "Airalo",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -261130,15 +260774,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T02:10:44.519Z",
     "scrapedAt": "2026-06-29T02:10:36.545Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4d30b27469d14046-senior-site-reliability-engineer-at-airalo-at-airalo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "d71f53a6bc1e2b50",
     "title": "Associate Product Manager at Clearer",
-    "company": null,
+    "company": "Clearer",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -261146,15 +260790,15 @@
     "ats": "lever",
     "verifiedAt": "2026-06-29T02:11:44.193Z",
     "scrapedAt": "2026-06-29T02:11:37.330Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/d71f53a6bc1e2b50-associate-product-manager-at-clearer-at-clearer?ref=github",
+    "visibility": "full"
   },
   {
     "id": "829e1f5229c67fde",
     "title": "Technical Sourcer",
-    "company": null,
+    "company": "Deliveroo",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -261167,17 +260811,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T02:16:01.334Z",
     "scrapedAt": "2026-06-29T02:16:00.688Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/829e1f5229c67fde-technical-sourcer-at-deliveroo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "76206454f9d0da3b",
     "title": "Service Analyst, Workforce Management",
-    "company": null,
+    "company": "Monzo",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$43k–$56k/year",
+    "salaryMin": 43487,
+    "salaryMax": 55516,
     "skills": [
       "Team Management"
     ],
@@ -261185,17 +260829,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-06-29T02:19:57.181Z",
     "scrapedAt": "2026-06-29T02:19:56.613Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/76206454f9d0da3b-service-analyst-workforce-management-at-monzo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "00f51600a4b2fe06",
     "title": "Teamlead Procurement (m/f/d)",
-    "company": null,
+    "company": "Roadsurfer",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$74k/year",
+    "salaryMin": 74106,
+    "salaryMax": 74106,
     "skills": [
       "Procurement"
     ],
@@ -261203,8 +260847,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-06-29T02:20:06.654Z",
     "scrapedAt": "2026-06-29T02:20:06.083Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/00f51600a4b2fe06-teamlead-procurement-m-f-d-at-roadsurfer?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9d5ff56d39f933c4",
@@ -273226,9 +272870,9 @@
   {
     "id": "c23fb65c43eedaf7",
     "title": "[Job-30309] Ai Engineer, UK",
-    "company": "ciandt",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -273236,15 +272880,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:12.186Z",
     "scrapedAt": "2026-07-03T10:52:11.763Z",
-    "url": "https://wagey.gg/jobs/c23fb65c43eedaf7-job-30309-ai-engineer-uk-at-ciandt?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "003df8c21a429bcb",
     "title": "Risk Delivery Manager (Operational Resilience & Third Party Risk)",
-    "company": "zopa",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273257,15 +272901,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:12.875Z",
     "scrapedAt": "2026-07-03T10:52:12.052Z",
-    "url": "https://wagey.gg/jobs/003df8c21a429bcb-risk-delivery-manager-operational-resilience-third-party-risk-at-zopa?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "e76e747db3d1347c",
     "title": "Старший фахівець з розвитку Віg Dаtа та А2Р продуктів",
-    "company": "kyivstar",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -273273,17 +272917,17 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:13.425Z",
     "scrapedAt": "2026-07-03T10:52:12.589Z",
-    "url": "https://wagey.gg/jobs/e76e747db3d1347c-g-d-t-2-at-kyivstar?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "bb4e1350f8530c46",
     "title": "Senior People Partner",
-    "company": "moonpay",
+    "company": null,
     "region": "EMEA",
-    "salary": "$250k/year",
-    "salaryMin": 250000,
-    "salaryMax": 250000,
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
     "skills": [
       "Team Leadership",
       "Coaching",
@@ -273297,15 +272941,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:14.628Z",
     "scrapedAt": "2026-07-03T10:52:12.698Z",
-    "url": "https://wagey.gg/jobs/bb4e1350f8530c46-senior-people-partner-at-moonpay?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "051b22acb780c9ed",
     "title": "Провідний фахівець з розвитку продуктів (Cloud products)",
-    "company": "kyivstar",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273318,15 +272962,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:15.217Z",
     "scrapedAt": "2026-07-03T10:52:13.401Z",
-    "url": "https://wagey.gg/jobs/051b22acb780c9ed-cloud-products-at-kyivstar?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "e593c898b9cf93ed",
     "title": "People Systems Lead",
-    "company": "contentsquare",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273345,15 +272989,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:16.694Z",
     "scrapedAt": "2026-07-03T10:52:14.447Z",
-    "url": "https://wagey.gg/jobs/e593c898b9cf93ed-people-systems-lead-at-contentsquare?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "0aae6dc94e1db6aa",
     "title": "Reward Manager",
-    "company": "titanwh",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273368,15 +273012,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:17.741Z",
     "scrapedAt": "2026-07-03T10:52:15.152Z",
-    "url": "https://wagey.gg/jobs/0aae6dc94e1db6aa-reward-manager-at-titanwh?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "1aea9f6d026ec066",
     "title": "Computer Voice Rating Task for Scottish English (Scotland)",
-    "company": "appen",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -273384,15 +273028,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:17.993Z",
     "scrapedAt": "2026-07-03T10:52:15.458Z",
-    "url": "https://wagey.gg/jobs/1aea9f6d026ec066-computer-voice-rating-task-for-scottish-english-scotland-at-appen?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "a2296f362bf9637e",
     "title": "Category Management Executive",
-    "company": "Careem",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273407,15 +273051,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:18.595Z",
     "scrapedAt": "2026-07-03T10:52:16.422Z",
-    "url": "https://wagey.gg/jobs/a2296f362bf9637e-category-management-executive-at-careem?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "78f5be6f2a0a5094",
     "title": "Deputy Compliance Officer - ADGM",
-    "company": "binance",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273426,15 +273070,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-03T10:52:21.939Z",
     "scrapedAt": "2026-07-03T10:52:20.393Z",
-    "url": "https://wagey.gg/jobs/78f5be6f2a0a5094-deputy-compliance-officer-adgm-at-binance?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "58345d226b0be468",
     "title": "Director, Customer Success",
-    "company": "Anaplan",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273449,15 +273093,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:23.254Z",
     "scrapedAt": "2026-07-03T10:52:21.606Z",
-    "url": "https://wagey.gg/jobs/58345d226b0be468-director-customer-success-at-anaplan?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "2c9c1786faa88776",
     "title": "AI Engineer (Amazon Bedrock)",
-    "company": "CreateFuture",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273470,15 +273114,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:25.922Z",
     "scrapedAt": "2026-07-03T10:52:24.840Z",
-    "url": "https://wagey.gg/jobs/2c9c1786faa88776-ai-engineer-amazon-bedrock-at-createfuture?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "2c4eed2872c6a671",
     "title": "Lead Cloud Platform Engineer",
-    "company": "CreateFuture",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273500,15 +273144,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:27.478Z",
     "scrapedAt": "2026-07-03T10:52:25.539Z",
-    "url": "https://wagey.gg/jobs/2c4eed2872c6a671-lead-cloud-platform-engineer-at-createfuture?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "d5d9a37fc9badc21",
     "title": "Senior Cloud Platform Engineer",
-    "company": "CreateFuture",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273527,15 +273171,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:27.525Z",
     "scrapedAt": "2026-07-03T10:52:25.770Z",
-    "url": "https://wagey.gg/jobs/d5d9a37fc9badc21-senior-cloud-platform-engineer-at-createfuture?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "b8af667aa2e4a66a",
     "title": "Senior Manager, Sales (Mid-Market & Enterprise)",
-    "company": "Greenhouse",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273554,15 +273198,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:28.328Z",
     "scrapedAt": "2026-07-03T10:52:26.798Z",
-    "url": "https://wagey.gg/jobs/b8af667aa2e4a66a-senior-manager-sales-mid-market-enterprise-at-greenhouse?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "c4f5bb28f529911f",
     "title": "Senior GCP Process Auditor",
-    "company": "Precision for Medicine",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273572,15 +273216,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:28.271Z",
     "scrapedAt": "2026-07-03T10:52:27.172Z",
-    "url": "https://wagey.gg/jobs/c4f5bb28f529911f-senior-gcp-process-auditor-at-precision-for-medicine?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "10d67f217a204071",
     "title": "Senior Project Manager ",
-    "company": "Cognite - AI for Industry",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273605,15 +273249,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-03T10:52:32.553Z",
     "scrapedAt": "2026-07-03T10:52:30.218Z",
-    "url": "https://wagey.gg/jobs/10d67f217a204071-senior-project-manager-at-cognite-ai-for-industry?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "263469269a0341dd",
     "title": "Senior Analytics Engineer / Tech Lead ",
-    "company": "fundingcircle",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273633,15 +273277,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:32.091Z",
     "scrapedAt": "2026-07-03T10:52:30.603Z",
-    "url": "https://wagey.gg/jobs/263469269a0341dd-senior-analytics-engineer-tech-lead-at-fundingcircle?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "fafe479cc1925ae5",
     "title": "Senior Email Marketing Manager",
-    "company": "ruby-labs",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273656,15 +273300,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:31.986Z",
     "scrapedAt": "2026-07-03T10:52:30.658Z",
-    "url": "https://wagey.gg/jobs/fafe479cc1925ae5-senior-email-marketing-manager-at-ruby-labs?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "8bb81b8bfd5fbf03",
     "title": "Creative Designer",
-    "company": "ruby-labs",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273679,15 +273323,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:31.714Z",
     "scrapedAt": "2026-07-03T10:52:30.683Z",
-    "url": "https://wagey.gg/jobs/8bb81b8bfd5fbf03-creative-designer-at-ruby-labs?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "cd4fdc7bb8d9e3fb",
     "title": "Performance Marketing Lead",
-    "company": "zilch",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273702,15 +273346,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:31.943Z",
     "scrapedAt": "2026-07-03T10:52:31.112Z",
-    "url": "https://wagey.gg/jobs/cd4fdc7bb8d9e3fb-performance-marketing-lead-at-zilch?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "bcedad1ce67b28a9",
     "title": "Workplace Technology Lead - London",
-    "company": "legora",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273724,15 +273368,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:32.089Z",
     "scrapedAt": "2026-07-03T10:52:31.196Z",
-    "url": "https://wagey.gg/jobs/bcedad1ce67b28a9-workplace-technology-lead-london-at-legora?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "b316d0154e4dedc5",
     "title": "Partnerships Growth Manager",
-    "company": "loveholidays",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273749,15 +273393,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:32.871Z",
     "scrapedAt": "2026-07-03T10:52:31.713Z",
-    "url": "https://wagey.gg/jobs/b316d0154e4dedc5-partnerships-growth-manager-at-loveholidays?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "c45c56e8f9399f8d",
     "title": "Senior Producer",
-    "company": "stellarentertainment",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273768,15 +273412,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:32.991Z",
     "scrapedAt": "2026-07-03T10:52:32.397Z",
-    "url": "https://wagey.gg/jobs/c45c56e8f9399f8d-senior-producer-at-stellarentertainment?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "cae0e28efca0d117",
     "title": "Senior Agent Product Manager",
-    "company": "gradient-labs",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273787,15 +273431,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:33.333Z",
     "scrapedAt": "2026-07-03T10:52:32.515Z",
-    "url": "https://wagey.gg/jobs/cae0e28efca0d117-senior-agent-product-manager-at-gradient-labs?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "fee1351c790160bd",
     "title": "Customer Solutions Engineer",
-    "company": "enode",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273805,15 +273449,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:33.288Z",
     "scrapedAt": "2026-07-03T10:52:32.560Z",
-    "url": "https://wagey.gg/jobs/fee1351c790160bd-customer-solutions-engineer-at-enode?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "74a7fea07b2745fc",
     "title": "Associate Technical Director",
-    "company": "stellarentertainment",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273825,15 +273469,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:33.538Z",
     "scrapedAt": "2026-07-03T10:52:32.760Z",
-    "url": "https://wagey.gg/jobs/74a7fea07b2745fc-associate-technical-director-at-stellarentertainment?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "285c928f82bca347",
     "title": "UX/UI Designer - Remote Europe",
-    "company": "reedsy",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273846,15 +273490,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:33.799Z",
     "scrapedAt": "2026-07-03T10:52:33.334Z",
-    "url": "https://wagey.gg/jobs/285c928f82bca347-ux-ui-designer-remote-europe-at-reedsy?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "002e6a8692632d4f",
     "title": "Transaction Reporting Analyst",
-    "company": "trading212",
+    "company": null,
     "region": "EMEA",
-    "salary": "",
+    "salary": null,
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -273869,8 +273513,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-03T10:52:33.878Z",
     "scrapedAt": "2026-07-03T10:52:33.374Z",
-    "url": "https://wagey.gg/jobs/002e6a8692632d4f-transaction-reporting-analyst-at-trading212?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "565bb994a5dc4e45",
@@ -275728,9 +275372,9 @@
   {
     "id": "fad98ed420170fb7",
     "title": "Senior Data Analyst at Clearer",
-    "company": null,
+    "company": "Clearer",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -275748,8 +275392,8 @@
     "ats": "lever",
     "verifiedAt": "2026-07-04T12:03:02.303Z",
     "scrapedAt": "2026-07-04T12:03:01.224Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fad98ed420170fb7-senior-data-analyst-at-clearer-at-clearer?ref=github",
+    "visibility": "full"
   },
   {
     "id": "940a6aa1ce325235",
@@ -275970,11 +275614,11 @@
   {
     "id": "66e969352f3afe8f",
     "title": " German Speaking Sr. Client Success Manager - Enterprise",
-    "company": "Addepar",
+    "company": null,
     "region": "EMEA",
-    "salary": "$19k/year",
-    "salaryMin": 18720,
-    "salaryMax": 18720,
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
     "skills": [
       "DACH",
       "Revenue Growth",
@@ -275987,8 +275631,8 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-04T22:08:48.922Z",
     "scrapedAt": "2026-07-04T22:08:48.210Z",
-    "url": "https://wagey.gg/jobs/66e969352f3afe8f-german-speaking-sr-client-success-manager-enterprise-at-addepar?ref=github",
-    "visibility": "full"
+    "url": null,
+    "visibility": "teaser"
   },
   {
     "id": "047e5cc54e092fae",
@@ -276005,5 +275649,1592 @@
     "scrapedAt": "2026-07-05T07:44:20.443Z",
     "url": null,
     "visibility": "teaser"
+  },
+  {
+    "id": "4207a3014c59db0b",
+    "title": "Full Stack Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Full Stack"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T12:33:00.370Z",
+    "scrapedAt": "2026-07-05T12:32:59.707Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "460c27bbdf86d9fc",
+    "title": "Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Kotlin",
+      "Java",
+      "Micronaut",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Spring",
+      "Go"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-05T12:33:24.983Z",
+    "scrapedAt": "2026-07-05T12:33:24.346Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a11c365c9c81fcdd",
+    "title": "Product Manager, Core Experience",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting",
+      "Close"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T12:34:24.576Z",
+    "scrapedAt": "2026-07-05T12:34:23.867Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "0ae41272c69f707f",
+    "title": "Agent Harness Engineer (On-site)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Harness",
+      "Close",
+      "React"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T12:34:40.245Z",
+    "scrapedAt": "2026-07-05T12:34:39.814Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ab730c43d417a797",
+    "title": "Android Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Kotlin",
+      "REST",
+      "Jetpack Compose"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T12:34:50.804Z",
+    "scrapedAt": "2026-07-05T12:34:50.157Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3879669e7e84ff25",
+    "title": "Value Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Documentation",
+      "Python",
+      "Kubernetes",
+      "Terraform",
+      "SQL",
+      "Storytelling",
+      "Enterprise Sales",
+      "Procurement",
+      "Risk Management",
+      "Close"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T12:35:16.672Z",
+    "scrapedAt": "2026-07-05T12:35:15.853Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "bc4565026d7324eb",
+    "title": "AI Deployment Strategist, Science - EMEA",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Customer Success",
+      "Cross-functional Collaboration"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-07-05T14:07:42.966Z",
+    "scrapedAt": "2026-07-05T14:07:42.529Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "1018dbdb41510072",
+    "title": "Software Engineer, Networking",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Claude",
+      "Cursor",
+      "Python",
+      "Go"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T17:20:14.833Z",
+    "scrapedAt": "2026-07-05T17:20:14.021Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "adb3d0b986438feb",
+    "title": "Network Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Claude",
+      "Cursor",
+      "Python",
+      "Go"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T17:20:19.820Z",
+    "scrapedAt": "2026-07-05T17:20:19.003Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "140ae9d2b8a99493",
+    "title": "Network Automation Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Claude",
+      "Cursor",
+      "Python",
+      "Go"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-05T17:20:20.159Z",
+    "scrapedAt": "2026-07-05T17:20:19.595Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "4f2a0b16a6020373",
+    "title": "Full Stack Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Full Stack",
+      "Team Leadership",
+      "JavaScript",
+      "TypeScript",
+      "C#",
+      "Go",
+      "Customer Engagement"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T06:08:41.280Z",
+    "scrapedAt": "2026-07-06T06:08:40.465Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "44bab537fcc0a0db",
+    "title": "Legal Counsel, Europe",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T06:08:41.226Z",
+    "scrapedAt": "2026-07-06T06:08:40.855Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "2e2c9551176562e9",
+    "title": "Senior Software Engineer (Remote, Full-Time) [AS275]",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      ".NET",
+      "C#",
+      "SQL Server",
+      "SQL",
+      "Azure",
+      "Delphi"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T06:08:41.927Z",
+    "scrapedAt": "2026-07-06T06:08:40.900Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "0a493b0700a78ea6",
+    "title": "Senior GCP Process Auditor",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "GCP"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T06:08:48.560Z",
+    "scrapedAt": "2026-07-06T06:08:47.880Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3b5936370f7ace08",
+    "title": "Senior AI Product Builder - Talent Pool",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Java",
+      "REST",
+      "Spring",
+      "React",
+      "SQL",
+      "TypeScript",
+      "Unit",
+      "Redux",
+      "Dart",
+      "Full Stack",
+      "Wrike",
+      "Cursor",
+      "Claude"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T06:08:58.912Z",
+    "scrapedAt": "2026-07-06T06:08:56.897Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "63df7dcc00e7c439",
+    "title": "Business Development Representative (German Speaking)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Business Development",
+      "B2B",
+      "Outreach",
+      "Salesforce",
+      "Prospecting"
+    ],
+    "seniority": "junior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T06:08:58.498Z",
+    "scrapedAt": "2026-07-06T06:08:57.307Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "165fc0b375deb7f1",
+    "title": "VP, Partnerships & Alliances",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Partnership Development",
+      "Business Development",
+      "Enterprise Sales",
+      "Close"
+    ],
+    "seniority": "vp",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T06:08:58.957Z",
+    "scrapedAt": "2026-07-06T06:08:58.005Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "52cd54b44901d54b",
+    "title": "Senior DevSecOps Engineer ",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Bash",
+      "Python",
+      "Bitbucket",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Claude",
+      "Grafana",
+      "Reporting",
+      "Mentoring",
+      "Jira",
+      "Governance",
+      "Documentation",
+      "AWS"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T06:09:12.095Z",
+    "scrapedAt": "2026-07-06T06:09:10.678Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e71a6dc2a1236ced",
+    "title": "Manager, Customer Success Managers, EMEA",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Customer Success",
+      "Team Management",
+      "Coaching",
+      "Goal Setting",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Talent Acquisition"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": null,
+    "scrapedAt": "2026-07-06T09:24:49.748Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "d9685dc03a51fd57",
+    "title": "Customer Success Manager, Ad Sales",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Excel",
+      "Customer Success",
+      "Team Management",
+      "Reporting",
+      "Cross-functional Collaboration",
+      "Close",
+      "Storytelling"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T09:24:56.391Z",
+    "scrapedAt": "2026-07-06T09:24:54.029Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ba9df5aa556f90a5",
+    "title": "People Advisor",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Learning & Development",
+      "Base"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T09:24:56.789Z",
+    "scrapedAt": "2026-07-06T09:24:55.269Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "975cd694ba880968",
+    "title": "Software Engineering Team Lead",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Java",
+      "Python",
+      "Prospecting",
+      "AWS",
+      "Kafka",
+      "Docker",
+      "Kubernetes"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T09:24:56.895Z",
+    "scrapedAt": "2026-07-06T09:24:55.273Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f624a060626707f7",
+    "title": "Clinical Vendor Partner",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Performance Management",
+      "Learning & Development",
+      "Vendor Management",
+      "Google Sheets",
+      "SQL",
+      "Zendesk",
+      "Metabase",
+      "Slack",
+      "Governance",
+      "Reporting"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T09:24:57.435Z",
+    "scrapedAt": "2026-07-06T09:24:55.465Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5708cd269aef4a54",
+    "title": "Fullstack Software Engineer (x/f/m) - Care Expert Copilot",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "React",
+      "Flask",
+      "Python",
+      "PostgreSQL"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T09:24:59.220Z",
+    "scrapedAt": "2026-07-06T09:24:58.037Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "88e2d4dd0df81be1",
+    "title": "Marketing Manager, Brand (Fixed Term Contract)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Brand Management",
+      "Campaign Management",
+      "Contract Management",
+      "KPI Tracking",
+      "Reporting",
+      "Stakeholder Management",
+      "CRM Management",
+      "Timeline Management"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T09:25:01.312Z",
+    "scrapedAt": "2026-07-06T09:24:58.615Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "eec6a28be5949c81",
+    "title": "Agentic Customer Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting",
+      "Account Management",
+      "Customer Training",
+      "Customer Success",
+      "Close"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T09:25:02.357Z",
+    "scrapedAt": "2026-07-06T09:25:00.412Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "9185007485a09b4c",
+    "title": "Product Marketing Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "Prospecting",
+      "Reporting",
+      "Sales Enablement",
+      "Google Slides",
+      "Claude",
+      "HubSpot",
+      "Gong",
+      "Intercom",
+      "Figma",
+      "Portuguese",
+      "Customer Success",
+      "Coaching",
+      "Objection Handling",
+      "Go-to-market Strategy",
+      "Competitive Analysis"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T09:25:03.615Z",
+    "scrapedAt": "2026-07-06T09:25:00.446Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e404745bebbc3df1",
+    "title": "Payments Liquidity Lead",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Claude",
+      "Slack",
+      "Reporting",
+      "Polygon",
+      "Governance"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T09:25:04.263Z",
+    "scrapedAt": "2026-07-06T09:25:01.473Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ea3c9cafd68d0364",
+    "title": "Software Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Elixir",
+      "Python",
+      "TypeScript",
+      "Full Stack"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T09:25:04.966Z",
+    "scrapedAt": "2026-07-06T09:25:03.234Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "33737f61074fc917",
+    "title": "Head of Sales UK",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "ACV",
+      "Reporting",
+      "Procurement",
+      "Documentation",
+      "Governance",
+      "Clinical Documentation",
+      "Mentoring",
+      "Data Governance",
+      "Stakeholder Management",
+      "Revenue Growth",
+      "Tauri"
+    ],
+    "seniority": "director",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T09:25:05.854Z",
+    "scrapedAt": "2026-07-06T09:25:03.300Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f9fb685b7df69276",
+    "title": "Data Scientist",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "MLflow",
+      "Documentation",
+      "Product Marketing",
+      "Reporting",
+      "Python",
+      "dbt",
+      "Weights & Biases",
+      "Redshift",
+      "SQL",
+      "Airflow",
+      "Confluence"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:37:48.001Z",
+    "scrapedAt": "2026-07-06T12:37:46.294Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a22af36ab41e9a5e",
+    "title": "Forward Deployed AI Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Decision Making",
+      "Revenue Growth"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:37:46.999Z",
+    "scrapedAt": "2026-07-06T12:37:46.374Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f702a8751199bd64",
+    "title": "Midweight Creative Designer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Storytelling"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:37:48.268Z",
+    "scrapedAt": "2026-07-06T12:37:46.919Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "4ab86b50ff8ec78a",
+    "title": "Account Executive, AWS & DoiT Cloud Intelligence - UK",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "AWS",
+      "Prospecting",
+      "Product Marketing",
+      "Sales Forecasting",
+      "Salesforce"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:49.084Z",
+    "scrapedAt": "2026-07-06T12:37:47.835Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "c3bc151fc30ac951",
+    "title": "Team Lead - Account management",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Leadership",
+      "Account Management",
+      "Coaching",
+      "Product Marketing",
+      "Training Development",
+      "Reporting",
+      "E-commerce",
+      "Arabic"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:51.820Z",
+    "scrapedAt": "2026-07-06T12:37:49.786Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "d7295a7ea3e69d20",
+    "title": "ISMS and Risk Officer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Governance",
+      "Risk Management",
+      "Technical Writing",
+      "Documentation",
+      "Coaching",
+      "Records Management",
+      "Vendor Management",
+      "Supplier Management",
+      "Reporting",
+      "Policy Management",
+      "Procurement",
+      "Due Diligence"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:53.117Z",
+    "scrapedAt": "2026-07-06T12:37:50.527Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "c48f5a84cb94544c",
+    "title": "Junior Compliance Officer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Due Diligence",
+      "Cross-functional Collaboration",
+      "Risk Management",
+      "Documentation",
+      "Process Improvement"
+    ],
+    "seniority": "junior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:52.065Z",
+    "scrapedAt": "2026-07-06T12:37:50.639Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3500cebebdbd6625",
+    "title": "Principal Transformation Consultant (f/m/d)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Enterprise Sales",
+      "Business Development",
+      "AWS",
+      "Stakeholder Management",
+      "Jira",
+      "SAFe",
+      "Customer Success",
+      "Confluence",
+      "PMP",
+      "ITIL",
+      "Cross-selling",
+      "Upselling",
+      "Risk Management"
+    ],
+    "seniority": "principal",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:37:53.205Z",
+    "scrapedAt": "2026-07-06T12:37:51.227Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ffe06a433b25e22d",
+    "title": "Immigration Consultant, EMEA",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Case Management",
+      "Microsoft Office",
+      "Stakeholder Management",
+      "Envoy"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:55.189Z",
+    "scrapedAt": "2026-07-06T12:37:54.039Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a113b1ca41ea9f3a",
+    "title": "International Talent Program",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Account Management"
+    ],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:55.743Z",
+    "scrapedAt": "2026-07-06T12:37:54.745Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a1d7910e42515835",
+    "title": "Developer Relations Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "B2B",
+      "Technical Writing",
+      "Lens",
+      "Ashby"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:56.235Z",
+    "scrapedAt": "2026-07-06T12:37:55.234Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ff31d84ef834e31b",
+    "title": "(Senior) Product Line Manager ESN",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "Records Management",
+      "Market Research",
+      "Financial Analysis"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:37:56.318Z",
+    "scrapedAt": "2026-07-06T12:37:55.480Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "c8d1a2b89c93d033",
+    "title": "Enterprise Account Executive, Benelux",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Prospecting",
+      "Cold Calling",
+      "Lead Generation",
+      "Sales Strategy"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:57.863Z",
+    "scrapedAt": "2026-07-06T12:37:56.925Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "c9c6ae6f43f212a8",
+    "title": "Senior Project Manager (Delivery)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Ruby",
+      "Backlog Management"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:58.168Z",
+    "scrapedAt": "2026-07-06T12:37:56.969Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "35fb7e6e6cd2d83c",
+    "title": "Data Scientist – Computational Genomics, 12-month FTC",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Documentation"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:58.249Z",
+    "scrapedAt": "2026-07-06T12:37:57.009Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "7e186fbacfc17933",
+    "title": "People Operations Specialist",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Documentation",
+      "Google Sheets",
+      "Data Analysis",
+      "Gemini",
+      "Claude",
+      "Notion"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:58.309Z",
+    "scrapedAt": "2026-07-06T12:37:57.252Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e48a7f508f579a18",
+    "title": "Capital Markets Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Prospecting",
+      "Reporting"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:58.685Z",
+    "scrapedAt": "2026-07-06T12:37:57.624Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "6377a46bcd48ecf7",
+    "title": "Senior Solution Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Arabic",
+      "Account Management",
+      "Go",
+      "Close"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:58.726Z",
+    "scrapedAt": "2026-07-06T12:37:57.673Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "bafedf5a3e7672c3",
+    "title": "General Ledger Analyst ",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "SAP",
+      "Accounts Receivable",
+      "Accounts Payable",
+      "Process Optimization"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:59.072Z",
+    "scrapedAt": "2026-07-06T12:37:58.210Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "0738b9b8d4cfdf26",
+    "title": "Senior Analyst, Business Partnership (Risk Ops)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Checkout.com"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:58.851Z",
+    "scrapedAt": "2026-07-06T12:37:58.249Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5fa42f8169905299",
+    "title": "Customer success manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Customer Success"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:59.791Z",
+    "scrapedAt": "2026-07-06T12:37:58.480Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "25a3afe938438ec3",
+    "title": "Lead Workforce Planner, EU & UK",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Workforce Planning",
+      "Excel",
+      "Tableau",
+      "SQL",
+      "Mentoring"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:37:59.833Z",
+    "scrapedAt": "2026-07-06T12:37:58.650Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "64848568e0d7f52e",
+    "title": "Fraud Operations Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Team Leadership",
+      "E-commerce",
+      "SQL",
+      "Coaching",
+      "Looker",
+      "Tableau",
+      "Governance",
+      "Documentation",
+      "Workforce Planning",
+      "Process Optimization"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:01.025Z",
+    "scrapedAt": "2026-07-06T12:37:59.667Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "897450dbd0aa69b3",
+    "title": "M&A Opportunity Sourcer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Procurement",
+      "CRM Management",
+      "Move",
+      "Outreach"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:01.018Z",
+    "scrapedAt": "2026-07-06T12:37:59.667Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a7caafedf62453ce",
+    "title": "Sr. Marketing Specialist - EMEA",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Budget Management",
+      "Market Research",
+      "Event Planning",
+      "Reporting",
+      "Microsoft Office",
+      "Zoom",
+      "Asana",
+      "B2B",
+      "Invoice Processing",
+      "Procurement",
+      "Stakeholder Management"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:02.091Z",
+    "scrapedAt": "2026-07-06T12:37:59.709Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "cc8d217bf403a3f6",
+    "title": "SecOps Engineer",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Splunk",
+      "Reporting",
+      "Documentation",
+      "E-commerce"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:01.026Z",
+    "scrapedAt": "2026-07-06T12:37:59.749Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "d90253f1630cdf64",
+    "title": "Partnerships Manager (North East)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "B2B",
+      "CRM Management",
+      "Records Management",
+      "Account Management",
+      "Reporting"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:01.025Z",
+    "scrapedAt": "2026-07-06T12:37:59.998Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "76fecae7c81d1a01",
+    "title": "Associate Account Executive - Hybrid",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Learning & Development",
+      "Business Development",
+      "Salesforce"
+    ],
+    "seniority": "junior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:01.799Z",
+    "scrapedAt": "2026-07-06T12:38:00.043Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a928059c8d7c14f1",
+    "title": "UK Account Manager (Ex-construction)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Account Management",
+      "Customer Success"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:03.148Z",
+    "scrapedAt": "2026-07-06T12:38:01.836Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "dc36773ed77eda07",
+    "title": "Senior Acquisition Manager ",
+    "company": "katana",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Prospecting",
+      "Content Creation",
+      "Product Marketing",
+      "CPM",
+      "CTR",
+      "Close",
+      "GA4",
+      "hypothesis",
+      "Lever",
+      "Segment",
+      "B2B",
+      "Reporting",
+      "SQL",
+      "Content Strategy"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:04.489Z",
+    "scrapedAt": "2026-07-06T12:38:03.058Z",
+    "url": "https://wagey.gg/jobs/dc36773ed77eda07-senior-acquisition-manager-at-katana?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "1fd428d0376e3894",
+    "title": "Country Lead UK (Greentech) (m/f/d)",
+    "company": "reonic",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "B2B",
+      "Customer Success",
+      "Account Management"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:38:03.901Z",
+    "scrapedAt": "2026-07-06T12:38:03.384Z",
+    "url": "https://wagey.gg/jobs/1fd428d0376e3894-country-lead-uk-greentech-m-f-d-at-reonic?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "2f48e0bf3ab5cbcb",
+    "title": "DevOps Engineer",
+    "company": "Kyivstar",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Go",
+      "Python",
+      "Groovy",
+      "Team Management",
+      "Ansible",
+      "AWS",
+      "Terraform",
+      "Jenkins",
+      "Prometheus",
+      "Loki",
+      "ELK",
+      "Linux",
+      "Grafana",
+      "Kubernetes",
+      "Rancher"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:43:57.330Z",
+    "scrapedAt": "2026-07-06T12:43:56.226Z",
+    "url": "https://wagey.gg/jobs/2f48e0bf3ab5cbcb-devops-engineer-at-kyivstar?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "909bbf4c327fdef5",
+    "title": "High Net Worth Fundraising Manager",
+    "company": "Educate!",
+    "region": "EMEA",
+    "salary": "$624k/year",
+    "salaryMin": 624000,
+    "salaryMax": 624000,
+    "skills": [
+      "Prospecting",
+      "CRM Management",
+      "Fundraising"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-07-06T12:46:13.986Z",
+    "scrapedAt": "2026-07-06T12:46:13.557Z",
+    "url": "https://wagey.gg/jobs/909bbf4c327fdef5-high-net-worth-fundraising-manager-at-educate?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "10219045afaa3cc2",
+    "title": "Accountant (m/w/d)",
+    "company": "Doonails",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:47:25.519Z",
+    "scrapedAt": "2026-07-06T12:47:25.024Z",
+    "url": "https://wagey.gg/jobs/10219045afaa3cc2-accountant-m-w-d-at-doonails?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "e50cdbff99b668c3",
+    "title": "Senior Platform Engineer",
+    "company": "Allica Bank",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Azure",
+      "Performance Management",
+      "Terraform",
+      "Linux"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:47:44.844Z",
+    "scrapedAt": "2026-07-06T12:47:44.126Z",
+    "url": "https://wagey.gg/jobs/e50cdbff99b668c3-senior-platform-engineer-at-allica-bank?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "0f848f977255a160",
+    "title": "Sales Operations Manager",
+    "company": "Cambly",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "B2B",
+      "SQL",
+      "Coaching",
+      "Reporting",
+      "Prospecting"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:48:16.223Z",
+    "scrapedAt": "2026-07-06T12:48:15.625Z",
+    "url": "https://wagey.gg/jobs/0f848f977255a160-sales-operations-manager-at-cambly?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "9f5fc4ab14374330",
+    "title": "Product Manager",
+    "company": "Kitman Labs",
+    "region": "EMEA",
+    "salary": "$104k/year",
+    "salaryMin": 104000,
+    "salaryMax": 104000,
+    "skills": [
+      "Coaching"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:48:27.202Z",
+    "scrapedAt": "2026-07-06T12:48:26.887Z",
+    "url": "https://wagey.gg/jobs/9f5fc4ab14374330-product-manager-at-kitman-labs?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "f8b53664f1009303",
+    "title": "Client Delivery Lead (f/m/d)",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-07-06T12:48:42.639Z",
+    "scrapedAt": "2026-07-06T12:48:42.104Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8b0fcee3a075f301",
+    "title": "Senior Fullstack Engineer",
+    "company": "Midnite",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Python",
+      "Tailwind",
+      "JavaScript",
+      "Angular",
+      "React"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:49:59.718Z",
+    "scrapedAt": "2026-07-06T12:49:59.160Z",
+    "url": "https://wagey.gg/jobs/8b0fcee3a075f301-senior-fullstack-engineer-at-midnite?ref=github",
+    "visibility": "full"
+  },
+  {
+    "id": "8889f35a627bc3d1",
+    "title": "Functional Consultant & Project Manager",
+    "company": null,
+    "region": "EMEA",
+    "salary": null,
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:50:41.243Z",
+    "scrapedAt": "2026-07-06T12:50:40.714Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "6c89c076d723af8a",
+    "title": "Field Applications Engineer",
+    "company": "Swarmer",
+    "region": "EMEA",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Technical Writing",
+      "Documentation",
+      "Procurement",
+      "Drone",
+      "Linux"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-07-06T12:50:56.154Z",
+    "scrapedAt": "2026-07-06T12:50:55.572Z",
+    "url": "https://wagey.gg/jobs/6c89c076d723af8a-field-applications-engineer-at-swarmer?ref=github",
+    "visibility": "full"
   }
 ]
