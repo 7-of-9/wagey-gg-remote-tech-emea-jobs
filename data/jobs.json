@@ -173605,9 +173605,9 @@
   {
     "id": "fad98ed420170fb7",
     "title": "Clearer.io - Senior Data Analyst",
-    "company": null,
+    "company": "Clearer",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -173621,15 +173621,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-08T09:16:30.981Z",
     "scrapedAt": "2026-07-04T12:03:01.224Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/fad98ed420170fb7-clearer-io-senior-data-analyst-at-clearer?ref=github",
+    "visibility": "full"
   },
   {
     "id": "940a6aa1ce325235",
     "title": "Clearer.io - Junior Product Manager",
-    "company": null,
+    "company": "Clearer",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -173641,17 +173641,17 @@
     "ats": "lever",
     "verifiedAt": "2026-07-08T09:16:31.025Z",
     "scrapedAt": "2026-07-04T12:03:15.253Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/940a6aa1ce325235-clearer-io-junior-product-manager-at-clearer?ref=github",
+    "visibility": "full"
   },
   {
     "id": "c4e11d07b5a7ff1b",
     "title": "Airalo - Backend/PHP Engineer",
-    "company": null,
+    "company": "Airalo",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$154k/year",
+    "salaryMin": 153920,
+    "salaryMax": 153920,
     "skills": [
       "PHP",
       "Laravel",
@@ -173663,15 +173663,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-08T09:16:31.196Z",
     "scrapedAt": "2026-07-04T12:12:32.104Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/c4e11d07b5a7ff1b-airalo-backend-php-engineer-at-airalo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f9ed8114658e6c46",
     "title": "Staff Software Engineer",
-    "company": null,
+    "company": "Armis Security",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -173692,17 +173692,17 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-08T09:11:08.625Z",
     "scrapedAt": "2026-07-04T12:15:12.879Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f9ed8114658e6c46-staff-software-engineer-at-armis-security?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cfbb85aee19954c1",
     "title": "Caseware - Software Developer in Test (Dutch speaking)",
-    "company": null,
+    "company": "Caseware",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$33k/year",
+    "salaryMin": 33280,
+    "salaryMax": 33280,
     "skills": [
       "Coaching",
       "Jira",
@@ -173714,15 +173714,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-08T09:16:31.242Z",
     "scrapedAt": "2026-07-04T12:15:29.299Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cfbb85aee19954c1-caseware-software-developer-in-test-dutch-speaking-at-caseware?ref=github",
+    "visibility": "full"
   },
   {
     "id": "821d956df6d65fa6",
     "title": "Sr. Data Engineer (AI Platform",
-    "company": null,
+    "company": "Craft Machine Inc",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -173748,15 +173748,15 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-08T09:11:08.835Z",
     "scrapedAt": "2026-07-04T12:17:18.658Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/821d956df6d65fa6-sr-data-engineer-ai-platform-at-craft-machine-inc?ref=github",
+    "visibility": "full"
   },
   {
     "id": "abfe34d2e4285556",
     "title": "People Governance and Compliance Manager (m/f/d)",
-    "company": null,
+    "company": "Raisin",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -173770,15 +173770,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-08T09:11:08.901Z",
     "scrapedAt": "2026-07-04T12:17:35.438Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/abfe34d2e4285556-people-governance-and-compliance-manager-m-f-d-at-raisin?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ef65772f2c993862",
     "title": "Research Scientist, Foundational Data Science",
-    "company": null,
+    "company": "Prior Labs",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -173788,17 +173788,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-08T09:11:09.015Z",
     "scrapedAt": "2026-07-04T12:17:39.718Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ef65772f2c993862-research-scientist-foundational-data-science-at-prior-labs?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1ca450b818e2d483",
     "title": "Airalo - Frontend Engineer",
-    "company": null,
+    "company": "Airalo",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$154k/year",
+    "salaryMin": 153920,
+    "salaryMax": 153920,
     "skills": [
       "Deel",
       "SEO",
@@ -173810,15 +173810,15 @@
     "ats": "lever",
     "verifiedAt": "2026-07-08T09:16:31.795Z",
     "scrapedAt": "2026-07-04T12:21:04.834Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/1ca450b818e2d483-airalo-frontend-engineer-at-airalo?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4e009290058285ed",
     "title": "Entrepreneur in Residence (EIR)",
-    "company": null,
+    "company": "The-Flex",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
@@ -173829,17 +173829,17 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-08T09:11:09.340Z",
     "scrapedAt": "2026-07-04T12:33:16.962Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4e009290058285ed-entrepreneur-in-residence-eir-at-the-flex?ref=github",
+    "visibility": "full"
   },
   {
     "id": "66e969352f3afe8f",
     "title": " German Speaking Sr. Client Success Manager - Enterprise",
-    "company": null,
+    "company": "Addepar",
     "region": "EMEA",
-    "salary": null,
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$19k/year",
+    "salaryMin": 18720,
+    "salaryMax": 18720,
     "skills": [
       "DACH",
       "Revenue Growth",
@@ -173852,15 +173852,15 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-07-08T09:11:09.622Z",
     "scrapedAt": "2026-07-04T22:08:48.210Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/66e969352f3afe8f-german-speaking-sr-client-success-manager-enterprise-at-addepar?ref=github",
+    "visibility": "full"
   },
   {
     "id": "047e5cc54e092fae",
     "title": "Product Owner - Finance Super App (UK)",
-    "company": null,
+    "company": "bjakcareer",
     "region": "EMEA",
-    "salary": null,
+    "salary": "",
     "salaryMin": null,
     "salaryMax": null,
     "skills": [],
@@ -173868,8 +173868,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-07-08T09:11:09.752Z",
     "scrapedAt": "2026-07-05T07:44:20.443Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/047e5cc54e092fae-product-owner-finance-super-app-uk-at-bjakcareer?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4207a3014c59db0b",
